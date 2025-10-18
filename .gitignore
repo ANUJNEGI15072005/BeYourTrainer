@@ -1,31 +1,57 @@
-# Node & React (frontend)
-node_modules/
-dist/
-.env
-.DS_Store
+# =========================
+# ⚛️ Frontend (React + Vite)
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
 
-# Python (backend)
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-venv/
-.venv/
+# =========================
+# 🐍 Backend (FastAPI + Python)
+# =========================
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.env
+backend/venv/
+backend/.venv/
+backend/datasets/__pycache__/
 
-# VS Code and system files
+# =========================
+# 💻 Common IDE & System Files
+# =========================
 .vscode/
 .idea/
 *.log
+.DS_Store
 Thumbs.db
 
-# Build and cache
+# =========================
+# ⚙️ Build & Cache
+# =========================
 *.cache/
 *.egg-info/
+__pycache__/
 
-# Optional: If you ever add large ML model files
+# =========================
+# 🧠 ML / Model Artifacts (optional)
+# =========================
 *.h5
 *.pkl
 *.joblib
 *.pt
 *.pth
+*.sav
+
+# =========================
+# 🔒 Environment & Credentials
+# =========================
+.env
+*.env
+
+# =========================
+# 🧰 OS-specific files
+# =========================
+ehthumbs.db
+Icon?

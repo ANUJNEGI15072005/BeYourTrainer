@@ -1,0 +1,31 @@
+# Node & React (frontend)
+node_modules/
+dist/
+.env
+.DS_Store
+
+# Python (backend)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# VS Code and system files
+.vscode/
+.idea/
+*.log
+Thumbs.db
+
+# Build and cache
+*.cache/
+*.egg-info/
+
+# Optional: If you ever add large ML model files
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth

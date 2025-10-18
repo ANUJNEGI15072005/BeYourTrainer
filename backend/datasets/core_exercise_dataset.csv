@@ -1,0 +1,4001 @@
+BMI,Gender,Age,Fitness_Level,Goal,Exercise
+24.5,Female,18,Advanced,Fat Loss,Running (Treadmill)
+22.7,Male,59,Intermediate,Fat Loss,Dumbbell Lunges
+32.3,Female,45,Advanced,Strength,Deadlift
+20.9,Female,35,Intermediate,Strength,Bench Press
+18.0,Female,48,Advanced,Endurance,Air Squats
+27.5,Male,35,Advanced,Fat Loss,Jumping Jacks
+27.8,Male,55,Beginner,Endurance,Running (Outdoor)
+20.2,Male,34,Intermediate,Endurance,Recumbent Bike
+34.1,Male,34,Beginner,Endurance,Running (Outdoor)
+31.0,Female,32,Intermediate,Strength,Lat Pulldown
+24.9,Female,58,Intermediate,Strength,Dumbbell Rows
+21.7,Male,55,Beginner,Endurance,Wall Sit
+31.7,Male,37,Beginner,Strength,Barbell Squat
+20.7,Male,19,Intermediate,Fat Loss,Dumbbell Lunges
+29.1,Female,47,Advanced,Fat Loss,Jump Rope
+20.8,Male,21,Beginner,Fat Loss,Jumping Jacks
+21.9,Female,58,Intermediate,Flexibility,Forward Fold
+24.2,Female,25,Intermediate,Endurance,Plank
+27.6,Male,58,Advanced,Endurance,Recumbent Bike
+32.3,Female,45,Advanced,Strength,Lat Pulldown
+30.5,Female,25,Intermediate,Fat Loss,Jump Rope
+22.3,Male,46,Advanced,Fat Loss,Burpees
+23.5,Male,18,Beginner,Endurance,Battle Ropes
+22.5,Female,38,Advanced,Strength,T-Bar Row
+27.8,Male,55,Beginner,Endurance,Recumbent Bike
+29.5,Female,27,Intermediate,Flexibility,Forward Fold
+16.6,Female,58,Advanced,Endurance,Cycling (Outdoor)
+31.5,Male,22,Beginner,Endurance,Recumbent Bike
+29.9,Female,45,Beginner,Flexibility,Shoulder Pass-Throughs
+16.4,Female,34,Beginner,Strength,Dumbbell Rows
+17.1,Male,23,Advanced,Endurance,Cycling (Outdoor)
+25.2,Female,39,Beginner,Endurance,Plank
+26.1,Female,38,Intermediate,Strength,Machine Leg Extension
+16.8,Female,59,Intermediate,Fat Loss,Step Ups
+22.3,Female,60,Beginner,Strength,Overhead Press
+16.6,Male,58,Beginner,Endurance,Push Ups
+26.0,Female,47,Intermediate,Strength,Deadlift
+28.6,Female,36,Advanced,Flexibility,Spiderman Stretch
+29.7,Male,33,Beginner,Endurance,Air Squats
+18.6,Male,27,Beginner,Strength,Leg Press
+19.4,Female,36,Advanced,Flexibility,Child's Pose
+32.2,Male,55,Advanced,Flexibility,Forward Fold
+32.3,Female,52,Beginner,Flexibility,Forward Fold
+31.0,Male,46,Intermediate,Flexibility,Spiderman Stretch
+33.6,Male,53,Beginner,Fat Loss,Jump Rope
+32.3,Male,60,Advanced,Strength,Machine Chest Fly
+28.8,Male,50,Intermediate,Endurance,Battle Ropes
+23.7,Female,20,Intermediate,Fat Loss,Kettlebell Swing
+17.9,Female,35,Advanced,Flexibility,Spiderman Stretch
+29.2,Female,30,Beginner,Fat Loss,Running (Treadmill)
+31.8,Female,22,Intermediate,Endurance,Kettlebell Clean & Press
+18.3,Male,54,Intermediate,Strength,Barbell Squat
+25.6,Male,51,Beginner,Strength,Pull Ups
+32.4,Male,54,Advanced,Flexibility,Shoulder Pass-Throughs
+22.7,Male,36,Advanced,Flexibility,Hamstring Stretch (Standing)
+25.6,Male,25,Intermediate,Endurance,Battle Ropes
+19.6,Male,52,Intermediate,Endurance,Plank
+22.3,Male,32,Beginner,Strength,Lat Pulldown
+25.6,Male,25,Intermediate,Endurance,Running (Outdoor)
+21.8,Female,24,Beginner,Endurance,Air Squats
+34.0,Female,51,Intermediate,Fat Loss,Step Ups
+30.2,Female,46,Advanced,Endurance,Recumbent Bike
+33.0,Female,24,Beginner,Fat Loss,Goblet Squat
+32.6,Male,24,Beginner,Fat Loss,Dumbbell Lunges
+21.6,Male,25,Intermediate,Strength,Leg Press
+15.9,Male,19,Intermediate,Flexibility,Child's Pose
+33.1,Female,46,Intermediate,Strength,Machine Leg Extension
+17.5,Female,23,Intermediate,Flexibility,Pigeon Pose
+17.9,Female,54,Intermediate,Endurance,Kettlebell Clean & Press
+25.9,Female,55,Beginner,Flexibility,Shoulder Pass-Throughs
+23.0,Female,60,Advanced,Flexibility,Pigeon Pose
+34.5,Female,23,Advanced,Strength,Bench Press
+18.8,Male,33,Beginner,Strength,Overhead Press
+28.4,Male,45,Advanced,Flexibility,Shoulder Pass-Throughs
+26.1,Male,46,Advanced,Flexibility,Cat-Cow Stretch
+16.3,Female,47,Beginner,Strength,Machine Chest Fly
+27.4,Female,56,Advanced,Endurance,Running (Outdoor)
+32.8,Female,25,Intermediate,Strength,T-Bar Row
+18.0,Female,52,Intermediate,Strength,Pull Ups
+17.1,Male,60,Beginner,Fat Loss,Jumping Jacks
+23.8,Female,59,Intermediate,Fat Loss,Jump Rope
+31.0,Female,57,Beginner,Endurance,Kettlebell Clean & Press
+24.5,Female,54,Advanced,Strength,Barbell Squat
+19.4,Female,27,Beginner,Endurance,Kettlebell Clean & Press
+16.0,Female,48,Advanced,Flexibility,Child's Pose
+20.2,Female,19,Advanced,Fat Loss,Dumbbell Lunges
+31.5,Male,22,Beginner,Endurance,Plank
+33.7,Male,45,Advanced,Flexibility,Child's Pose
+21.6,Male,25,Intermediate,Strength,Overhead Press
+25.6,Male,51,Beginner,Strength,Dumbbell Rows
+22.5,Male,31,Advanced,Strength,Pull Ups
+19.4,Male,34,Advanced,Strength,Leg Press
+18.9,Male,46,Intermediate,Flexibility,Child's Pose
+16.8,Male,23,Advanced,Strength,Dumbbell Rows
+16.8,Male,23,Advanced,Strength,Overhead Press
+27.1,Female,47,Intermediate,Strength,Lat Pulldown
+20.5,Male,59,Intermediate,Endurance,Wall Sit
+26.1,Female,20,Advanced,Flexibility,Child's Pose
+34.6,Male,38,Intermediate,Flexibility,Pigeon Pose
+23.8,Male,48,Intermediate,Flexibility,Cat-Cow Stretch
+15.7,Female,18,Intermediate,Flexibility,Forward Fold
+30.1,Male,19,Intermediate,Flexibility,Spiderman Stretch
+22.7,Male,59,Intermediate,Fat Loss,Dumbbell Lunges
+27.1,Female,33,Beginner,Flexibility,Hamstring Stretch (Standing)
+24.5,Female,18,Advanced,Fat Loss,Running (Treadmill)
+19.2,Male,47,Beginner,Endurance,Wall Sit
+18.3,Female,55,Beginner,Fat Loss,Dumbbell Lunges
+31.4,Male,19,Advanced,Endurance,Battle Ropes
+30.7,Female,57,Beginner,Fat Loss,Jump Rope
+26.3,Male,25,Beginner,Strength,Bench Press
+24.1,Male,21,Advanced,Endurance,Battle Ropes
+24.0,Male,36,Intermediate,Strength,Deadlift
+27.3,Male,51,Beginner,Endurance,Plank
+22.0,Male,57,Beginner,Endurance,Air Squats
+32.7,Male,24,Beginner,Flexibility,Forward Fold
+17.8,Male,23,Intermediate,Fat Loss,Jumping Jacks
+29.3,Female,55,Beginner,Endurance,Battle Ropes
+16.8,Male,22,Advanced,Flexibility,Hamstring Stretch (Standing)
+19.7,Male,18,Advanced,Flexibility,Forward Fold
+28.7,Female,21,Beginner,Strength,Dumbbell Rows
+18.0,Female,21,Advanced,Endurance,Wall Sit
+28.0,Female,56,Intermediate,Flexibility,Deep Squat Hold
+20.6,Male,37,Beginner,Strength,Pull Ups
+16.1,Female,57,Advanced,Flexibility,Pigeon Pose
+20.6,Male,57,Intermediate,Fat Loss,Kettlebell Swing
+28.0,Female,56,Intermediate,Flexibility,Pigeon Pose
+18.3,Male,54,Intermediate,Strength,Deadlift
+17.9,Female,35,Advanced,Flexibility,Pigeon Pose
+25.2,Female,39,Beginner,Endurance,Plank
+16.6,Female,35,Advanced,Strength,Leg Press
+18.5,Female,23,Beginner,Strength,T-Bar Row
+22.5,Female,38,Advanced,Strength,Lat Pulldown
+24.0,Male,36,Intermediate,Strength,Barbell Squat
+16.5,Male,49,Beginner,Endurance,Wall Sit
+25.8,Male,32,Beginner,Flexibility,Deep Squat Hold
+31.1,Female,49,Advanced,Flexibility,Hamstring Stretch (Standing)
+22.3,Male,22,Beginner,Fat Loss,Mountain Climbers
+27.1,Female,20,Advanced,Endurance,Air Squats
+20.7,Male,20,Beginner,Flexibility,Shoulder Pass-Throughs
+31.0,Male,58,Beginner,Fat Loss,Burpees
+16.4,Female,34,Beginner,Strength,Overhead Press
+20.1,Female,57,Advanced,Strength,Machine Chest Fly
+19.6,Male,52,Intermediate,Endurance,Air Squats
+25.3,Male,22,Intermediate,Strength,T-Bar Row
+19.6,Female,59,Advanced,Strength,Deadlift
+28.2,Male,45,Beginner,Flexibility,Spiderman Stretch
+20.6,Male,37,Beginner,Strength,Machine Chest Fly
+23.1,Female,38,Advanced,Strength,Machine Leg Extension
+34.2,Male,27,Advanced,Flexibility,Child's Pose
+19.4,Female,27,Beginner,Endurance,Push Ups
+25.2,Female,32,Advanced,Fat Loss,Jumping Jacks
+34.3,Male,59,Beginner,Fat Loss,Running (Treadmill)
+25.6,Male,52,Intermediate,Endurance,Recumbent Bike
+30.3,Male,59,Beginner,Flexibility,Spiderman Stretch
+18.3,Male,54,Intermediate,Strength,Lat Pulldown
+34.1,Female,46,Intermediate,Endurance,Kettlebell Clean & Press
+33.4,Male,60,Intermediate,Strength,Deadlift
+34.8,Male,35,Beginner,Strength,Bench Press
+23.5,Female,27,Advanced,Endurance,Air Squats
+16.6,Male,58,Beginner,Endurance,Plank
+24.9,Male,45,Beginner,Flexibility,Shoulder Pass-Throughs
+32.6,Male,24,Beginner,Fat Loss,Elliptical Trainer
+30.4,Male,22,Intermediate,Fat Loss,Jumping Jacks
+27.4,Male,26,Beginner,Strength,Machine Chest Fly
+27.4,Male,26,Beginner,Strength,Machine Chest Fly
+32.3,Male,30,Intermediate,Fat Loss,Burpees
+29.1,Male,22,Intermediate,Flexibility,Forward Fold
+31.0,Female,32,Intermediate,Strength,Machine Leg Extension
+32.0,Male,30,Beginner,Flexibility,Hamstring Stretch (Standing)
+29.2,Female,26,Beginner,Endurance,Battle Ropes
+22.3,Female,53,Advanced,Strength,Machine Leg Extension
+20.9,Female,27,Intermediate,Fat Loss,Jumping Jacks
+28.3,Female,31,Intermediate,Endurance,Running (Outdoor)
+21.5,Male,34,Intermediate,Flexibility,Shoulder Pass-Throughs
+24.0,Male,36,Intermediate,Strength,Deadlift
+18.6,Male,56,Intermediate,Flexibility,Cat-Cow Stretch
+23.1,Female,38,Advanced,Strength,Leg Press
+21.7,Male,60,Advanced,Strength,Machine Chest Fly
+20.6,Female,30,Advanced,Strength,Deadlift
+27.5,Female,20,Advanced,Fat Loss,Dumbbell Lunges
+16.7,Female,20,Intermediate,Endurance,Running (Outdoor)
+31.8,Female,22,Intermediate,Endurance,Kettlebell Clean & Press
+23.3,Female,51,Beginner,Fat Loss,Burpees
+16.1,Female,57,Advanced,Flexibility,Pigeon Pose
+16.6,Male,51,Intermediate,Endurance,Cycling (Outdoor)
+27.1,Female,20,Advanced,Endurance,Recumbent Bike
+26.0,Male,58,Intermediate,Flexibility,Cat-Cow Stretch
+31.8,Female,47,Beginner,Flexibility,Child's Pose
+28.0,Female,56,Intermediate,Flexibility,Pigeon Pose
+29.1,Female,26,Advanced,Strength,Lat Pulldown
+25.2,Female,32,Advanced,Fat Loss,Jumping Jacks
+33.2,Male,36,Beginner,Fat Loss,Kettlebell Swing
+19.9,Male,22,Intermediate,Strength,Leg Press
+21.1,Female,18,Beginner,Endurance,Recumbent Bike
+15.7,Female,18,Intermediate,Flexibility,Hamstring Stretch (Standing)
+19.4,Female,47,Advanced,Fat Loss,Step Ups
+33.5,Female,50,Intermediate,Strength,Bench Press
+27.1,Female,33,Beginner,Flexibility,Child's Pose
+27.5,Female,36,Intermediate,Flexibility,Hamstring Stretch (Standing)
+29.7,Male,33,Beginner,Endurance,Plank
+25.7,Male,30,Intermediate,Flexibility,Spiderman Stretch
+34.7,Male,24,Beginner,Flexibility,Deep Squat Hold
+20.6,Female,30,Advanced,Strength,Dumbbell Rows
+23.7,Female,20,Intermediate,Fat Loss,Running (Treadmill)
+16.9,Male,27,Advanced,Strength,Bench Press
+30.3,Male,59,Beginner,Flexibility,Spiderman Stretch
+22.3,Female,36,Beginner,Fat Loss,Dumbbell Lunges
+32.6,Female,52,Intermediate,Flexibility,Forward Fold
+26.1,Male,46,Advanced,Flexibility,Pigeon Pose
+23.1,Female,38,Advanced,Strength,Barbell Squat
+21.4,Female,55,Beginner,Flexibility,Shoulder Pass-Throughs
+23.4,Female,46,Intermediate,Endurance,Kettlebell Clean & Press
+18.9,Male,35,Advanced,Endurance,Battle Ropes
+34.7,Male,59,Intermediate,Strength,Dumbbell Rows
+29.1,Female,26,Advanced,Strength,Barbell Squat
+22.1,Male,58,Advanced,Fat Loss,Step Ups
+28.2,Male,45,Beginner,Flexibility,Child's Pose
+29.5,Female,27,Intermediate,Flexibility,Pigeon Pose
+19.9,Male,22,Intermediate,Strength,Dumbbell Rows
+20.1,Female,53,Beginner,Strength,Barbell Squat
+34.0,Male,56,Intermediate,Endurance,Air Squats
+23.0,Male,54,Beginner,Strength,Overhead Press
+33.1,Female,46,Intermediate,Strength,Bench Press
+32.4,Male,60,Intermediate,Strength,T-Bar Row
+30.8,Female,27,Beginner,Flexibility,Pigeon Pose
+16.8,Female,23,Intermediate,Fat Loss,Goblet Squat
+32.1,Male,58,Advanced,Endurance,Battle Ropes
+17.7,Male,53,Intermediate,Fat Loss,Step Ups
+32.1,Female,50,Advanced,Fat Loss,Dumbbell Lunges
+23.3,Female,36,Intermediate,Fat Loss,Jump Rope
+19.6,Female,59,Advanced,Strength,Barbell Squat
+32.3,Male,60,Advanced,Strength,Barbell Squat
+29.5,Male,49,Advanced,Flexibility,Cat-Cow Stretch
+32.3,Male,54,Beginner,Strength,T-Bar Row
+26.0,Male,58,Intermediate,Flexibility,Hamstring Stretch (Standing)
+23.4,Male,19,Advanced,Flexibility,Deep Squat Hold
+25.3,Female,32,Beginner,Strength,Pull Ups
+30.4,Male,22,Intermediate,Fat Loss,Jumping Jacks
+32.7,Male,58,Beginner,Fat Loss,Dumbbell Lunges
+16.3,Female,60,Beginner,Flexibility,Shoulder Pass-Throughs
+25.3,Female,32,Beginner,Strength,Barbell Squat
+25.6,Male,52,Intermediate,Endurance,Cycling (Outdoor)
+23.7,Female,55,Intermediate,Strength,Lat Pulldown
+29.4,Female,53,Beginner,Endurance,Cycling (Outdoor)
+25.3,Male,22,Intermediate,Strength,Leg Press
+24.2,Female,35,Advanced,Endurance,Recumbent Bike
+23.8,Male,48,Intermediate,Flexibility,Spiderman Stretch
+29.1,Male,22,Intermediate,Flexibility,Cat-Cow Stretch
+29.4,Female,50,Beginner,Fat Loss,Step Ups
+27.7,Female,57,Advanced,Flexibility,Hamstring Stretch (Standing)
+18.2,Male,34,Intermediate,Endurance,Air Squats
+30.2,Female,47,Intermediate,Endurance,Push Ups
+26.7,Female,39,Intermediate,Flexibility,Spiderman Stretch
+28.7,Male,58,Advanced,Endurance,Cycling (Outdoor)
+23.7,Female,20,Intermediate,Fat Loss,Running (Treadmill)
+21.9,Female,22,Beginner,Flexibility,Child's Pose
+24.9,Female,58,Intermediate,Strength,Bench Press
+16.7,Female,25,Advanced,Flexibility,Child's Pose
+17.9,Female,55,Advanced,Flexibility,Child's Pose
+22.3,Male,32,Beginner,Strength,Leg Press
+23.9,Male,34,Advanced,Strength,Machine Chest Fly
+26.0,Female,47,Intermediate,Strength,Machine Chest Fly
+22.6,Male,33,Beginner,Flexibility,Hamstring Stretch (Standing)
+27.1,Male,55,Advanced,Endurance,Battle Ropes
+23.3,Female,51,Beginner,Fat Loss,Step Ups
+29.5,Male,49,Advanced,Flexibility,Cat-Cow Stretch
+17.2,Female,58,Advanced,Endurance,Battle Ropes
+19.6,Male,52,Intermediate,Endurance,Air Squats
+24.6,Male,22,Intermediate,Endurance,Running (Outdoor)
+18.5,Male,54,Intermediate,Strength,Overhead Press
+19.2,Male,30,Intermediate,Flexibility,Deep Squat Hold
+22.6,Male,33,Beginner,Flexibility,Deep Squat Hold
+27.5,Female,36,Intermediate,Flexibility,Shoulder Pass-Throughs
+31.5,Male,22,Beginner,Endurance,Running (Outdoor)
+31.0,Female,34,Beginner,Endurance,Running (Outdoor)
+24.7,Male,56,Intermediate,Endurance,Air Squats
+29.2,Female,26,Beginner,Endurance,Cycling (Outdoor)
+15.7,Male,31,Intermediate,Endurance,Kettlebell Clean & Press
+30.9,Female,35,Intermediate,Strength,Barbell Squat
+32.3,Female,52,Beginner,Flexibility,Shoulder Pass-Throughs
+20.9,Female,27,Intermediate,Fat Loss,Running (Treadmill)
+19.9,Male,36,Intermediate,Strength,Dumbbell Rows
+17.1,Female,33,Advanced,Strength,T-Bar Row
+26.6,Male,56,Advanced,Fat Loss,Goblet Squat
+27.8,Male,46,Beginner,Fat Loss,Jump Rope
+35.0,Male,31,Advanced,Flexibility,Forward Fold
+31.6,Female,56,Beginner,Flexibility,Deep Squat Hold
+18.5,Female,33,Beginner,Endurance,Wall Sit
+19.9,Male,22,Intermediate,Strength,Bench Press
+34.1,Male,34,Beginner,Endurance,Battle Ropes
+16.9,Male,27,Advanced,Strength,Deadlift
+22.7,Female,34,Beginner,Endurance,Push Ups
+26.6,Male,56,Advanced,Fat Loss,Goblet Squat
+32.3,Male,30,Intermediate,Fat Loss,Jump Rope
+25.6,Male,25,Intermediate,Endurance,Battle Ropes
+17.1,Male,23,Advanced,Endurance,Plank
+18.9,Male,35,Advanced,Endurance,Push Ups
+19.9,Male,22,Intermediate,Strength,Dumbbell Rows
+23.9,Male,34,Advanced,Strength,Machine Chest Fly
+24.2,Female,25,Intermediate,Endurance,Battle Ropes
+26.3,Male,31,Beginner,Endurance,Cycling (Outdoor)
+29.7,Male,34,Advanced,Fat Loss,Jumping Jacks
+22.5,Female,59,Advanced,Strength,Pull Ups
+21.8,Female,24,Beginner,Endurance,Kettlebell Clean & Press
+32.2,Male,55,Advanced,Flexibility,Cat-Cow Stretch
+25.6,Male,25,Intermediate,Endurance,Cycling (Outdoor)
+18.9,Male,30,Intermediate,Strength,Deadlift
+29.2,Female,30,Beginner,Fat Loss,Running (Treadmill)
+18.0,Female,48,Advanced,Endurance,Recumbent Bike
+30.3,Male,59,Beginner,Flexibility,Pigeon Pose
+24.1,Male,21,Advanced,Endurance,Battle Ropes
+29.4,Male,59,Advanced,Flexibility,Forward Fold
+34.6,Male,38,Intermediate,Flexibility,Pigeon Pose
+26.5,Female,25,Advanced,Flexibility,Cat-Cow Stretch
+33.6,Male,38,Advanced,Flexibility,Cat-Cow Stretch
+32.7,Female,51,Intermediate,Endurance,Push Ups
+33.5,Male,32,Advanced,Strength,Dumbbell Rows
+21.8,Female,24,Beginner,Endurance,Push Ups
+23.6,Female,21,Advanced,Flexibility,Spiderman Stretch
+18.3,Female,46,Beginner,Fat Loss,Jumping Jacks
+30.9,Male,24,Beginner,Endurance,Kettlebell Clean & Press
+29.1,Male,22,Intermediate,Flexibility,Cat-Cow Stretch
+29.1,Female,47,Advanced,Fat Loss,Step Ups
+21.9,Female,58,Intermediate,Flexibility,Forward Fold
+16.7,Female,20,Intermediate,Endurance,Recumbent Bike
+15.9,Male,53,Beginner,Flexibility,Deep Squat Hold
+32.1,Female,50,Advanced,Fat Loss,Step Ups
+31.3,Female,52,Beginner,Endurance,Battle Ropes
+33.4,Male,60,Intermediate,Strength,Machine Chest Fly
+28.8,Male,50,Intermediate,Endurance,Battle Ropes
+20.1,Female,57,Advanced,Strength,Barbell Squat
+15.1,Female,55,Beginner,Fat Loss,Dumbbell Lunges
+29.4,Male,49,Intermediate,Strength,Machine Chest Fly
+15.6,Female,54,Beginner,Strength,Machine Chest Fly
+26.5,Female,59,Intermediate,Fat Loss,Elliptical Trainer
+33.5,Male,32,Advanced,Strength,Machine Chest Fly
+26.0,Female,55,Beginner,Strength,Barbell Squat
+28.4,Female,59,Intermediate,Strength,Dumbbell Rows
+33.1,Female,59,Advanced,Fat Loss,Running (Treadmill)
+16.1,Female,57,Advanced,Flexibility,Forward Fold
+15.6,Female,54,Beginner,Strength,Barbell Squat
+33.5,Male,32,Advanced,Strength,Machine Chest Fly
+30.9,Male,24,Beginner,Endurance,Plank
+15.3,Male,26,Advanced,Endurance,Kettlebell Clean & Press
+31.0,Male,46,Intermediate,Flexibility,Spiderman Stretch
+25.3,Male,22,Intermediate,Strength,T-Bar Row
+20.2,Female,19,Advanced,Fat Loss,Dumbbell Lunges
+19.7,Male,18,Advanced,Flexibility,Forward Fold
+27.0,Female,23,Advanced,Endurance,Running (Outdoor)
+15.2,Female,30,Beginner,Strength,Overhead Press
+27.1,Female,20,Advanced,Endurance,Running (Outdoor)
+28.1,Male,56,Intermediate,Fat Loss,Jumping Jacks
+16.8,Female,59,Intermediate,Fat Loss,Step Ups
+33.5,Male,48,Beginner,Strength,Dumbbell Rows
+34.7,Male,24,Beginner,Flexibility,Shoulder Pass-Throughs
+26.0,Female,47,Intermediate,Strength,Deadlift
+21.1,Female,18,Beginner,Endurance,Recumbent Bike
+34.7,Male,24,Beginner,Flexibility,Shoulder Pass-Throughs
+30.1,Male,48,Intermediate,Fat Loss,Burpees
+30.1,Male,48,Intermediate,Fat Loss,Burpees
+32.6,Male,24,Beginner,Fat Loss,Elliptical Trainer
+34.3,Male,59,Beginner,Fat Loss,Jump Rope
+24.5,Female,18,Advanced,Fat Loss,Jump Rope
+19.2,Male,30,Intermediate,Flexibility,Pigeon Pose
+27.3,Male,23,Intermediate,Strength,Barbell Squat
+20.9,Female,35,Intermediate,Strength,Dumbbell Rows
+17.0,Male,53,Intermediate,Endurance,Air Squats
+19.6,Male,52,Intermediate,Endurance,Push Ups
+31.4,Male,19,Advanced,Endurance,Battle Ropes
+15.5,Male,46,Intermediate,Strength,Leg Press
+30.9,Male,24,Beginner,Endurance,Battle Ropes
+22.1,Male,38,Intermediate,Fat Loss,Goblet Squat
+17.9,Female,45,Beginner,Endurance,Push Ups
+21.9,Female,57,Beginner,Flexibility,Forward Fold
+20.5,Male,31,Beginner,Fat Loss,Dumbbell Lunges
+32.1,Female,50,Advanced,Fat Loss,Goblet Squat
+30.9,Male,24,Beginner,Endurance,Recumbent Bike
+30.1,Male,48,Intermediate,Fat Loss,Burpees
+22.5,Male,31,Advanced,Strength,Machine Leg Extension
+33.5,Male,48,Beginner,Strength,Leg Press
+21.5,Female,57,Intermediate,Flexibility,Child's Pose
+26.1,Female,20,Advanced,Flexibility,Hamstring Stretch (Standing)
+16.5,Male,49,Beginner,Endurance,Recumbent Bike
+22.9,Male,59,Advanced,Fat Loss,Dumbbell Lunges
+32.2,Female,21,Intermediate,Strength,Lat Pulldown
+28.8,Male,50,Intermediate,Endurance,Push Ups
+17.1,Female,33,Advanced,Strength,Dumbbell Rows
+17.2,Female,38,Advanced,Endurance,Air Squats
+22.6,Male,33,Beginner,Flexibility,Cat-Cow Stretch
+26.0,Male,55,Beginner,Strength,Lat Pulldown
+25.8,Male,51,Intermediate,Flexibility,Hamstring Stretch (Standing)
+22.9,Male,30,Intermediate,Fat Loss,Burpees
+24.9,Female,45,Beginner,Flexibility,Cat-Cow Stretch
+33.6,Male,53,Beginner,Fat Loss,Elliptical Trainer
+30.9,Male,24,Beginner,Endurance,Kettlebell Clean & Press
+21.9,Female,22,Beginner,Flexibility,Pigeon Pose
+34.3,Male,59,Beginner,Fat Loss,Running (Treadmill)
+16.3,Female,60,Beginner,Flexibility,Hamstring Stretch (Standing)
+21.8,Male,37,Advanced,Strength,Machine Chest Fly
+16.3,Female,47,Beginner,Strength,Barbell Squat
+23.5,Male,18,Beginner,Endurance,Push Ups
+30.9,Female,57,Intermediate,Endurance,Wall Sit
+19.6,Female,59,Advanced,Strength,Deadlift
+34.3,Female,36,Beginner,Endurance,Running (Outdoor)
+32.2,Female,21,Intermediate,Strength,Lat Pulldown
+22.5,Female,59,Advanced,Strength,T-Bar Row
+34.1,Female,46,Intermediate,Endurance,Battle Ropes
+21.9,Female,22,Beginner,Flexibility,Pigeon Pose
+29.1,Male,22,Intermediate,Flexibility,Child's Pose
+32.6,Male,24,Beginner,Fat Loss,Kettlebell Swing
+29.7,Male,33,Beginner,Endurance,Kettlebell Clean & Press
+34.8,Female,38,Beginner,Flexibility,Hamstring Stretch (Standing)
+20.4,Female,32,Beginner,Strength,Pull Ups
+32.4,Male,50,Advanced,Endurance,Plank
+22.5,Male,31,Advanced,Strength,Lat Pulldown
+28.1,Female,49,Intermediate,Fat Loss,Mountain Climbers
+28.7,Female,21,Beginner,Strength,Deadlift
+32.3,Female,52,Beginner,Flexibility,Spiderman Stretch
+18.9,Female,60,Advanced,Flexibility,Hamstring Stretch (Standing)
+22.1,Male,58,Advanced,Fat Loss,Dumbbell Lunges
+19.7,Female,30,Intermediate,Flexibility,Shoulder Pass-Throughs
+25.1,Female,35,Advanced,Fat Loss,Mountain Climbers
+25.3,Female,19,Intermediate,Flexibility,Pigeon Pose
+20.2,Female,23,Advanced,Strength,Lat Pulldown
+24.9,Female,47,Beginner,Endurance,Kettlebell Clean & Press
+30.7,Female,57,Beginner,Fat Loss,Mountain Climbers
+29.6,Male,22,Intermediate,Endurance,Plank
+29.4,Female,50,Beginner,Fat Loss,Goblet Squat
+20.1,Male,53,Advanced,Endurance,Air Squats
+20.9,Female,35,Intermediate,Strength,Barbell Squat
+24.5,Female,18,Advanced,Fat Loss,Kettlebell Swing
+29.4,Male,59,Advanced,Flexibility,Forward Fold
+20.6,Male,37,Beginner,Strength,Barbell Squat
+18.3,Male,54,Intermediate,Strength,Deadlift
+18.6,Male,27,Beginner,Strength,Leg Press
+25.2,Female,39,Beginner,Endurance,Battle Ropes
+33.8,Male,36,Advanced,Fat Loss,Jumping Jacks
+17.9,Female,45,Beginner,Endurance,Air Squats
+34.0,Male,32,Intermediate,Strength,Pull Ups
+27.8,Male,55,Beginner,Endurance,Wall Sit
+32.3,Female,45,Advanced,Strength,Lat Pulldown
+26.6,Male,56,Advanced,Fat Loss,Jump Rope
+17.9,Female,45,Beginner,Endurance,Cycling (Outdoor)
+20.7,Female,46,Advanced,Fat Loss,Step Ups
+33.1,Female,59,Advanced,Fat Loss,Running (Treadmill)
+30.2,Female,55,Advanced,Strength,Lat Pulldown
+33.5,Female,50,Intermediate,Strength,Dumbbell Rows
+22.7,Female,21,Advanced,Fat Loss,Jump Rope
+21.4,Female,55,Beginner,Flexibility,Cat-Cow Stretch
+20.5,Male,59,Intermediate,Endurance,Recumbent Bike
+19.7,Female,30,Intermediate,Flexibility,Hamstring Stretch (Standing)
+28.3,Female,31,Intermediate,Endurance,Kettlebell Clean & Press
+23.3,Female,36,Intermediate,Fat Loss,Step Ups
+23.8,Female,59,Intermediate,Fat Loss,Burpees
+24.9,Male,53,Advanced,Strength,Deadlift
+29.3,Female,55,Beginner,Endurance,Wall Sit
+25.6,Male,51,Beginner,Strength,Dumbbell Rows
+23.0,Male,55,Advanced,Fat Loss,Dumbbell Lunges
+34.6,Female,50,Intermediate,Flexibility,Hamstring Stretch (Standing)
+17.9,Female,35,Advanced,Flexibility,Child's Pose
+31.0,Male,46,Intermediate,Flexibility,Forward Fold
+20.9,Male,24,Intermediate,Strength,Overhead Press
+30.2,Female,55,Beginner,Strength,Machine Chest Fly
+26.5,Female,59,Intermediate,Fat Loss,Running (Treadmill)
+25.3,Male,22,Intermediate,Strength,Barbell Squat
+32.3,Male,54,Beginner,Strength,T-Bar Row
+19.7,Female,30,Intermediate,Flexibility,Pigeon Pose
+16.4,Female,34,Beginner,Strength,T-Bar Row
+22.6,Male,39,Advanced,Fat Loss,Kettlebell Swing
+26.7,Female,39,Intermediate,Flexibility,Cat-Cow Stretch
+26.5,Female,25,Advanced,Flexibility,Cat-Cow Stretch
+24.4,Male,25,Advanced,Strength,Machine Leg Extension
+18.8,Male,33,Beginner,Strength,Deadlift
+18.3,Female,46,Beginner,Fat Loss,Elliptical Trainer
+33.6,Male,38,Advanced,Flexibility,Child's Pose
+34.3,Male,59,Beginner,Fat Loss,Burpees
+23.3,Male,20,Intermediate,Endurance,Wall Sit
+23.8,Male,55,Advanced,Flexibility,Shoulder Pass-Throughs
+16.3,Female,60,Beginner,Flexibility,Hamstring Stretch (Standing)
+22.2,Male,59,Beginner,Flexibility,Hamstring Stretch (Standing)
+25.2,Female,32,Advanced,Fat Loss,Jumping Jacks
+20.5,Male,31,Beginner,Fat Loss,Running (Treadmill)
+25.2,Female,39,Beginner,Endurance,Recumbent Bike
+24.9,Female,47,Beginner,Endurance,Plank
+32.7,Male,58,Beginner,Fat Loss,Goblet Squat
+28.5,Male,58,Beginner,Endurance,Wall Sit
+23.4,Female,46,Intermediate,Endurance,Push Ups
+29.7,Male,33,Beginner,Endurance,Wall Sit
+28.3,Female,31,Intermediate,Endurance,Cycling (Outdoor)
+30.2,Female,47,Intermediate,Endurance,Kettlebell Clean & Press
+26.7,Female,39,Intermediate,Flexibility,Deep Squat Hold
+26.5,Female,59,Intermediate,Fat Loss,Running (Treadmill)
+21.9,Female,57,Beginner,Flexibility,Forward Fold
+25.7,Male,30,Intermediate,Flexibility,Spiderman Stretch
+16.7,Female,20,Intermediate,Endurance,Plank
+27.5,Male,35,Advanced,Fat Loss,Dumbbell Lunges
+27.1,Female,20,Advanced,Endurance,Plank
+16.8,Female,59,Intermediate,Fat Loss,Elliptical Trainer
+24.4,Female,47,Advanced,Strength,T-Bar Row
+17.9,Male,58,Advanced,Strength,Dumbbell Rows
+24.4,Female,47,Advanced,Strength,T-Bar Row
+17.9,Male,58,Advanced,Strength,Dumbbell Rows
+23.4,Male,19,Advanced,Flexibility,Deep Squat Hold
+26.7,Female,39,Intermediate,Flexibility,Spiderman Stretch
+26.0,Male,58,Intermediate,Flexibility,Cat-Cow Stretch
+30.2,Female,55,Advanced,Strength,Lat Pulldown
+32.2,Male,55,Advanced,Flexibility,Child's Pose
+33.1,Male,19,Advanced,Flexibility,Deep Squat Hold
+29.6,Male,58,Beginner,Strength,Barbell Squat
+18.9,Male,30,Intermediate,Strength,Lat Pulldown
+31.5,Male,27,Intermediate,Endurance,Air Squats
+28.0,Female,56,Intermediate,Flexibility,Hamstring Stretch (Standing)
+26.5,Female,25,Advanced,Flexibility,Child's Pose
+25.7,Male,55,Intermediate,Endurance,Air Squats
+22.7,Female,34,Beginner,Endurance,Kettlebell Clean & Press
+22.9,Male,30,Intermediate,Fat Loss,Step Ups
+31.2,Female,25,Beginner,Strength,Pull Ups
+24.2,Female,35,Advanced,Endurance,Kettlebell Clean & Press
+24.5,Female,18,Advanced,Fat Loss,Mountain Climbers
+18.8,Male,33,Beginner,Strength,Deadlift
+24.4,Male,25,Advanced,Strength,Deadlift
+32.4,Male,50,Advanced,Endurance,Wall Sit
+24.6,Female,56,Beginner,Fat Loss,Jumping Jacks
+28.5,Male,58,Beginner,Endurance,Air Squats
+19.0,Female,27,Intermediate,Flexibility,Forward Fold
+17.9,Female,45,Beginner,Endurance,Wall Sit
+22.3,Female,60,Beginner,Strength,Barbell Squat
+26.6,Male,56,Advanced,Fat Loss,Jumping Jacks
+19.6,Male,52,Intermediate,Endurance,Plank
+34.0,Female,33,Beginner,Fat Loss,Mountain Climbers
+18.6,Male,27,Beginner,Strength,T-Bar Row
+31.5,Female,24,Beginner,Flexibility,Cat-Cow Stretch
+17.9,Female,35,Advanced,Flexibility,Hamstring Stretch (Standing)
+27.6,Male,58,Advanced,Endurance,Wall Sit
+17.0,Male,53,Intermediate,Endurance,Push Ups
+17.8,Female,31,Intermediate,Strength,Machine Leg Extension
+17.3,Female,54,Beginner,Fat Loss,Elliptical Trainer
+33.1,Male,19,Advanced,Flexibility,Pigeon Pose
+23.5,Male,18,Beginner,Endurance,Push Ups
+24.1,Male,21,Advanced,Endurance,Battle Ropes
+20.7,Male,45,Advanced,Endurance,Battle Ropes
+22.5,Male,31,Advanced,Strength,Machine Leg Extension
+30.1,Male,19,Intermediate,Flexibility,Shoulder Pass-Throughs
+31.1,Male,52,Advanced,Strength,Deadlift
+22.6,Male,33,Beginner,Flexibility,Spiderman Stretch
+21.7,Male,55,Beginner,Endurance,Battle Ropes
+30.8,Female,27,Beginner,Flexibility,Cat-Cow Stretch
+27.4,Female,56,Advanced,Endurance,Plank
+28.1,Male,56,Intermediate,Fat Loss,Jumping Jacks
+31.2,Male,36,Intermediate,Fat Loss,Dumbbell Lunges
+23.5,Male,18,Beginner,Endurance,Push Ups
+19.9,Male,22,Intermediate,Strength,Dumbbell Rows
+30.2,Female,55,Beginner,Strength,Lat Pulldown
+30.1,Male,48,Intermediate,Fat Loss,Jumping Jacks
+30.3,Female,60,Advanced,Fat Loss,Elliptical Trainer
+34.3,Female,36,Beginner,Endurance,Push Ups
+16.8,Female,59,Intermediate,Fat Loss,Dumbbell Lunges
+17.1,Female,33,Advanced,Strength,T-Bar Row
+31.2,Male,36,Intermediate,Fat Loss,Jump Rope
+29.5,Female,27,Intermediate,Flexibility,Pigeon Pose
+17.0,Male,51,Intermediate,Strength,Leg Press
+22.1,Male,58,Advanced,Fat Loss,Running (Treadmill)
+34.0,Male,53,Advanced,Strength,Overhead Press
+23.8,Male,48,Intermediate,Flexibility,Hamstring Stretch (Standing)
+27.4,Female,56,Advanced,Endurance,Plank
+28.8,Female,19,Beginner,Fat Loss,Jump Rope
+27.2,Male,53,Beginner,Endurance,Wall Sit
+17.8,Male,60,Advanced,Flexibility,Child's Pose
+26.2,Male,26,Beginner,Flexibility,Deep Squat Hold
+33.6,Male,53,Beginner,Fat Loss,Jump Rope
+16.6,Female,58,Advanced,Endurance,Wall Sit
+22.1,Male,58,Advanced,Fat Loss,Burpees
+28.8,Male,50,Intermediate,Endurance,Battle Ropes
+16.1,Male,57,Intermediate,Endurance,Kettlebell Clean & Press
+21.6,Male,25,Intermediate,Strength,Overhead Press
+22.7,Male,36,Advanced,Flexibility,Pigeon Pose
+22.6,Male,33,Beginner,Flexibility,Spiderman Stretch
+34.0,Male,50,Beginner,Fat Loss,Kettlebell Swing
+17.4,Male,39,Intermediate,Strength,T-Bar Row
+17.5,Female,23,Intermediate,Flexibility,Cat-Cow Stretch
+23.5,Male,18,Beginner,Endurance,Air Squats
+25.7,Male,30,Intermediate,Flexibility,Forward Fold
+16.5,Female,46,Advanced,Flexibility,Hamstring Stretch (Standing)
+30.8,Female,27,Beginner,Flexibility,Cat-Cow Stretch
+24.6,Male,47,Intermediate,Flexibility,Child's Pose
+17.5,Female,21,Advanced,Strength,Lat Pulldown
+32.0,Male,30,Beginner,Flexibility,Deep Squat Hold
+20.7,Male,20,Beginner,Flexibility,Spiderman Stretch
+16.6,Male,51,Intermediate,Endurance,Push Ups
+24.1,Male,21,Advanced,Endurance,Battle Ropes
+16.1,Male,57,Intermediate,Endurance,Battle Ropes
+20.1,Male,53,Advanced,Endurance,Battle Ropes
+31.5,Female,52,Intermediate,Fat Loss,Goblet Squat
+28.7,Female,21,Beginner,Strength,Barbell Squat
+23.0,Female,60,Advanced,Flexibility,Pigeon Pose
+28.7,Female,21,Beginner,Strength,Machine Leg Extension
+18.2,Male,34,Intermediate,Endurance,Cycling (Outdoor)
+17.5,Female,21,Advanced,Strength,Lat Pulldown
+31.3,Female,52,Beginner,Endurance,Plank
+15.2,Female,23,Intermediate,Endurance,Kettlebell Clean & Press
+25.1,Female,35,Advanced,Fat Loss,Dumbbell Lunges
+22.0,Male,57,Beginner,Endurance,Running (Outdoor)
+25.6,Male,51,Beginner,Strength,Dumbbell Rows
+33.6,Male,38,Advanced,Flexibility,Spiderman Stretch
+22.2,Male,60,Intermediate,Strength,Lat Pulldown
+16.0,Female,48,Advanced,Flexibility,Deep Squat Hold
+31.7,Male,37,Beginner,Strength,Machine Leg Extension
+32.0,Male,30,Beginner,Flexibility,Forward Fold
+31.5,Female,24,Beginner,Flexibility,Pigeon Pose
+26.4,Male,50,Beginner,Fat Loss,Jumping Jacks
+20.7,Male,20,Beginner,Flexibility,Child's Pose
+16.5,Female,46,Advanced,Flexibility,Hamstring Stretch (Standing)
+26.7,Female,39,Intermediate,Flexibility,Cat-Cow Stretch
+31.5,Male,27,Intermediate,Endurance,Recumbent Bike
+34.7,Female,51,Advanced,Endurance,Cycling (Outdoor)
+24.9,Female,45,Beginner,Flexibility,Cat-Cow Stretch
+20.1,Female,53,Beginner,Strength,Overhead Press
+29.7,Male,34,Advanced,Fat Loss,Mountain Climbers
+21.0,Male,20,Beginner,Endurance,Air Squats
+17.1,Male,23,Advanced,Endurance,Battle Ropes
+16.3,Female,47,Beginner,Strength,T-Bar Row
+22.3,Male,46,Beginner,Strength,T-Bar Row
+24.4,Male,35,Intermediate,Fat Loss,Goblet Squat
+24.9,Female,58,Intermediate,Strength,Machine Leg Extension
+27.4,Male,26,Beginner,Strength,Machine Chest Fly
+31.5,Female,24,Beginner,Flexibility,Spiderman Stretch
+18.5,Male,54,Intermediate,Strength,Pull Ups
+18.9,Male,46,Intermediate,Flexibility,Spiderman Stretch
+30.2,Female,47,Intermediate,Endurance,Kettlebell Clean & Press
+32.6,Female,52,Intermediate,Flexibility,Cat-Cow Stretch
+27.0,Female,55,Advanced,Endurance,Plank
+16.4,Male,58,Beginner,Strength,T-Bar Row
+18.5,Female,23,Beginner,Strength,T-Bar Row
+25.2,Female,39,Beginner,Endurance,Battle Ropes
+25.8,Male,51,Intermediate,Flexibility,Deep Squat Hold
+28.7,Female,45,Beginner,Endurance,Running (Outdoor)
+30.7,Female,27,Beginner,Endurance,Wall Sit
+20.1,Male,53,Advanced,Endurance,Recumbent Bike
+22.7,Female,34,Beginner,Endurance,Kettlebell Clean & Press
+25.7,Male,35,Beginner,Fat Loss,Jumping Jacks
+17.8,Female,31,Intermediate,Strength,Barbell Squat
+31.2,Female,25,Beginner,Strength,Overhead Press
+17.8,Female,31,Intermediate,Strength,Barbell Squat
+30.2,Female,55,Beginner,Strength,Lat Pulldown
+17.9,Female,45,Beginner,Endurance,Battle Ropes
+34.0,Male,53,Advanced,Strength,Pull Ups
+34.4,Female,35,Beginner,Strength,T-Bar Row
+18.5,Female,33,Beginner,Endurance,Battle Ropes
+33.7,Male,45,Advanced,Flexibility,Cat-Cow Stretch
+30.9,Male,51,Advanced,Endurance,Running (Outdoor)
+34.3,Female,21,Beginner,Flexibility,Forward Fold
+20.6,Male,37,Beginner,Strength,Deadlift
+25.3,Male,22,Intermediate,Strength,Leg Press
+18.8,Female,53,Intermediate,Flexibility,Shoulder Pass-Throughs
+15.5,Male,46,Intermediate,Strength,Deadlift
+31.5,Female,52,Intermediate,Fat Loss,Running (Treadmill)
+31.5,Female,24,Beginner,Flexibility,Spiderman Stretch
+18.6,Male,27,Beginner,Strength,Leg Press
+17.2,Female,58,Advanced,Endurance,Air Squats
+20.6,Female,30,Advanced,Strength,Deadlift
+31.3,Female,52,Beginner,Endurance,Recumbent Bike
+28.7,Female,45,Beginner,Endurance,Wall Sit
+33.6,Male,53,Beginner,Fat Loss,Elliptical Trainer
+21.6,Female,35,Intermediate,Fat Loss,Elliptical Trainer
+24.2,Female,35,Advanced,Endurance,Kettlebell Clean & Press
+22.2,Male,60,Intermediate,Strength,Lat Pulldown
+23.3,Female,36,Intermediate,Fat Loss,Step Ups
+27.7,Female,57,Advanced,Flexibility,Child's Pose
+29.4,Female,50,Beginner,Fat Loss,Elliptical Trainer
+27.6,Male,58,Advanced,Endurance,Battle Ropes
+18.9,Male,30,Intermediate,Strength,T-Bar Row
+34.7,Male,59,Intermediate,Strength,Dumbbell Rows
+22.9,Male,30,Intermediate,Fat Loss,Step Ups
+23.9,Male,34,Advanced,Strength,Machine Chest Fly
+33.6,Male,25,Beginner,Endurance,Cycling (Outdoor)
+23.3,Female,36,Intermediate,Fat Loss,Jump Rope
+15.6,Male,33,Beginner,Fat Loss,Step Ups
+19.7,Male,18,Advanced,Flexibility,Spiderman Stretch
+32.4,Male,50,Advanced,Endurance,Wall Sit
+26.4,Male,50,Beginner,Fat Loss,Jump Rope
+25.1,Female,25,Advanced,Endurance,Battle Ropes
+19.4,Female,47,Advanced,Fat Loss,Jumping Jacks
+18.1,Female,30,Advanced,Fat Loss,Elliptical Trainer
+16.2,Female,54,Advanced,Flexibility,Spiderman Stretch
+22.2,Male,60,Intermediate,Strength,Lat Pulldown
+23.2,Male,58,Intermediate,Fat Loss,Kettlebell Swing
+17.4,Male,39,Intermediate,Strength,Overhead Press
+23.3,Male,20,Intermediate,Endurance,Plank
+28.1,Female,49,Intermediate,Fat Loss,Mountain Climbers
+32.1,Female,50,Advanced,Fat Loss,Running (Treadmill)
+32.1,Male,58,Advanced,Endurance,Plank
+19.6,Male,52,Intermediate,Endurance,Kettlebell Clean & Press
+34.3,Female,36,Beginner,Endurance,Running (Outdoor)
+33.6,Male,53,Beginner,Fat Loss,Elliptical Trainer
+31.3,Female,52,Beginner,Endurance,Push Ups
+18.6,Male,38,Intermediate,Endurance,Air Squats
+19.4,Female,27,Beginner,Endurance,Push Ups
+18.9,Female,60,Advanced,Flexibility,Hamstring Stretch (Standing)
+30.1,Male,48,Intermediate,Fat Loss,Step Ups
+32.7,Female,58,Beginner,Endurance,Push Ups
+30.9,Female,57,Intermediate,Endurance,Air Squats
+20.9,Male,23,Advanced,Fat Loss,Jump Rope
+27.5,Male,35,Advanced,Fat Loss,Dumbbell Lunges
+22.0,Male,49,Beginner,Flexibility,Child's Pose
+22.5,Female,38,Advanced,Strength,Deadlift
+18.0,Female,52,Intermediate,Strength,T-Bar Row
+15.3,Male,26,Advanced,Endurance,Air Squats
+23.5,Female,22,Beginner,Fat Loss,Dumbbell Lunges
+34.6,Female,50,Advanced,Fat Loss,Elliptical Trainer
+33.0,Female,24,Beginner,Fat Loss,Dumbbell Lunges
+34.3,Male,59,Beginner,Fat Loss,Burpees
+22.9,Male,30,Intermediate,Fat Loss,Jumping Jacks
+34.5,Female,23,Advanced,Strength,Overhead Press
+27.0,Female,46,Beginner,Flexibility,Shoulder Pass-Throughs
+17.3,Female,54,Beginner,Fat Loss,Running (Treadmill)
+26.5,Female,25,Advanced,Flexibility,Shoulder Pass-Throughs
+31.7,Male,37,Beginner,Strength,Machine Leg Extension
+30.1,Male,48,Intermediate,Fat Loss,Dumbbell Lunges
+27.4,Male,26,Beginner,Strength,Machine Leg Extension
+19.9,Male,22,Intermediate,Strength,Machine Leg Extension
+24.2,Female,35,Advanced,Endurance,Cycling (Outdoor)
+15.7,Female,45,Advanced,Flexibility,Shoulder Pass-Throughs
+33.7,Male,45,Advanced,Flexibility,Child's Pose
+29.6,Male,22,Intermediate,Endurance,Cycling (Outdoor)
+25.6,Male,51,Beginner,Strength,Pull Ups
+27.8,Male,46,Beginner,Fat Loss,Running (Treadmill)
+16.4,Male,58,Beginner,Strength,T-Bar Row
+33.7,Male,45,Advanced,Flexibility,Hamstring Stretch (Standing)
+34.5,Male,18,Intermediate,Fat Loss,Jump Rope
+16.5,Male,49,Beginner,Endurance,Air Squats
+29.4,Female,53,Beginner,Endurance,Cycling (Outdoor)
+21.5,Female,57,Intermediate,Flexibility,Child's Pose
+26.3,Male,25,Beginner,Strength,Dumbbell Rows
+31.5,Male,27,Intermediate,Endurance,Air Squats
+21.9,Female,22,Beginner,Flexibility,Child's Pose
+27.2,Male,53,Beginner,Endurance,Wall Sit
+30.2,Female,55,Beginner,Strength,Leg Press
+22.0,Female,30,Advanced,Endurance,Wall Sit
+29.1,Female,37,Intermediate,Endurance,Push Ups
+27.0,Female,23,Advanced,Endurance,Wall Sit
+23.9,Male,34,Advanced,Strength,Leg Press
+30.9,Male,51,Advanced,Endurance,Push Ups
+29.1,Female,37,Intermediate,Endurance,Kettlebell Clean & Press
+29.5,Male,49,Advanced,Flexibility,Cat-Cow Stretch
+28.7,Female,45,Beginner,Endurance,Wall Sit
+32.1,Female,50,Advanced,Fat Loss,Running (Treadmill)
+31.2,Male,36,Intermediate,Fat Loss,Elliptical Trainer
+30.3,Male,59,Beginner,Flexibility,Hamstring Stretch (Standing)
+21.4,Female,55,Beginner,Flexibility,Spiderman Stretch
+28.3,Female,31,Intermediate,Endurance,Running (Outdoor)
+23.4,Male,19,Advanced,Flexibility,Hamstring Stretch (Standing)
+29.1,Female,37,Intermediate,Endurance,Push Ups
+19.2,Male,47,Beginner,Endurance,Recumbent Bike
+23.7,Female,20,Intermediate,Fat Loss,Running (Treadmill)
+27.4,Male,26,Beginner,Strength,Machine Leg Extension
+16.7,Male,19,Advanced,Fat Loss,Jumping Jacks
+19.6,Female,59,Advanced,Strength,Leg Press
+24.9,Female,47,Beginner,Endurance,Wall Sit
+33.1,Female,46,Intermediate,Strength,Leg Press
+17.4,Male,39,Intermediate,Strength,Machine Leg Extension
+22.1,Male,58,Advanced,Fat Loss,Goblet Squat
+34.8,Female,50,Intermediate,Fat Loss,Running (Treadmill)
+20.2,Female,19,Advanced,Fat Loss,Goblet Squat
+27.1,Female,47,Intermediate,Strength,Leg Press
+29.5,Female,45,Advanced,Strength,Deadlift
+20.5,Male,31,Beginner,Fat Loss,Dumbbell Lunges
+22.7,Female,21,Advanced,Fat Loss,Elliptical Trainer
+30.1,Male,48,Intermediate,Fat Loss,Burpees
+34.6,Female,50,Intermediate,Flexibility,Pigeon Pose
+23.5,Female,22,Beginner,Fat Loss,Dumbbell Lunges
+22.1,Male,38,Intermediate,Fat Loss,Mountain Climbers
+17.1,Male,48,Advanced,Strength,Machine Leg Extension
+24.2,Female,25,Intermediate,Endurance,Kettlebell Clean & Press
+31.1,Female,39,Advanced,Fat Loss,Running (Treadmill)
+33.6,Male,25,Beginner,Endurance,Cycling (Outdoor)
+23.3,Female,36,Intermediate,Fat Loss,Step Ups
+22.7,Female,34,Beginner,Endurance,Kettlebell Clean & Press
+30.2,Female,47,Intermediate,Endurance,Plank
+22.5,Female,59,Advanced,Strength,T-Bar Row
+32.1,Male,36,Advanced,Endurance,Plank
+20.6,Female,30,Advanced,Strength,Machine Chest Fly
+23.1,Female,38,Advanced,Strength,Dumbbell Rows
+20.9,Female,27,Intermediate,Fat Loss,Jumping Jacks
+34.0,Male,32,Intermediate,Strength,Pull Ups
+21.8,Female,24,Beginner,Endurance,Recumbent Bike
+27.7,Female,46,Intermediate,Flexibility,Forward Fold
+29.4,Female,50,Beginner,Fat Loss,Running (Treadmill)
+15.7,Female,45,Advanced,Flexibility,Shoulder Pass-Throughs
+30.9,Male,34,Beginner,Flexibility,Pigeon Pose
+22.7,Female,30,Advanced,Endurance,Plank
+22.3,Male,50,Advanced,Fat Loss,Burpees
+16.7,Female,20,Intermediate,Endurance,Battle Ropes
+33.4,Male,60,Intermediate,Strength,Machine Leg Extension
+29.0,Male,58,Beginner,Strength,Barbell Squat
+15.5,Female,25,Beginner,Strength,Barbell Squat
+19.3,Male,49,Advanced,Strength,Dumbbell Rows
+27.5,Male,35,Advanced,Fat Loss,Kettlebell Swing
+30.7,Male,19,Beginner,Strength,Deadlift
+27.7,Female,46,Intermediate,Flexibility,Forward Fold
+21.7,Male,55,Beginner,Endurance,Push Ups
+28.3,Female,31,Intermediate,Endurance,Wall Sit
+23.5,Female,27,Advanced,Endurance,Wall Sit
+22.1,Male,38,Intermediate,Fat Loss,Burpees
+24.6,Male,22,Intermediate,Endurance,Plank
+26.5,Female,25,Advanced,Flexibility,Deep Squat Hold
+27.7,Female,26,Intermediate,Strength,Deadlift
+21.8,Female,24,Beginner,Endurance,Kettlebell Clean & Press
+19.0,Male,56,Intermediate,Fat Loss,Running (Treadmill)
+16.6,Female,35,Advanced,Strength,Bench Press
+18.6,Male,27,Beginner,Strength,Lat Pulldown
+24.2,Female,25,Intermediate,Endurance,Push Ups
+16.1,Female,59,Advanced,Strength,Machine Chest Fly
+33.5,Male,48,Beginner,Strength,Dumbbell Rows
+34.3,Male,59,Beginner,Fat Loss,Mountain Climbers
+25.3,Female,37,Intermediate,Endurance,Wall Sit
+22.3,Female,36,Beginner,Fat Loss,Mountain Climbers
+29.6,Male,58,Beginner,Strength,T-Bar Row
+29.5,Male,49,Advanced,Flexibility,Child's Pose
+32.3,Female,52,Beginner,Flexibility,Pigeon Pose
+33.1,Female,46,Intermediate,Strength,T-Bar Row
+20.6,Female,30,Advanced,Strength,Leg Press
+21.5,Male,34,Intermediate,Flexibility,Hamstring Stretch (Standing)
+33.6,Male,38,Advanced,Flexibility,Shoulder Pass-Throughs
+34.0,Male,53,Advanced,Strength,Overhead Press
+22.0,Female,30,Advanced,Endurance,Wall Sit
+24.1,Female,30,Intermediate,Fat Loss,Step Ups
+16.1,Female,59,Advanced,Strength,Barbell Squat
+30.7,Female,57,Beginner,Fat Loss,Jump Rope
+28.4,Male,45,Advanced,Flexibility,Forward Fold
+24.2,Female,25,Intermediate,Endurance,Cycling (Outdoor)
+30.9,Female,35,Intermediate,Strength,Barbell Squat
+16.4,Female,34,Beginner,Strength,T-Bar Row
+29.9,Female,35,Advanced,Flexibility,Pigeon Pose
+24.5,Female,18,Advanced,Fat Loss,Elliptical Trainer
+28.7,Male,56,Intermediate,Flexibility,Forward Fold
+25.1,Female,35,Advanced,Fat Loss,Goblet Squat
+17.5,Female,21,Advanced,Strength,Machine Chest Fly
+16.7,Male,19,Advanced,Fat Loss,Goblet Squat
+24.4,Female,47,Advanced,Strength,Machine Leg Extension
+23.5,Female,22,Beginner,Fat Loss,Dumbbell Lunges
+32.8,Female,25,Intermediate,Strength,Pull Ups
+21.0,Male,20,Beginner,Endurance,Battle Ropes
+27.4,Female,56,Advanced,Endurance,Wall Sit
+19.5,Male,47,Advanced,Fat Loss,Mountain Climbers
+16.8,Male,51,Intermediate,Fat Loss,Elliptical Trainer
+31.8,Female,47,Beginner,Flexibility,Forward Fold
+23.8,Female,59,Intermediate,Fat Loss,Burpees
+29.4,Female,50,Beginner,Fat Loss,Jumping Jacks
+23.4,Female,46,Intermediate,Endurance,Push Ups
+19.9,Female,22,Intermediate,Strength,Machine Chest Fly
+23.9,Male,34,Advanced,Strength,Lat Pulldown
+26.0,Male,58,Intermediate,Flexibility,Cat-Cow Stretch
+22.0,Male,49,Beginner,Flexibility,Hamstring Stretch (Standing)
+20.6,Female,30,Advanced,Strength,T-Bar Row
+24.4,Female,47,Advanced,Strength,Deadlift
+15.7,Female,45,Advanced,Flexibility,Forward Fold
+24.6,Female,56,Beginner,Fat Loss,Goblet Squat
+27.7,Female,26,Intermediate,Strength,Machine Leg Extension
+28.7,Female,21,Beginner,Strength,T-Bar Row
+19.2,Male,30,Intermediate,Flexibility,Child's Pose
+27.1,Female,47,Intermediate,Strength,Lat Pulldown
+15.1,Male,32,Beginner,Fat Loss,Burpees
+34.3,Female,21,Beginner,Flexibility,Cat-Cow Stretch
+17.1,Male,23,Advanced,Endurance,Wall Sit
+30.3,Male,19,Advanced,Fat Loss,Kettlebell Swing
+31.2,Female,25,Beginner,Strength,Pull Ups
+19.4,Female,27,Beginner,Endurance,Push Ups
+16.4,Female,34,Beginner,Strength,Machine Leg Extension
+15.6,Male,20,Beginner,Fat Loss,Kettlebell Swing
+30.7,Male,58,Intermediate,Strength,Lat Pulldown
+30.8,Female,27,Beginner,Flexibility,Pigeon Pose
+31.5,Female,24,Beginner,Flexibility,Cat-Cow Stretch
+28.2,Female,18,Intermediate,Strength,Bench Press
+23.3,Male,20,Intermediate,Endurance,Air Squats
+18.5,Male,54,Intermediate,Strength,Barbell Squat
+17.1,Female,33,Advanced,Strength,Pull Ups
+21.7,Male,55,Beginner,Endurance,Plank
+18.0,Female,52,Intermediate,Strength,T-Bar Row
+34.7,Male,24,Beginner,Flexibility,Deep Squat Hold
+33.8,Male,36,Advanced,Fat Loss,Dumbbell Lunges
+25.3,Female,19,Intermediate,Flexibility,Pigeon Pose
+22.3,Male,32,Beginner,Strength,Machine Leg Extension
+33.9,Female,48,Intermediate,Flexibility,Child's Pose
+22.1,Male,24,Advanced,Strength,Dumbbell Rows
+27.8,Male,55,Beginner,Endurance,Running (Outdoor)
+29.3,Female,55,Beginner,Endurance,Battle Ropes
+19.0,Male,56,Intermediate,Fat Loss,Kettlebell Swing
+26.1,Female,38,Intermediate,Strength,Barbell Squat
+28.2,Male,45,Beginner,Flexibility,Forward Fold
+17.8,Male,23,Intermediate,Fat Loss,Jumping Jacks
+30.2,Female,46,Advanced,Endurance,Battle Ropes
+22.1,Male,24,Advanced,Strength,Lat Pulldown
+20.6,Female,30,Advanced,Strength,Machine Leg Extension
+24.9,Female,45,Beginner,Flexibility,Pigeon Pose
+34.7,Male,59,Intermediate,Strength,Deadlift
+34.3,Female,21,Beginner,Flexibility,Forward Fold
+28.6,Female,36,Advanced,Flexibility,Hamstring Stretch (Standing)
+32.8,Female,25,Intermediate,Strength,Overhead Press
+24.9,Female,47,Beginner,Endurance,Kettlebell Clean & Press
+27.4,Female,56,Advanced,Endurance,Plank
+30.3,Male,19,Advanced,Fat Loss,Burpees
+25.9,Female,36,Beginner,Flexibility,Hamstring Stretch (Standing)
+31.0,Female,32,Intermediate,Strength,Machine Leg Extension
+18.6,Male,38,Intermediate,Endurance,Wall Sit
+15.8,Female,56,Intermediate,Endurance,Recumbent Bike
+33.1,Female,48,Advanced,Endurance,Battle Ropes
+34.0,Male,50,Beginner,Fat Loss,Mountain Climbers
+28.5,Male,58,Beginner,Endurance,Recumbent Bike
+15.7,Female,18,Intermediate,Flexibility,Shoulder Pass-Throughs
+34.3,Female,36,Beginner,Endurance,Running (Outdoor)
+22.7,Male,36,Advanced,Flexibility,Shoulder Pass-Throughs
+25.6,Male,25,Intermediate,Endurance,Air Squats
+19.7,Male,18,Advanced,Flexibility,Hamstring Stretch (Standing)
+34.1,Female,46,Intermediate,Endurance,Battle Ropes
+25.3,Female,37,Intermediate,Endurance,Running (Outdoor)
+21.1,Female,18,Beginner,Endurance,Kettlebell Clean & Press
+24.1,Female,59,Intermediate,Endurance,Plank
+31.5,Female,52,Intermediate,Fat Loss,Goblet Squat
+23.3,Male,20,Intermediate,Endurance,Air Squats
+29.3,Female,55,Beginner,Endurance,Running (Outdoor)
+23.9,Male,25,Beginner,Fat Loss,Goblet Squat
+17.0,Male,60,Advanced,Flexibility,Shoulder Pass-Throughs
+33.9,Female,48,Intermediate,Flexibility,Pigeon Pose
+22.5,Male,31,Advanced,Strength,T-Bar Row
+30.9,Male,34,Beginner,Flexibility,Deep Squat Hold
+22.3,Male,22,Beginner,Fat Loss,Step Ups
+22.3,Male,46,Advanced,Fat Loss,Kettlebell Swing
+29.1,Female,37,Intermediate,Endurance,Push Ups
+26.2,Male,26,Beginner,Flexibility,Spiderman Stretch
+34.7,Male,59,Intermediate,Strength,Pull Ups
+25.2,Female,32,Advanced,Fat Loss,Mountain Climbers
+30.7,Male,58,Intermediate,Strength,Leg Press
+32.1,Male,36,Advanced,Endurance,Plank
+24.9,Female,58,Intermediate,Strength,Dumbbell Rows
+18.5,Female,33,Beginner,Endurance,Plank
+22.1,Male,24,Advanced,Strength,Dumbbell Rows
+31.1,Female,39,Advanced,Fat Loss,Kettlebell Swing
+33.5,Male,48,Beginner,Strength,Leg Press
+24.9,Female,58,Intermediate,Strength,Barbell Squat
+30.2,Female,55,Beginner,Strength,Bench Press
+15.8,Female,56,Intermediate,Endurance,Wall Sit
+18.5,Male,59,Beginner,Flexibility,Child's Pose
+26.1,Female,38,Intermediate,Strength,Machine Leg Extension
+22.6,Male,33,Beginner,Flexibility,Pigeon Pose
+28.1,Female,49,Intermediate,Fat Loss,Goblet Squat
+31.5,Male,27,Intermediate,Endurance,Cycling (Outdoor)
+17.8,Male,37,Beginner,Flexibility,Shoulder Pass-Throughs
+31.0,Female,60,Intermediate,Fat Loss,Kettlebell Swing
+26.4,Male,50,Beginner,Fat Loss,Jumping Jacks
+29.2,Female,26,Beginner,Endurance,Wall Sit
+30.3,Female,60,Advanced,Fat Loss,Goblet Squat
+15.3,Male,26,Advanced,Endurance,Air Squats
+28.7,Female,45,Beginner,Endurance,Cycling (Outdoor)
+30.9,Male,34,Beginner,Flexibility,Pigeon Pose
+23.7,Female,20,Intermediate,Fat Loss,Running (Treadmill)
+18.3,Male,54,Intermediate,Strength,Lat Pulldown
+27.1,Female,47,Intermediate,Strength,Leg Press
+20.7,Male,19,Intermediate,Fat Loss,Kettlebell Swing
+30.8,Female,27,Beginner,Flexibility,Pigeon Pose
+16.6,Male,58,Beginner,Endurance,Kettlebell Clean & Press
+17.1,Male,48,Advanced,Strength,Machine Leg Extension
+27.1,Female,33,Beginner,Flexibility,Forward Fold
+32.6,Female,52,Intermediate,Flexibility,Cat-Cow Stretch
+32.3,Male,30,Intermediate,Fat Loss,Burpees
+31.1,Male,52,Advanced,Strength,Leg Press
+29.9,Female,45,Beginner,Flexibility,Child's Pose
+30.1,Male,48,Intermediate,Fat Loss,Jumping Jacks
+22.3,Female,60,Beginner,Strength,T-Bar Row
+33.5,Male,48,Beginner,Strength,Pull Ups
+26.5,Female,59,Intermediate,Fat Loss,Running (Treadmill)
+33.5,Male,32,Advanced,Strength,Barbell Squat
+22.2,Male,59,Beginner,Flexibility,Shoulder Pass-Throughs
+23.7,Female,20,Intermediate,Fat Loss,Kettlebell Swing
+34.6,Female,50,Intermediate,Flexibility,Pigeon Pose
+17.6,Male,34,Intermediate,Flexibility,Deep Squat Hold
+15.8,Female,56,Intermediate,Endurance,Plank
+22.6,Male,33,Beginner,Flexibility,Spiderman Stretch
+34.0,Male,56,Intermediate,Endurance,Air Squats
+20.7,Male,45,Advanced,Endurance,Cycling (Outdoor)
+22.1,Male,38,Intermediate,Fat Loss,Burpees
+16.4,Male,58,Beginner,Strength,Machine Leg Extension
+22.3,Male,32,Beginner,Strength,Lat Pulldown
+32.0,Male,30,Beginner,Flexibility,Shoulder Pass-Throughs
+27.5,Male,35,Advanced,Fat Loss,Kettlebell Swing
+29.6,Male,22,Intermediate,Endurance,Recumbent Bike
+29.9,Female,35,Advanced,Flexibility,Pigeon Pose
+31.0,Female,57,Beginner,Endurance,Battle Ropes
+22.2,Male,60,Intermediate,Strength,Barbell Squat
+23.3,Male,20,Intermediate,Endurance,Plank
+23.1,Female,38,Advanced,Strength,Dumbbell Rows
+34.0,Male,50,Beginner,Fat Loss,Dumbbell Lunges
+29.0,Male,58,Beginner,Strength,Overhead Press
+23.3,Female,51,Beginner,Fat Loss,Step Ups
+19.9,Male,36,Intermediate,Strength,Pull Ups
+34.5,Female,23,Advanced,Strength,Overhead Press
+17.9,Female,54,Intermediate,Endurance,Air Squats
+24.4,Male,35,Intermediate,Fat Loss,Goblet Squat
+17.9,Male,58,Advanced,Strength,Lat Pulldown
+34.1,Male,34,Beginner,Endurance,Air Squats
+21.9,Female,57,Beginner,Flexibility,Deep Squat Hold
+32.3,Female,52,Beginner,Flexibility,Pigeon Pose
+21.0,Female,60,Beginner,Strength,Bench Press
+30.5,Female,25,Intermediate,Fat Loss,Step Ups
+21.0,Female,60,Beginner,Strength,T-Bar Row
+18.6,Female,26,Advanced,Fat Loss,Elliptical Trainer
+33.8,Male,26,Intermediate,Fat Loss,Dumbbell Lunges
+23.1,Female,38,Advanced,Strength,Leg Press
+32.4,Male,50,Advanced,Endurance,Wall Sit
+27.7,Female,46,Intermediate,Flexibility,Forward Fold
+29.3,Female,21,Beginner,Strength,Barbell Squat
+26.5,Female,25,Advanced,Flexibility,Forward Fold
+23.5,Male,18,Beginner,Endurance,Kettlebell Clean & Press
+30.3,Female,60,Advanced,Fat Loss,Elliptical Trainer
+27.2,Male,53,Beginner,Endurance,Air Squats
+34.0,Female,33,Beginner,Fat Loss,Mountain Climbers
+16.7,Female,37,Beginner,Fat Loss,Kettlebell Swing
+21.8,Female,24,Beginner,Endurance,Air Squats
+28.1,Female,49,Intermediate,Fat Loss,Goblet Squat
+24.2,Female,35,Advanced,Endurance,Air Squats
+34.3,Female,21,Beginner,Flexibility,Forward Fold
+32.7,Male,24,Beginner,Flexibility,Shoulder Pass-Throughs
+22.2,Male,59,Beginner,Flexibility,Cat-Cow Stretch
+33.5,Female,50,Intermediate,Strength,Deadlift
+30.1,Male,48,Intermediate,Fat Loss,Dumbbell Lunges
+18.8,Female,53,Intermediate,Flexibility,Forward Fold
+24.5,Female,54,Advanced,Strength,Lat Pulldown
+15.1,Male,32,Beginner,Fat Loss,Burpees
+29.7,Male,33,Beginner,Endurance,Kettlebell Clean & Press
+22.3,Male,46,Beginner,Strength,Machine Chest Fly
+20.6,Male,57,Intermediate,Fat Loss,Elliptical Trainer
+33.8,Male,26,Intermediate,Fat Loss,Goblet Squat
+23.6,Female,55,Beginner,Endurance,Wall Sit
+31.0,Male,58,Beginner,Fat Loss,Mountain Climbers
+22.6,Male,33,Beginner,Flexibility,Forward Fold
+23.7,Female,48,Beginner,Fat Loss,Kettlebell Swing
+16.5,Male,49,Beginner,Endurance,Air Squats
+28.7,Male,56,Intermediate,Flexibility,Deep Squat Hold
+32.2,Male,55,Advanced,Flexibility,Deep Squat Hold
+20.2,Female,23,Advanced,Strength,T-Bar Row
+19.8,Male,56,Beginner,Flexibility,Pigeon Pose
+31.3,Female,52,Beginner,Endurance,Recumbent Bike
+15.6,Male,20,Beginner,Fat Loss,Step Ups
+16.7,Female,20,Intermediate,Endurance,Running (Outdoor)
+23.0,Male,49,Beginner,Endurance,Cycling (Outdoor)
+32.1,Male,36,Advanced,Endurance,Push Ups
+28.6,Female,36,Advanced,Flexibility,Cat-Cow Stretch
+31.8,Female,47,Beginner,Flexibility,Shoulder Pass-Throughs
+15.6,Male,33,Beginner,Fat Loss,Step Ups
+34.4,Female,35,Beginner,Strength,T-Bar Row
+20.8,Female,58,Advanced,Endurance,Wall Sit
+33.1,Female,59,Advanced,Fat Loss,Dumbbell Lunges
+16.1,Female,59,Advanced,Strength,Leg Press
+25.8,Male,32,Beginner,Flexibility,Deep Squat Hold
+21.9,Male,20,Beginner,Strength,Machine Chest Fly
+33.7,Male,45,Advanced,Flexibility,Forward Fold
+24.4,Male,35,Intermediate,Fat Loss,Dumbbell Lunges
+19.6,Female,59,Advanced,Strength,Deadlift
+17.4,Male,39,Intermediate,Strength,Overhead Press
+18.6,Female,26,Advanced,Fat Loss,Jumping Jacks
+19.9,Female,22,Intermediate,Strength,Bench Press
+24.4,Female,47,Advanced,Strength,T-Bar Row
+25.7,Male,35,Beginner,Fat Loss,Goblet Squat
+34.0,Male,32,Intermediate,Strength,Overhead Press
+20.2,Female,19,Advanced,Fat Loss,Step Ups
+15.4,Male,56,Beginner,Flexibility,Forward Fold
+35.0,Female,56,Intermediate,Endurance,Cycling (Outdoor)
+28.7,Female,45,Beginner,Endurance,Kettlebell Clean & Press
+16.0,Male,57,Advanced,Endurance,Recumbent Bike
+22.1,Male,58,Advanced,Fat Loss,Goblet Squat
+17.8,Female,31,Intermediate,Strength,T-Bar Row
+18.6,Female,45,Intermediate,Fat Loss,Burpees
+25.8,Male,32,Beginner,Flexibility,Cat-Cow Stretch
+33.7,Male,45,Advanced,Flexibility,Shoulder Pass-Throughs
+29.0,Male,58,Beginner,Strength,Overhead Press
+15.2,Female,30,Beginner,Strength,Lat Pulldown
+30.7,Female,27,Beginner,Endurance,Push Ups
+17.6,Female,39,Intermediate,Flexibility,Hamstring Stretch (Standing)
+26.5,Female,59,Intermediate,Fat Loss,Elliptical Trainer
+35.0,Male,31,Advanced,Flexibility,Child's Pose
+28.6,Female,36,Advanced,Flexibility,Hamstring Stretch (Standing)
+16.6,Female,58,Advanced,Endurance,Wall Sit
+18.9,Male,30,Intermediate,Strength,Lat Pulldown
+18.8,Female,59,Beginner,Endurance,Battle Ropes
+26.1,Male,46,Advanced,Flexibility,Pigeon Pose
+17.9,Female,54,Intermediate,Endurance,Cycling (Outdoor)
+34.1,Male,34,Beginner,Endurance,Running (Outdoor)
+29.2,Female,26,Beginner,Endurance,Cycling (Outdoor)
+34.0,Male,31,Advanced,Endurance,Cycling (Outdoor)
+28.5,Male,58,Beginner,Endurance,Running (Outdoor)
+31.5,Male,22,Beginner,Endurance,Plank
+29.4,Male,49,Intermediate,Strength,Deadlift
+27.7,Female,26,Intermediate,Strength,Bench Press
+19.5,Male,47,Advanced,Fat Loss,Step Ups
+22.1,Male,38,Intermediate,Fat Loss,Kettlebell Swing
+34.3,Male,59,Beginner,Fat Loss,Burpees
+17.1,Female,33,Advanced,Strength,T-Bar Row
+18.9,Male,35,Advanced,Endurance,Battle Ropes
+32.3,Female,52,Beginner,Flexibility,Deep Squat Hold
+34.1,Male,34,Beginner,Endurance,Push Ups
+28.5,Male,58,Beginner,Endurance,Running (Outdoor)
+26.6,Female,23,Beginner,Fat Loss,Mountain Climbers
+26.5,Female,59,Intermediate,Fat Loss,Goblet Squat
+20.5,Male,19,Advanced,Strength,Pull Ups
+24.0,Male,36,Intermediate,Strength,Pull Ups
+19.5,Male,47,Advanced,Fat Loss,Jumping Jacks
+21.8,Male,37,Advanced,Strength,Machine Chest Fly
+25.3,Female,37,Intermediate,Endurance,Plank
+23.4,Male,19,Advanced,Flexibility,Spiderman Stretch
+30.5,Female,25,Intermediate,Fat Loss,Jump Rope
+23.9,Male,34,Advanced,Strength,Leg Press
+16.2,Female,54,Advanced,Flexibility,Pigeon Pose
+33.6,Male,38,Advanced,Flexibility,Cat-Cow Stretch
+29.9,Female,45,Beginner,Flexibility,Hamstring Stretch (Standing)
+22.1,Male,24,Advanced,Strength,Deadlift
+27.5,Female,20,Advanced,Fat Loss,Elliptical Trainer
+32.9,Male,59,Advanced,Strength,Lat Pulldown
+18.9,Male,46,Intermediate,Flexibility,Child's Pose
+16.7,Female,25,Advanced,Flexibility,Shoulder Pass-Throughs
+31.1,Female,49,Advanced,Flexibility,Forward Fold
+19.1,Female,60,Beginner,Strength,Overhead Press
+23.9,Male,34,Advanced,Strength,Dumbbell Rows
+19.6,Female,59,Advanced,Strength,Machine Leg Extension
+30.2,Female,55,Advanced,Strength,Pull Ups
+27.1,Male,55,Advanced,Endurance,Push Ups
+29.8,Male,26,Advanced,Fat Loss,Jump Rope
+31.8,Female,47,Beginner,Strength,Overhead Press
+33.2,Male,36,Beginner,Fat Loss,Kettlebell Swing
+19.3,Male,49,Advanced,Strength,Dumbbell Rows
+21.1,Female,18,Beginner,Endurance,Kettlebell Clean & Press
+22.9,Male,30,Intermediate,Fat Loss,Burpees
+18.9,Male,35,Advanced,Endurance,Push Ups
+26.6,Female,23,Beginner,Fat Loss,Goblet Squat
+22.7,Female,30,Advanced,Endurance,Cycling (Outdoor)
+32.2,Female,21,Intermediate,Strength,Lat Pulldown
+22.7,Female,34,Beginner,Endurance,Battle Ropes
+27.1,Female,47,Intermediate,Strength,Lat Pulldown
+16.5,Male,49,Beginner,Endurance,Wall Sit
+34.8,Female,38,Beginner,Flexibility,Forward Fold
+17.6,Male,34,Intermediate,Flexibility,Pigeon Pose
+20.9,Male,23,Advanced,Fat Loss,Burpees
+22.3,Male,22,Beginner,Fat Loss,Jumping Jacks
+27.4,Male,26,Beginner,Strength,T-Bar Row
+30.2,Female,47,Intermediate,Endurance,Wall Sit
+29.4,Male,59,Advanced,Flexibility,Pigeon Pose
+19.4,Female,36,Advanced,Flexibility,Child's Pose
+27.0,Female,55,Advanced,Endurance,Battle Ropes
+16.1,Female,57,Advanced,Flexibility,Forward Fold
+30.2,Female,55,Beginner,Strength,Lat Pulldown
+29.9,Female,45,Beginner,Flexibility,Shoulder Pass-Throughs
+15.2,Female,30,Beginner,Strength,Machine Chest Fly
+28.1,Female,49,Intermediate,Fat Loss,Dumbbell Lunges
+23.7,Female,48,Beginner,Fat Loss,Elliptical Trainer
+23.8,Female,59,Intermediate,Fat Loss,Kettlebell Swing
+25.9,Female,55,Beginner,Flexibility,Shoulder Pass-Throughs
+27.8,Male,46,Beginner,Fat Loss,Running (Treadmill)
+22.1,Male,38,Intermediate,Fat Loss,Burpees
+17.8,Male,60,Advanced,Flexibility,Pigeon Pose
+22.6,Male,33,Beginner,Flexibility,Spiderman Stretch
+24.1,Male,21,Advanced,Endurance,Recumbent Bike
+33.7,Male,45,Advanced,Flexibility,Cat-Cow Stretch
+27.2,Male,53,Beginner,Endurance,Plank
+16.6,Male,51,Intermediate,Endurance,Cycling (Outdoor)
+22.7,Female,34,Beginner,Endurance,Push Ups
+32.1,Male,36,Advanced,Endurance,Plank
+24.9,Male,53,Advanced,Strength,Lat Pulldown
+32.2,Male,55,Advanced,Flexibility,Cat-Cow Stretch
+24.4,Male,35,Intermediate,Fat Loss,Running (Treadmill)
+23.3,Female,36,Intermediate,Fat Loss,Step Ups
+25.9,Female,55,Beginner,Flexibility,Spiderman Stretch
+17.1,Male,48,Advanced,Strength,Machine Leg Extension
+19.7,Male,18,Advanced,Flexibility,Spiderman Stretch
+33.4,Male,60,Intermediate,Strength,Machine Leg Extension
+29.4,Male,59,Advanced,Flexibility,Forward Fold
+21.0,Female,60,Intermediate,Strength,Machine Chest Fly
+18.2,Male,34,Intermediate,Endurance,Push Ups
+19.0,Female,27,Intermediate,Flexibility,Forward Fold
+21.7,Female,56,Beginner,Fat Loss,Running (Treadmill)
+24.5,Female,18,Advanced,Fat Loss,Burpees
+33.5,Male,48,Beginner,Strength,Pull Ups
+21.5,Female,57,Intermediate,Flexibility,Hamstring Stretch (Standing)
+22.9,Male,59,Advanced,Fat Loss,Dumbbell Lunges
+27.2,Male,53,Beginner,Endurance,Plank
+30.5,Female,60,Advanced,Fat Loss,Jump Rope
+28.1,Female,49,Intermediate,Fat Loss,Dumbbell Lunges
+16.6,Male,51,Intermediate,Endurance,Plank
+33.5,Male,32,Advanced,Strength,Bench Press
+30.7,Female,57,Beginner,Fat Loss,Mountain Climbers
+27.6,Male,58,Advanced,Endurance,Recumbent Bike
+34.8,Female,50,Intermediate,Fat Loss,Elliptical Trainer
+29.2,Female,30,Beginner,Fat Loss,Dumbbell Lunges
+30.2,Female,47,Intermediate,Endurance,Kettlebell Clean & Press
+33.8,Male,36,Advanced,Fat Loss,Mountain Climbers
+17.1,Male,60,Beginner,Fat Loss,Jumping Jacks
+34.6,Male,38,Intermediate,Flexibility,Spiderman Stretch
+23.8,Female,59,Intermediate,Fat Loss,Jump Rope
+23.0,Male,54,Beginner,Strength,Leg Press
+32.0,Male,30,Beginner,Flexibility,Shoulder Pass-Throughs
+17.0,Male,51,Intermediate,Strength,T-Bar Row
+30.3,Female,60,Advanced,Fat Loss,Goblet Squat
+20.5,Male,19,Advanced,Strength,Machine Chest Fly
+15.9,Male,19,Intermediate,Flexibility,Spiderman Stretch
+20.5,Male,59,Intermediate,Endurance,Recumbent Bike
+31.3,Female,52,Beginner,Endurance,Plank
+22.7,Female,30,Advanced,Endurance,Recumbent Bike
+21.7,Male,55,Beginner,Endurance,Push Ups
+16.2,Female,54,Advanced,Flexibility,Pigeon Pose
+19.2,Male,47,Beginner,Endurance,Running (Outdoor)
+20.7,Male,45,Advanced,Endurance,Recumbent Bike
+17.9,Female,34,Advanced,Endurance,Plank
+33.1,Male,19,Advanced,Flexibility,Deep Squat Hold
+29.7,Male,33,Beginner,Endurance,Plank
+23.1,Female,38,Advanced,Strength,Leg Press
+27.9,Male,25,Intermediate,Flexibility,Cat-Cow Stretch
+34.3,Female,21,Beginner,Flexibility,Cat-Cow Stretch
+24.1,Male,21,Advanced,Endurance,Recumbent Bike
+28.7,Male,58,Advanced,Endurance,Plank
+27.1,Female,47,Intermediate,Strength,Lat Pulldown
+26.3,Male,25,Beginner,Strength,Machine Leg Extension
+30.2,Female,55,Advanced,Strength,Lat Pulldown
+32.5,Male,59,Intermediate,Flexibility,Shoulder Pass-Throughs
+31.9,Male,27,Beginner,Flexibility,Spiderman Stretch
+34.5,Female,23,Advanced,Strength,Lat Pulldown
+21.6,Female,35,Intermediate,Fat Loss,Jumping Jacks
+21.5,Female,57,Intermediate,Flexibility,Spiderman Stretch
+27.2,Male,53,Beginner,Endurance,Air Squats
+26.1,Male,46,Advanced,Flexibility,Spiderman Stretch
+25.8,Male,32,Beginner,Flexibility,Deep Squat Hold
+35.0,Female,56,Intermediate,Endurance,Cycling (Outdoor)
+28.6,Female,36,Advanced,Flexibility,Deep Squat Hold
+19.4,Female,27,Beginner,Endurance,Air Squats
+22.6,Male,60,Advanced,Strength,Dumbbell Rows
+30.3,Male,59,Beginner,Flexibility,Spiderman Stretch
+26.0,Female,55,Beginner,Strength,Machine Leg Extension
+22.1,Male,38,Intermediate,Fat Loss,Burpees
+25.8,Male,51,Intermediate,Flexibility,Forward Fold
+29.4,Female,50,Beginner,Fat Loss,Mountain Climbers
+23.0,Male,54,Beginner,Strength,Overhead Press
+30.3,Male,59,Beginner,Flexibility,Shoulder Pass-Throughs
+30.1,Male,48,Intermediate,Fat Loss,Running (Treadmill)
+16.6,Male,51,Intermediate,Endurance,Air Squats
+17.9,Female,54,Intermediate,Endurance,Kettlebell Clean & Press
+20.9,Female,27,Intermediate,Fat Loss,Goblet Squat
+25.8,Male,51,Intermediate,Flexibility,Forward Fold
+22.3,Male,32,Beginner,Strength,Lat Pulldown
+33.0,Female,24,Beginner,Fat Loss,Kettlebell Swing
+26.2,Male,26,Beginner,Flexibility,Deep Squat Hold
+32.4,Male,50,Advanced,Endurance,Running (Outdoor)
+34.7,Male,59,Intermediate,Strength,Dumbbell Rows
+24.4,Male,35,Intermediate,Fat Loss,Dumbbell Lunges
+23.4,Female,46,Intermediate,Endurance,Plank
+27.6,Male,58,Advanced,Endurance,Wall Sit
+25.3,Female,19,Intermediate,Flexibility,Cat-Cow Stretch
+33.6,Male,38,Advanced,Flexibility,Cat-Cow Stretch
+22.5,Female,59,Advanced,Strength,Bench Press
+27.2,Male,53,Beginner,Endurance,Push Ups
+29.6,Male,22,Intermediate,Endurance,Kettlebell Clean & Press
+25.3,Female,37,Intermediate,Endurance,Running (Outdoor)
+27.6,Male,58,Advanced,Endurance,Recumbent Bike
+21.0,Female,60,Beginner,Strength,Lat Pulldown
+32.7,Male,24,Beginner,Flexibility,Forward Fold
+34.6,Female,50,Advanced,Fat Loss,Goblet Squat
+25.6,Male,25,Intermediate,Endurance,Push Ups
+29.4,Male,49,Intermediate,Strength,Deadlift
+20.7,Male,19,Intermediate,Fat Loss,Goblet Squat
+29.4,Male,49,Intermediate,Strength,Machine Leg Extension
+29.5,Female,27,Intermediate,Flexibility,Forward Fold
+18.3,Female,46,Beginner,Fat Loss,Kettlebell Swing
+20.5,Male,59,Intermediate,Endurance,Wall Sit
+34.3,Female,36,Beginner,Endurance,Wall Sit
+17.2,Female,59,Intermediate,Endurance,Plank
+18.0,Female,52,Intermediate,Strength,Bench Press
+15.1,Male,32,Beginner,Fat Loss,Running (Treadmill)
+17.1,Female,33,Advanced,Strength,Dumbbell Rows
+27.8,Male,55,Beginner,Endurance,Wall Sit
+34.6,Female,50,Advanced,Fat Loss,Kettlebell Swing
+20.7,Male,37,Beginner,Endurance,Wall Sit
+21.0,Male,20,Beginner,Endurance,Recumbent Bike
+32.4,Male,60,Intermediate,Strength,Deadlift
+29.4,Female,50,Beginner,Fat Loss,Goblet Squat
+29.0,Male,58,Beginner,Strength,Barbell Squat
+23.9,Male,25,Beginner,Fat Loss,Burpees
+19.2,Male,30,Intermediate,Flexibility,Child's Pose
+23.7,Female,48,Beginner,Fat Loss,Elliptical Trainer
+30.3,Male,59,Beginner,Flexibility,Hamstring Stretch (Standing)
+31.1,Female,39,Advanced,Fat Loss,Running (Treadmill)
+22.5,Female,59,Advanced,Strength,Leg Press
+18.2,Male,34,Intermediate,Endurance,Recumbent Bike
+20.2,Female,19,Advanced,Fat Loss,Mountain Climbers
+33.1,Male,19,Advanced,Flexibility,Forward Fold
+34.7,Female,51,Advanced,Endurance,Push Ups
+29.7,Male,34,Advanced,Fat Loss,Mountain Climbers
+15.2,Female,23,Intermediate,Endurance,Push Ups
+27.3,Female,20,Advanced,Strength,T-Bar Row
+17.9,Female,34,Advanced,Endurance,Kettlebell Clean & Press
+31.0,Female,32,Intermediate,Strength,Machine Leg Extension
+23.2,Male,58,Intermediate,Fat Loss,Jumping Jacks
+28.4,Male,45,Advanced,Flexibility,Cat-Cow Stretch
+33.7,Male,45,Advanced,Flexibility,Hamstring Stretch (Standing)
+15.9,Male,19,Intermediate,Flexibility,Forward Fold
+19.3,Male,49,Advanced,Strength,Barbell Squat
+33.6,Male,53,Beginner,Fat Loss,Elliptical Trainer
+31.8,Female,47,Beginner,Flexibility,Child's Pose
+19.6,Male,52,Intermediate,Endurance,Cycling (Outdoor)
+17.5,Female,23,Intermediate,Flexibility,Child's Pose
+20.2,Female,19,Advanced,Fat Loss,Goblet Squat
+21.7,Male,55,Beginner,Endurance,Battle Ropes
+34.7,Male,24,Beginner,Flexibility,Shoulder Pass-Throughs
+19.7,Male,18,Advanced,Flexibility,Forward Fold
+20.7,Female,46,Advanced,Fat Loss,Step Ups
+24.2,Female,25,Intermediate,Endurance,Battle Ropes
+23.8,Male,48,Intermediate,Flexibility,Hamstring Stretch (Standing)
+25.3,Female,19,Intermediate,Flexibility,Cat-Cow Stretch
+19.5,Male,32,Intermediate,Endurance,Running (Outdoor)
+24.9,Male,45,Beginner,Flexibility,Cat-Cow Stretch
+29.6,Male,58,Beginner,Strength,Barbell Squat
+26.0,Female,55,Beginner,Strength,Machine Leg Extension
+29.7,Male,33,Beginner,Endurance,Kettlebell Clean & Press
+33.7,Male,45,Advanced,Flexibility,Forward Fold
+28.7,Female,21,Beginner,Strength,Barbell Squat
+33.4,Male,39,Advanced,Flexibility,Hamstring Stretch (Standing)
+19.4,Female,27,Beginner,Endurance,Wall Sit
+20.2,Female,19,Advanced,Fat Loss,Kettlebell Swing
+22.2,Male,60,Intermediate,Strength,Lat Pulldown
+21.0,Female,60,Beginner,Strength,Dumbbell Rows
+26.1,Male,46,Advanced,Flexibility,Shoulder Pass-Throughs
+19.9,Female,22,Intermediate,Strength,Bench Press
+19.5,Male,47,Advanced,Fat Loss,Goblet Squat
+28.2,Male,45,Beginner,Flexibility,Deep Squat Hold
+24.4,Male,25,Advanced,Strength,Deadlift
+17.6,Male,34,Intermediate,Flexibility,Pigeon Pose
+25.6,Male,25,Intermediate,Endurance,Battle Ropes
+28.7,Female,45,Beginner,Endurance,Plank
+24.6,Male,47,Intermediate,Flexibility,Pigeon Pose
+29.9,Female,45,Beginner,Flexibility,Shoulder Pass-Throughs
+18.3,Male,36,Advanced,Endurance,Wall Sit
+28.2,Male,45,Beginner,Flexibility,Spiderman Stretch
+21.6,Male,25,Intermediate,Strength,Overhead Press
+31.5,Male,27,Intermediate,Endurance,Air Squats
+25.2,Female,39,Beginner,Endurance,Air Squats
+24.5,Male,37,Advanced,Endurance,Cycling (Outdoor)
+20.9,Male,23,Advanced,Fat Loss,Kettlebell Swing
+32.3,Male,54,Beginner,Strength,Barbell Squat
+26.6,Female,23,Beginner,Fat Loss,Goblet Squat
+25.8,Male,51,Intermediate,Flexibility,Forward Fold
+19.7,Female,30,Intermediate,Flexibility,Shoulder Pass-Throughs
+19.0,Male,56,Intermediate,Fat Loss,Running (Treadmill)
+29.7,Male,34,Advanced,Fat Loss,Mountain Climbers
+28.8,Female,19,Beginner,Fat Loss,Jump Rope
+20.4,Female,32,Beginner,Strength,Machine Chest Fly
+28.4,Male,45,Advanced,Flexibility,Hamstring Stretch (Standing)
+31.2,Male,36,Intermediate,Fat Loss,Elliptical Trainer
+22.1,Male,58,Advanced,Fat Loss,Running (Treadmill)
+30.8,Female,27,Beginner,Flexibility,Deep Squat Hold
+32.6,Male,33,Advanced,Flexibility,Shoulder Pass-Throughs
+19.9,Male,36,Intermediate,Strength,Deadlift
+17.5,Female,23,Intermediate,Flexibility,Pigeon Pose
+22.8,Female,58,Intermediate,Flexibility,Hamstring Stretch (Standing)
+16.6,Female,35,Advanced,Strength,Bench Press
+16.7,Female,20,Intermediate,Endurance,Recumbent Bike
+33.0,Female,24,Beginner,Fat Loss,Dumbbell Lunges
+16.6,Male,51,Intermediate,Endurance,Air Squats
+22.5,Female,38,Advanced,Strength,T-Bar Row
+23.8,Male,48,Intermediate,Flexibility,Cat-Cow Stretch
+29.1,Female,37,Intermediate,Endurance,Push Ups
+27.7,Female,46,Intermediate,Flexibility,Spiderman Stretch
+27.9,Male,25,Intermediate,Flexibility,Forward Fold
+24.6,Male,47,Intermediate,Flexibility,Child's Pose
+33.1,Female,46,Intermediate,Strength,Overhead Press
+31.5,Female,24,Beginner,Flexibility,Deep Squat Hold
+16.9,Male,27,Advanced,Strength,Pull Ups
+25.6,Male,51,Beginner,Strength,Dumbbell Rows
+29.8,Male,26,Advanced,Fat Loss,Jump Rope
+32.2,Female,21,Intermediate,Strength,Lat Pulldown
+27.7,Female,46,Intermediate,Flexibility,Spiderman Stretch
+20.9,Female,35,Intermediate,Strength,Dumbbell Rows
+18.5,Female,23,Beginner,Strength,Pull Ups
+23.3,Female,51,Beginner,Fat Loss,Mountain Climbers
+26.0,Female,47,Intermediate,Strength,Dumbbell Rows
+27.0,Female,46,Beginner,Flexibility,Shoulder Pass-Throughs
+27.3,Female,20,Advanced,Strength,Barbell Squat
+34.5,Female,23,Advanced,Strength,T-Bar Row
+20.1,Male,53,Advanced,Endurance,Battle Ropes
+33.8,Male,26,Intermediate,Fat Loss,Kettlebell Swing
+15.1,Female,55,Beginner,Fat Loss,Running (Treadmill)
+30.7,Female,57,Beginner,Fat Loss,Jump Rope
+34.3,Male,59,Beginner,Fat Loss,Running (Treadmill)
+19.7,Female,30,Intermediate,Flexibility,Hamstring Stretch (Standing)
+16.4,Female,34,Beginner,Strength,Pull Ups
+23.8,Male,48,Intermediate,Flexibility,Cat-Cow Stretch
+32.3,Male,30,Intermediate,Fat Loss,Jump Rope
+18.2,Male,34,Intermediate,Endurance,Running (Outdoor)
+26.3,Male,25,Beginner,Strength,Machine Leg Extension
+32.7,Male,58,Beginner,Fat Loss,Dumbbell Lunges
+30.2,Female,55,Beginner,Strength,Lat Pulldown
+29.4,Male,37,Beginner,Endurance,Cycling (Outdoor)
+20.0,Male,57,Beginner,Strength,Deadlift
+23.5,Female,27,Advanced,Endurance,Recumbent Bike
+24.6,Female,56,Beginner,Fat Loss,Dumbbell Lunges
+31.1,Female,39,Advanced,Fat Loss,Goblet Squat
+31.5,Male,22,Beginner,Endurance,Running (Outdoor)
+28.4,Male,45,Advanced,Flexibility,Child's Pose
+19.7,Male,18,Advanced,Flexibility,Forward Fold
+22.5,Female,59,Advanced,Strength,Leg Press
+15.6,Male,33,Beginner,Fat Loss,Jump Rope
+29.3,Female,21,Beginner,Strength,Barbell Squat
+31.6,Female,56,Beginner,Flexibility,Deep Squat Hold
+27.3,Male,51,Beginner,Endurance,Cycling (Outdoor)
+21.7,Female,56,Beginner,Fat Loss,Running (Treadmill)
+15.7,Female,45,Advanced,Flexibility,Child's Pose
+21.1,Female,18,Beginner,Endurance,Running (Outdoor)
+24.5,Female,18,Advanced,Fat Loss,Mountain Climbers
+19.7,Male,18,Advanced,Flexibility,Forward Fold
+15.5,Female,25,Beginner,Strength,Machine Chest Fly
+18.6,Male,56,Intermediate,Flexibility,Shoulder Pass-Throughs
+28.2,Male,45,Beginner,Flexibility,Child's Pose
+34.1,Male,34,Beginner,Endurance,Running (Outdoor)
+19.9,Male,37,Advanced,Fat Loss,Goblet Squat
+23.7,Female,48,Beginner,Fat Loss,Mountain Climbers
+24.9,Female,47,Beginner,Endurance,Wall Sit
+30.9,Male,51,Advanced,Endurance,Running (Outdoor)
+30.1,Male,52,Intermediate,Fat Loss,Jump Rope
+18.9,Male,46,Intermediate,Flexibility,Pigeon Pose
+30.9,Male,34,Beginner,Flexibility,Deep Squat Hold
+22.1,Male,58,Advanced,Fat Loss,Goblet Squat
+33.1,Male,19,Advanced,Flexibility,Deep Squat Hold
+29.9,Female,45,Beginner,Flexibility,Spiderman Stretch
+29.0,Male,58,Beginner,Strength,T-Bar Row
+31.4,Male,19,Advanced,Endurance,Wall Sit
+17.9,Female,34,Advanced,Endurance,Push Ups
+31.1,Female,49,Advanced,Flexibility,Forward Fold
+29.7,Male,34,Advanced,Fat Loss,Jumping Jacks
+17.8,Male,60,Advanced,Flexibility,Shoulder Pass-Throughs
+18.6,Male,38,Intermediate,Endurance,Wall Sit
+27.1,Female,33,Beginner,Flexibility,Child's Pose
+19.3,Male,49,Advanced,Strength,T-Bar Row
+31.1,Female,49,Advanced,Flexibility,Child's Pose
+17.8,Male,60,Advanced,Flexibility,Pigeon Pose
+22.2,Male,60,Intermediate,Strength,Pull Ups
+33.4,Male,60,Intermediate,Strength,Machine Chest Fly
+29.6,Male,58,Beginner,Strength,Deadlift
+16.8,Male,51,Intermediate,Fat Loss,Elliptical Trainer
+25.2,Female,39,Beginner,Endurance,Plank
+23.9,Female,57,Intermediate,Flexibility,Deep Squat Hold
+16.3,Female,60,Beginner,Flexibility,Forward Fold
+20.5,Male,19,Advanced,Strength,Overhead Press
+32.3,Male,54,Beginner,Strength,Lat Pulldown
+29.0,Female,33,Beginner,Flexibility,Shoulder Pass-Throughs
+15.8,Female,56,Intermediate,Endurance,Wall Sit
+28.8,Female,19,Beginner,Fat Loss,Elliptical Trainer
+30.2,Female,55,Advanced,Strength,Leg Press
+32.7,Female,51,Intermediate,Endurance,Recumbent Bike
+29.1,Female,26,Advanced,Strength,T-Bar Row
+34.7,Female,51,Advanced,Endurance,Wall Sit
+23.9,Male,25,Beginner,Fat Loss,Elliptical Trainer
+22.1,Male,24,Advanced,Strength,Leg Press
+25.6,Male,51,Beginner,Strength,Leg Press
+20.4,Female,32,Beginner,Strength,Bench Press
+22.9,Male,59,Advanced,Fat Loss,Kettlebell Swing
+28.6,Female,39,Intermediate,Fat Loss,Running (Treadmill)
+22.7,Female,21,Advanced,Fat Loss,Kettlebell Swing
+32.3,Male,60,Advanced,Strength,Barbell Squat
+19.1,Female,60,Beginner,Strength,Bench Press
+17.8,Male,60,Advanced,Flexibility,Child's Pose
+26.2,Male,26,Beginner,Flexibility,Spiderman Stretch
+15.7,Male,31,Intermediate,Endurance,Recumbent Bike
+16.3,Female,60,Beginner,Flexibility,Pigeon Pose
+27.0,Female,46,Beginner,Flexibility,Forward Fold
+22.5,Male,31,Advanced,Strength,Lat Pulldown
+19.0,Female,27,Intermediate,Flexibility,Forward Fold
+22.7,Male,36,Advanced,Flexibility,Pigeon Pose
+22.3,Male,46,Beginner,Strength,Machine Chest Fly
+27.7,Female,26,Intermediate,Strength,Leg Press
+34.7,Female,51,Advanced,Endurance,Push Ups
+15.9,Male,19,Intermediate,Flexibility,Child's Pose
+33.9,Female,48,Intermediate,Flexibility,Shoulder Pass-Throughs
+23.4,Male,19,Advanced,Flexibility,Hamstring Stretch (Standing)
+20.1,Male,53,Advanced,Endurance,Recumbent Bike
+32.8,Female,37,Advanced,Fat Loss,Jump Rope
+32.4,Male,60,Intermediate,Strength,Deadlift
+33.7,Male,45,Advanced,Flexibility,Hamstring Stretch (Standing)
+34.0,Male,56,Intermediate,Endurance,Air Squats
+21.0,Male,20,Beginner,Endurance,Battle Ropes
+23.6,Female,55,Beginner,Endurance,Air Squats
+32.8,Female,25,Intermediate,Strength,Barbell Squat
+32.8,Female,25,Intermediate,Strength,Machine Leg Extension
+31.7,Male,37,Beginner,Strength,Machine Leg Extension
+22.3,Female,60,Beginner,Strength,Overhead Press
+31.0,Male,58,Beginner,Fat Loss,Kettlebell Swing
+26.2,Male,26,Beginner,Flexibility,Shoulder Pass-Throughs
+30.7,Female,52,Beginner,Strength,Leg Press
+26.1,Male,46,Advanced,Flexibility,Shoulder Pass-Throughs
+31.5,Male,27,Intermediate,Endurance,Cycling (Outdoor)
+30.9,Male,51,Advanced,Endurance,Plank
+27.4,Female,56,Advanced,Endurance,Battle Ropes
+31.5,Male,27,Intermediate,Endurance,Cycling (Outdoor)
+24.9,Female,58,Intermediate,Strength,Dumbbell Rows
+31.2,Female,25,Beginner,Strength,Leg Press
+28.4,Male,45,Advanced,Flexibility,Forward Fold
+16.9,Female,30,Intermediate,Endurance,Push Ups
+19.8,Male,56,Beginner,Flexibility,Shoulder Pass-Throughs
+33.4,Male,60,Intermediate,Strength,Machine Chest Fly
+30.2,Female,46,Advanced,Endurance,Kettlebell Clean & Press
+34.7,Female,51,Advanced,Endurance,Wall Sit
+16.0,Female,48,Advanced,Flexibility,Deep Squat Hold
+16.6,Male,51,Intermediate,Endurance,Plank
+25.6,Male,52,Intermediate,Endurance,Recumbent Bike
+19.3,Male,49,Advanced,Strength,Barbell Squat
+32.3,Male,60,Advanced,Strength,Overhead Press
+28.8,Male,50,Intermediate,Endurance,Push Ups
+17.9,Female,54,Intermediate,Endurance,Air Squats
+18.0,Female,52,Intermediate,Strength,Leg Press
+27.7,Female,26,Intermediate,Strength,Deadlift
+27.8,Male,55,Beginner,Endurance,Recumbent Bike
+25.6,Male,52,Intermediate,Endurance,Battle Ropes
+23.0,Male,54,Beginner,Strength,Overhead Press
+24.2,Female,25,Intermediate,Endurance,Push Ups
+34.3,Female,36,Beginner,Endurance,Wall Sit
+18.0,Female,48,Advanced,Endurance,Running (Outdoor)
+32.2,Male,55,Advanced,Flexibility,Cat-Cow Stretch
+34.0,Male,53,Advanced,Strength,Leg Press
+16.0,Female,48,Advanced,Flexibility,Spiderman Stretch
+32.7,Female,51,Intermediate,Endurance,Push Ups
+18.6,Male,38,Intermediate,Endurance,Kettlebell Clean & Press
+32.1,Male,36,Advanced,Endurance,Recumbent Bike
+25.9,Female,55,Beginner,Flexibility,Pigeon Pose
+23.9,Male,25,Beginner,Fat Loss,Goblet Squat
+27.0,Female,23,Advanced,Endurance,Kettlebell Clean & Press
+22.2,Male,59,Beginner,Flexibility,Spiderman Stretch
+22.6,Male,39,Advanced,Fat Loss,Running (Treadmill)
+26.6,Male,56,Advanced,Fat Loss,Jumping Jacks
+17.9,Male,58,Advanced,Strength,Overhead Press
+32.6,Male,24,Beginner,Fat Loss,Goblet Squat
+30.5,Female,25,Intermediate,Fat Loss,Step Ups
+29.3,Female,21,Beginner,Strength,Overhead Press
+34.8,Female,38,Beginner,Flexibility,Child's Pose
+26.5,Female,59,Intermediate,Fat Loss,Goblet Squat
+25.6,Male,51,Beginner,Strength,Pull Ups
+15.7,Female,45,Advanced,Flexibility,Deep Squat Hold
+15.2,Female,30,Beginner,Strength,Machine Chest Fly
+28.3,Female,31,Intermediate,Endurance,Battle Ropes
+29.4,Female,50,Beginner,Fat Loss,Jumping Jacks
+21.0,Male,20,Beginner,Endurance,Recumbent Bike
+24.0,Male,36,Intermediate,Strength,Pull Ups
+31.1,Male,52,Advanced,Strength,Deadlift
+17.9,Male,58,Advanced,Strength,Dumbbell Rows
+16.9,Male,27,Advanced,Strength,Deadlift
+33.5,Male,32,Advanced,Strength,Bench Press
+33.4,Male,60,Intermediate,Strength,Machine Chest Fly
+23.7,Female,20,Intermediate,Fat Loss,Kettlebell Swing
+26.0,Male,55,Beginner,Strength,Machine Chest Fly
+22.3,Male,32,Beginner,Strength,Lat Pulldown
+26.6,Male,56,Advanced,Fat Loss,Running (Treadmill)
+20.6,Male,37,Beginner,Strength,Bench Press
+18.3,Female,55,Beginner,Fat Loss,Running (Treadmill)
+26.3,Male,25,Beginner,Strength,Bench Press
+29.0,Male,58,Beginner,Strength,Bench Press
+17.2,Female,58,Advanced,Endurance,Kettlebell Clean & Press
+32.4,Male,60,Intermediate,Strength,Machine Chest Fly
+18.7,Female,60,Intermediate,Fat Loss,Dumbbell Lunges
+26.2,Male,26,Beginner,Flexibility,Spiderman Stretch
+22.3,Male,22,Beginner,Fat Loss,Mountain Climbers
+22.3,Male,46,Beginner,Strength,T-Bar Row
+30.9,Female,57,Intermediate,Endurance,Kettlebell Clean & Press
+30.1,Male,48,Intermediate,Fat Loss,Jumping Jacks
+15.1,Female,55,Beginner,Fat Loss,Elliptical Trainer
+16.8,Male,51,Intermediate,Fat Loss,Mountain Climbers
+27.9,Male,25,Intermediate,Flexibility,Spiderman Stretch
+17.1,Female,33,Advanced,Strength,T-Bar Row
+25.6,Male,52,Intermediate,Endurance,Recumbent Bike
+32.7,Male,58,Beginner,Fat Loss,Dumbbell Lunges
+33.7,Male,45,Advanced,Flexibility,Hamstring Stretch (Standing)
+16.6,Female,58,Advanced,Endurance,Plank
+24.9,Female,47,Beginner,Endurance,Plank
+25.9,Female,36,Beginner,Flexibility,Hamstring Stretch (Standing)
+29.1,Female,26,Advanced,Strength,Barbell Squat
+28.3,Female,31,Intermediate,Endurance,Wall Sit
+17.9,Female,35,Advanced,Flexibility,Cat-Cow Stretch
+34.0,Male,32,Intermediate,Strength,Bench Press
+32.7,Female,51,Intermediate,Endurance,Recumbent Bike
+27.3,Female,19,Beginner,Flexibility,Deep Squat Hold
+32.5,Male,59,Intermediate,Flexibility,Forward Fold
+17.1,Male,48,Advanced,Strength,Bench Press
+15.2,Female,23,Intermediate,Endurance,Wall Sit
+28.7,Male,58,Advanced,Endurance,Recumbent Bike
+31.3,Female,52,Beginner,Endurance,Kettlebell Clean & Press
+15.7,Male,31,Intermediate,Endurance,Air Squats
+21.7,Female,56,Beginner,Fat Loss,Running (Treadmill)
+15.8,Female,56,Intermediate,Endurance,Cycling (Outdoor)
+23.3,Female,51,Beginner,Fat Loss,Step Ups
+32.2,Female,21,Intermediate,Strength,Bench Press
+18.3,Female,55,Beginner,Fat Loss,Dumbbell Lunges
+30.9,Female,57,Intermediate,Endurance,Kettlebell Clean & Press
+27.3,Male,23,Intermediate,Strength,Overhead Press
+29.7,Male,33,Beginner,Endurance,Air Squats
+32.1,Male,36,Advanced,Endurance,Cycling (Outdoor)
+34.6,Male,38,Intermediate,Flexibility,Cat-Cow Stretch
+25.3,Female,32,Beginner,Strength,Barbell Squat
+24.1,Female,30,Intermediate,Fat Loss,Step Ups
+28.2,Female,18,Intermediate,Strength,Machine Chest Fly
+31.4,Female,38,Beginner,Flexibility,Child's Pose
+34.7,Female,51,Advanced,Endurance,Plank
+29.6,Male,22,Intermediate,Endurance,Running (Outdoor)
+32.0,Male,30,Beginner,Flexibility,Deep Squat Hold
+28.3,Female,31,Intermediate,Endurance,Battle Ropes
+25.6,Male,25,Intermediate,Endurance,Cycling (Outdoor)
+19.4,Female,27,Beginner,Endurance,Kettlebell Clean & Press
+24.9,Female,47,Beginner,Endurance,Wall Sit
+32.2,Female,21,Intermediate,Strength,Bench Press
+32.7,Female,51,Intermediate,Endurance,Recumbent Bike
+25.3,Female,19,Intermediate,Flexibility,Pigeon Pose
+29.3,Female,55,Beginner,Endurance,Wall Sit
+23.7,Female,20,Intermediate,Fat Loss,Mountain Climbers
+24.6,Male,22,Intermediate,Endurance,Recumbent Bike
+16.3,Female,60,Beginner,Flexibility,Pigeon Pose
+26.1,Male,46,Advanced,Flexibility,Shoulder Pass-Throughs
+22.2,Male,60,Intermediate,Strength,Lat Pulldown
+31.0,Male,58,Beginner,Fat Loss,Mountain Climbers
+18.0,Female,21,Advanced,Endurance,Air Squats
+34.7,Female,51,Advanced,Endurance,Battle Ropes
+16.6,Female,35,Advanced,Strength,Lat Pulldown
+22.6,Male,60,Advanced,Strength,Dumbbell Rows
+20.8,Female,58,Advanced,Endurance,Plank
+34.5,Male,18,Intermediate,Fat Loss,Jumping Jacks
+33.8,Male,36,Advanced,Fat Loss,Dumbbell Lunges
+21.5,Female,57,Intermediate,Flexibility,Forward Fold
+25.6,Male,25,Intermediate,Endurance,Push Ups
+24.1,Female,59,Intermediate,Endurance,Kettlebell Clean & Press
+32.1,Male,58,Advanced,Endurance,Wall Sit
+27.7,Female,46,Intermediate,Flexibility,Spiderman Stretch
+23.0,Male,54,Beginner,Strength,Barbell Squat
+31.2,Male,36,Intermediate,Fat Loss,Burpees
+32.7,Female,58,Beginner,Endurance,Battle Ropes
+23.9,Female,57,Intermediate,Flexibility,Deep Squat Hold
+19.6,Male,52,Intermediate,Endurance,Air Squats
+20.8,Female,58,Advanced,Endurance,Battle Ropes
+22.0,Female,30,Advanced,Endurance,Air Squats
+23.0,Male,49,Beginner,Endurance,Wall Sit
+23.8,Female,59,Intermediate,Fat Loss,Burpees
+18.6,Female,26,Advanced,Fat Loss,Jump Rope
+21.5,Female,57,Intermediate,Flexibility,Spiderman Stretch
+30.4,Male,22,Intermediate,Fat Loss,Burpees
+18.0,Female,21,Advanced,Endurance,Air Squats
+19.9,Male,36,Intermediate,Strength,Pull Ups
+30.3,Male,59,Beginner,Flexibility,Shoulder Pass-Throughs
+25.2,Female,32,Advanced,Fat Loss,Jump Rope
+16.6,Male,58,Beginner,Endurance,Push Ups
+32.6,Male,24,Beginner,Fat Loss,Kettlebell Swing
+22.0,Female,18,Intermediate,Fat Loss,Running (Treadmill)
+26.0,Male,58,Intermediate,Flexibility,Shoulder Pass-Throughs
+22.1,Male,20,Advanced,Endurance,Air Squats
+17.2,Female,58,Advanced,Endurance,Battle Ropes
+22.7,Male,36,Advanced,Flexibility,Shoulder Pass-Throughs
+19.1,Female,60,Beginner,Strength,Overhead Press
+29.7,Male,33,Beginner,Endurance,Plank
+20.1,Male,53,Advanced,Endurance,Battle Ropes
+33.5,Male,32,Advanced,Strength,Leg Press
+29.7,Male,33,Beginner,Endurance,Battle Ropes
+33.5,Male,32,Advanced,Strength,Leg Press
+19.1,Female,60,Beginner,Strength,Bench Press
+26.5,Female,59,Intermediate,Fat Loss,Dumbbell Lunges
+24.1,Male,21,Advanced,Endurance,Plank
+24.5,Female,54,Advanced,Strength,Leg Press
+33.5,Male,32,Advanced,Strength,Bench Press
+21.9,Female,57,Beginner,Flexibility,Forward Fold
+33.0,Female,24,Beginner,Fat Loss,Dumbbell Lunges
+22.7,Female,21,Advanced,Fat Loss,Kettlebell Swing
+20.7,Male,37,Beginner,Endurance,Battle Ropes
+24.6,Male,22,Intermediate,Endurance,Kettlebell Clean & Press
+16.4,Male,58,Beginner,Strength,Machine Leg Extension
+19.1,Female,60,Beginner,Strength,Pull Ups
+22.7,Female,21,Advanced,Fat Loss,Elliptical Trainer
+28.4,Male,45,Advanced,Flexibility,Forward Fold
+16.7,Female,20,Intermediate,Endurance,Battle Ropes
+17.5,Female,21,Advanced,Strength,Lat Pulldown
+22.3,Female,36,Beginner,Fat Loss,Dumbbell Lunges
+19.5,Male,47,Advanced,Fat Loss,Burpees
+22.6,Male,33,Beginner,Flexibility,Spiderman Stretch
+34.0,Male,32,Intermediate,Strength,Overhead Press
+31.0,Female,60,Intermediate,Fat Loss,Step Ups
+18.7,Female,60,Intermediate,Fat Loss,Dumbbell Lunges
+30.9,Female,57,Intermediate,Endurance,Wall Sit
+28.3,Male,55,Advanced,Fat Loss,Jumping Jacks
+26.1,Female,38,Intermediate,Strength,Machine Chest Fly
+20.6,Male,37,Beginner,Strength,Machine Chest Fly
+19.9,Male,36,Intermediate,Strength,Deadlift
+21.9,Male,20,Beginner,Strength,Machine Chest Fly
+34.6,Female,50,Intermediate,Flexibility,Hamstring Stretch (Standing)
+35.0,Male,31,Advanced,Flexibility,Forward Fold
+23.3,Female,51,Beginner,Fat Loss,Step Ups
+18.0,Female,21,Advanced,Endurance,Air Squats
+31.5,Female,24,Beginner,Flexibility,Cat-Cow Stretch
+18.3,Female,55,Beginner,Fat Loss,Running (Treadmill)
+22.7,Female,21,Advanced,Fat Loss,Elliptical Trainer
+28.5,Male,58,Beginner,Endurance,Plank
+17.1,Male,23,Advanced,Endurance,Cycling (Outdoor)
+29.1,Female,26,Advanced,Strength,Overhead Press
+28.0,Female,56,Intermediate,Flexibility,Deep Squat Hold
+28.4,Male,45,Advanced,Flexibility,Hamstring Stretch (Standing)
+15.9,Male,19,Intermediate,Flexibility,Spiderman Stretch
+24.2,Female,25,Intermediate,Endurance,Push Ups
+21.9,Female,57,Beginner,Flexibility,Forward Fold
+30.9,Male,24,Beginner,Endurance,Battle Ropes
+16.8,Male,23,Advanced,Strength,Dumbbell Rows
+25.3,Female,32,Beginner,Strength,Overhead Press
+25.3,Female,32,Beginner,Strength,Overhead Press
+23.7,Female,20,Intermediate,Fat Loss,Dumbbell Lunges
+19.4,Female,47,Advanced,Fat Loss,Jumping Jacks
+26.1,Male,46,Advanced,Flexibility,Pigeon Pose
+22.1,Male,58,Advanced,Fat Loss,Running (Treadmill)
+28.4,Male,45,Advanced,Flexibility,Forward Fold
+21.8,Female,24,Beginner,Endurance,Air Squats
+19.7,Female,30,Intermediate,Flexibility,Pigeon Pose
+31.1,Female,39,Advanced,Fat Loss,Running (Treadmill)
+32.3,Female,52,Beginner,Flexibility,Shoulder Pass-Throughs
+27.1,Female,47,Intermediate,Strength,Bench Press
+29.4,Female,50,Beginner,Fat Loss,Mountain Climbers
+32.6,Male,33,Advanced,Flexibility,Spiderman Stretch
+27.7,Female,57,Advanced,Flexibility,Hamstring Stretch (Standing)
+18.2,Male,34,Intermediate,Endurance,Running (Outdoor)
+25.6,Male,25,Intermediate,Endurance,Battle Ropes
+30.3,Female,60,Advanced,Fat Loss,Jump Rope
+17.7,Male,53,Intermediate,Fat Loss,Running (Treadmill)
+28.7,Male,58,Advanced,Endurance,Push Ups
+26.5,Female,59,Intermediate,Fat Loss,Mountain Climbers
+19.4,Female,36,Advanced,Flexibility,Pigeon Pose
+20.4,Female,32,Beginner,Strength,Pull Ups
+31.4,Female,38,Beginner,Flexibility,Child's Pose
+29.1,Female,26,Advanced,Strength,Barbell Squat
+29.6,Male,58,Beginner,Strength,T-Bar Row
+27.1,Male,55,Advanced,Endurance,Battle Ropes
+28.5,Male,58,Beginner,Endurance,Cycling (Outdoor)
+22.1,Male,24,Advanced,Strength,Lat Pulldown
+16.6,Female,35,Advanced,Strength,Pull Ups
+15.7,Female,45,Advanced,Flexibility,Pigeon Pose
+19.0,Male,56,Intermediate,Fat Loss,Mountain Climbers
+26.5,Female,25,Advanced,Flexibility,Forward Fold
+22.5,Female,38,Advanced,Strength,Lat Pulldown
+31.7,Male,37,Beginner,Strength,Overhead Press
+22.2,Male,59,Beginner,Flexibility,Hamstring Stretch (Standing)
+22.7,Female,34,Beginner,Endurance,Push Ups
+25.3,Female,19,Intermediate,Flexibility,Spiderman Stretch
+30.7,Female,57,Beginner,Fat Loss,Kettlebell Swing
+19.1,Female,60,Beginner,Strength,Deadlift
+19.2,Male,30,Intermediate,Flexibility,Child's Pose
+18.0,Female,52,Intermediate,Strength,Bench Press
+15.1,Female,55,Beginner,Fat Loss,Dumbbell Lunges
+19.9,Female,22,Intermediate,Strength,Machine Leg Extension
+16.4,Female,34,Beginner,Strength,Overhead Press
+21.9,Male,20,Beginner,Strength,Machine Chest Fly
+33.1,Female,48,Advanced,Endurance,Push Ups
+33.5,Male,32,Advanced,Strength,Leg Press
+28.2,Male,45,Beginner,Flexibility,Cat-Cow Stretch
+16.6,Female,58,Advanced,Endurance,Wall Sit
+32.6,Male,24,Beginner,Fat Loss,Goblet Squat
+22.3,Male,32,Beginner,Strength,Machine Leg Extension
+32.4,Male,50,Advanced,Endurance,Recumbent Bike
+32.4,Male,54,Advanced,Flexibility,Shoulder Pass-Throughs
+31.0,Female,60,Intermediate,Fat Loss,Step Ups
+18.0,Female,21,Advanced,Endurance,Push Ups
+21.5,Male,34,Intermediate,Flexibility,Hamstring Stretch (Standing)
+24.7,Male,56,Intermediate,Endurance,Air Squats
+16.5,Female,46,Advanced,Flexibility,Cat-Cow Stretch
+15.3,Male,26,Advanced,Endurance,Plank
+17.7,Male,53,Intermediate,Fat Loss,Elliptical Trainer
+24.6,Male,22,Intermediate,Endurance,Kettlebell Clean & Press
+22.1,Male,20,Advanced,Endurance,Air Squats
+20.7,Male,45,Advanced,Endurance,Air Squats
+23.1,Female,38,Advanced,Strength,Dumbbell Rows
+28.2,Male,45,Beginner,Flexibility,Spiderman Stretch
+22.7,Female,21,Advanced,Fat Loss,Kettlebell Swing
+30.5,Female,25,Intermediate,Fat Loss,Jump Rope
+27.9,Male,25,Intermediate,Flexibility,Forward Fold
+23.6,Female,21,Advanced,Flexibility,Forward Fold
+26.0,Female,47,Intermediate,Strength,Deadlift
+34.0,Male,32,Intermediate,Strength,Overhead Press
+33.1,Female,46,Intermediate,Strength,Machine Chest Fly
+34.7,Female,51,Advanced,Endurance,Battle Ropes
+17.6,Female,39,Intermediate,Flexibility,Spiderman Stretch
+20.1,Female,57,Advanced,Strength,Bench Press
+22.0,Male,57,Beginner,Endurance,Recumbent Bike
+22.3,Female,36,Beginner,Fat Loss,Jumping Jacks
+18.0,Female,48,Advanced,Endurance,Battle Ropes
+33.9,Female,48,Intermediate,Flexibility,Child's Pose
+15.9,Male,53,Beginner,Flexibility,Shoulder Pass-Throughs
+24.4,Male,35,Intermediate,Fat Loss,Kettlebell Swing
+32.5,Male,59,Intermediate,Flexibility,Pigeon Pose
+16.8,Male,23,Advanced,Strength,Lat Pulldown
+34.6,Male,38,Intermediate,Flexibility,Deep Squat Hold
+21.0,Male,20,Beginner,Endurance,Push Ups
+34.3,Male,59,Beginner,Fat Loss,Mountain Climbers
+29.8,Male,26,Advanced,Fat Loss,Burpees
+33.5,Female,50,Intermediate,Strength,Bench Press
+21.5,Female,57,Intermediate,Flexibility,Spiderman Stretch
+23.0,Male,55,Advanced,Fat Loss,Dumbbell Lunges
+21.9,Male,20,Beginner,Strength,Machine Chest Fly
+34.0,Male,32,Intermediate,Strength,Pull Ups
+28.2,Male,45,Beginner,Flexibility,Forward Fold
+22.3,Female,36,Beginner,Fat Loss,Mountain Climbers
+24.6,Male,22,Intermediate,Endurance,Kettlebell Clean & Press
+18.5,Female,23,Beginner,Strength,Pull Ups
+23.5,Female,27,Advanced,Endurance,Recumbent Bike
+29.1,Female,47,Advanced,Fat Loss,Step Ups
+27.9,Female,23,Intermediate,Endurance,Cycling (Outdoor)
+23.3,Female,51,Beginner,Fat Loss,Burpees
+20.9,Male,23,Advanced,Fat Loss,Jump Rope
+24.9,Male,53,Advanced,Strength,Deadlift
+31.8,Male,26,Intermediate,Flexibility,Hamstring Stretch (Standing)
+24.6,Male,22,Intermediate,Endurance,Recumbent Bike
+32.6,Male,24,Beginner,Fat Loss,Goblet Squat
+27.0,Female,23,Advanced,Endurance,Running (Outdoor)
+33.5,Female,50,Intermediate,Strength,Overhead Press
+33.5,Female,50,Intermediate,Strength,Dumbbell Rows
+28.4,Male,45,Advanced,Flexibility,Deep Squat Hold
+23.8,Male,55,Advanced,Flexibility,Hamstring Stretch (Standing)
+32.6,Female,52,Intermediate,Flexibility,Child's Pose
+33.6,Male,38,Advanced,Flexibility,Spiderman Stretch
+16.5,Female,46,Advanced,Flexibility,Cat-Cow Stretch
+18.1,Female,60,Intermediate,Strength,Machine Chest Fly
+32.3,Female,45,Advanced,Strength,Deadlift
+25.2,Female,39,Beginner,Endurance,Kettlebell Clean & Press
+32.3,Male,30,Intermediate,Fat Loss,Step Ups
+31.5,Male,22,Beginner,Endurance,Running (Outdoor)
+25.3,Male,22,Intermediate,Strength,Dumbbell Rows
+22.5,Male,31,Advanced,Strength,Pull Ups
+16.3,Female,47,Beginner,Strength,Machine Chest Fly
+32.0,Male,30,Beginner,Flexibility,Pigeon Pose
+30.2,Female,55,Beginner,Strength,Lat Pulldown
+17.4,Male,39,Intermediate,Strength,T-Bar Row
+23.2,Male,58,Intermediate,Fat Loss,Jumping Jacks
+32.4,Male,54,Advanced,Flexibility,Shoulder Pass-Throughs
+26.6,Female,23,Beginner,Fat Loss,Dumbbell Lunges
+27.1,Male,55,Advanced,Endurance,Push Ups
+28.8,Male,50,Intermediate,Endurance,Wall Sit
+30.3,Female,60,Advanced,Fat Loss,Dumbbell Lunges
+21.8,Female,24,Beginner,Endurance,Wall Sit
+22.7,Female,30,Advanced,Endurance,Recumbent Bike
+20.2,Female,23,Advanced,Strength,T-Bar Row
+20.7,Male,19,Intermediate,Fat Loss,Kettlebell Swing
+26.4,Male,50,Beginner,Fat Loss,Jumping Jacks
+25.9,Female,36,Beginner,Flexibility,Child's Pose
+27.4,Female,56,Advanced,Endurance,Wall Sit
+22.7,Female,30,Advanced,Endurance,Recumbent Bike
+25.2,Female,39,Beginner,Endurance,Recumbent Bike
+33.1,Female,46,Intermediate,Strength,Machine Chest Fly
+26.5,Female,25,Advanced,Flexibility,Child's Pose
+29.4,Female,53,Beginner,Endurance,Cycling (Outdoor)
+22.3,Male,32,Beginner,Strength,Bench Press
+24.6,Female,56,Beginner,Fat Loss,Jump Rope
+28.3,Male,55,Advanced,Fat Loss,Elliptical Trainer
+15.3,Male,26,Advanced,Endurance,Kettlebell Clean & Press
+17.8,Female,31,Intermediate,Strength,Deadlift
+18.8,Female,53,Intermediate,Flexibility,Forward Fold
+32.0,Male,30,Beginner,Flexibility,Deep Squat Hold
+16.0,Female,48,Advanced,Flexibility,Spiderman Stretch
+22.8,Female,58,Intermediate,Flexibility,Deep Squat Hold
+25.3,Female,37,Intermediate,Endurance,Wall Sit
+19.9,Male,36,Intermediate,Strength,Pull Ups
+18.8,Male,33,Beginner,Strength,Deadlift
+31.4,Female,38,Beginner,Flexibility,Spiderman Stretch
+29.4,Male,49,Intermediate,Strength,Deadlift
+30.2,Female,55,Advanced,Strength,T-Bar Row
+32.3,Male,54,Beginner,Strength,Leg Press
+34.0,Male,32,Intermediate,Strength,Machine Leg Extension
+21.0,Female,60,Beginner,Strength,Overhead Press
+27.3,Male,23,Intermediate,Strength,Dumbbell Rows
+17.9,Female,45,Beginner,Endurance,Plank
+21.6,Male,25,Intermediate,Strength,Dumbbell Rows
+30.2,Female,55,Advanced,Strength,Machine Chest Fly
+19.2,Male,47,Beginner,Endurance,Running (Outdoor)
+25.3,Female,32,Beginner,Strength,Overhead Press
+30.2,Female,47,Intermediate,Endurance,Kettlebell Clean & Press
+32.7,Female,58,Beginner,Endurance,Battle Ropes
+21.1,Female,18,Beginner,Endurance,Battle Ropes
+30.1,Male,52,Intermediate,Fat Loss,Step Ups
+15.5,Male,46,Intermediate,Strength,Overhead Press
+32.1,Male,58,Advanced,Endurance,Wall Sit
+30.3,Male,59,Beginner,Flexibility,Deep Squat Hold
+20.7,Male,37,Beginner,Endurance,Running (Outdoor)
+30.8,Female,27,Beginner,Flexibility,Cat-Cow Stretch
+24.6,Female,56,Beginner,Fat Loss,Kettlebell Swing
+33.4,Male,60,Intermediate,Strength,Lat Pulldown
+24.1,Female,59,Intermediate,Endurance,Push Ups
+20.7,Male,37,Beginner,Endurance,Running (Outdoor)
+20.1,Female,57,Advanced,Strength,Machine Leg Extension
+17.8,Female,20,Advanced,Flexibility,Forward Fold
+17.7,Male,53,Intermediate,Fat Loss,Burpees
+28.2,Male,45,Beginner,Flexibility,Child's Pose
+22.0,Male,49,Beginner,Flexibility,Shoulder Pass-Throughs
+24.4,Male,35,Intermediate,Fat Loss,Goblet Squat
+34.5,Male,18,Intermediate,Fat Loss,Mountain Climbers
+32.1,Female,50,Advanced,Fat Loss,Dumbbell Lunges
+19.5,Male,32,Intermediate,Endurance,Recumbent Bike
+18.0,Female,52,Intermediate,Strength,T-Bar Row
+20.9,Female,35,Intermediate,Strength,Barbell Squat
+15.2,Female,30,Beginner,Strength,Overhead Press
+31.2,Female,25,Beginner,Strength,Overhead Press
+17.8,Female,31,Intermediate,Strength,Barbell Squat
+19.2,Male,30,Intermediate,Flexibility,Pigeon Pose
+16.6,Male,58,Beginner,Endurance,Push Ups
+19.2,Male,47,Beginner,Endurance,Running (Outdoor)
+16.4,Male,58,Beginner,Strength,Overhead Press
+29.4,Female,50,Beginner,Fat Loss,Mountain Climbers
+34.7,Male,59,Intermediate,Strength,Lat Pulldown
+22.7,Female,34,Beginner,Endurance,Battle Ropes
+17.2,Female,58,Advanced,Endurance,Battle Ropes
+24.9,Female,30,Advanced,Flexibility,Forward Fold
+31.0,Female,60,Intermediate,Fat Loss,Kettlebell Swing
+29.2,Female,26,Beginner,Endurance,Cycling (Outdoor)
+25.3,Female,32,Beginner,Strength,Machine Leg Extension
+18.6,Female,26,Advanced,Fat Loss,Jumping Jacks
+26.1,Male,46,Advanced,Flexibility,Forward Fold
+19.9,Male,22,Intermediate,Strength,Bench Press
+24.5,Male,37,Advanced,Endurance,Push Ups
+23.6,Male,50,Beginner,Flexibility,Pigeon Pose
+16.7,Female,37,Beginner,Fat Loss,Elliptical Trainer
+28.0,Female,56,Intermediate,Flexibility,Forward Fold
+23.3,Male,20,Intermediate,Endurance,Push Ups
+21.7,Female,56,Beginner,Fat Loss,Kettlebell Swing
+20.9,Male,24,Intermediate,Strength,Lat Pulldown
+17.8,Male,60,Advanced,Flexibility,Pigeon Pose
+22.3,Male,50,Advanced,Fat Loss,Burpees
+27.5,Male,46,Beginner,Fat Loss,Step Ups
+16.6,Male,51,Intermediate,Endurance,Battle Ropes
+34.6,Female,50,Advanced,Fat Loss,Elliptical Trainer
+34.6,Female,50,Advanced,Fat Loss,Dumbbell Lunges
+24.2,Female,25,Intermediate,Endurance,Running (Outdoor)
+33.3,Female,48,Advanced,Endurance,Battle Ropes
+33.3,Female,48,Advanced,Endurance,Battle Ropes
+27.5,Male,46,Beginner,Fat Loss,Elliptical Trainer
+21.0,Female,60,Intermediate,Strength,Machine Chest Fly
+18.3,Female,46,Beginner,Fat Loss,Dumbbell Lunges
+22.6,Male,39,Advanced,Fat Loss,Kettlebell Swing
+19.0,Male,56,Intermediate,Fat Loss,Running (Treadmill)
+22.3,Female,60,Beginner,Strength,Lat Pulldown
+26.5,Female,25,Advanced,Flexibility,Cat-Cow Stretch
+28.7,Male,58,Advanced,Endurance,Recumbent Bike
+27.1,Male,55,Advanced,Endurance,Running (Outdoor)
+24.5,Male,37,Advanced,Endurance,Battle Ropes
+23.0,Female,60,Advanced,Flexibility,Deep Squat Hold
+24.9,Female,58,Intermediate,Strength,Bench Press
+23.3,Female,51,Beginner,Fat Loss,Step Ups
+31.1,Female,49,Advanced,Flexibility,Child's Pose
+27.1,Female,33,Beginner,Flexibility,Shoulder Pass-Throughs
+16.7,Female,20,Intermediate,Endurance,Plank
+27.1,Female,20,Advanced,Endurance,Plank
+33.8,Male,36,Advanced,Fat Loss,Mountain Climbers
+15.6,Male,33,Beginner,Fat Loss,Jump Rope
+15.7,Female,18,Intermediate,Flexibility,Cat-Cow Stretch
+26.2,Male,26,Beginner,Flexibility,Shoulder Pass-Throughs
+22.7,Male,59,Intermediate,Fat Loss,Burpees
+27.1,Female,20,Advanced,Endurance,Plank
+34.0,Male,31,Advanced,Endurance,Battle Ropes
+18.3,Female,55,Beginner,Fat Loss,Step Ups
+19.6,Male,52,Intermediate,Endurance,Plank
+31.8,Female,47,Beginner,Strength,Overhead Press
+26.0,Female,55,Beginner,Strength,Machine Leg Extension
+18.3,Male,36,Advanced,Endurance,Kettlebell Clean & Press
+25.6,Male,51,Beginner,Strength,Machine Leg Extension
+16.7,Female,37,Beginner,Fat Loss,Burpees
+19.7,Male,18,Advanced,Flexibility,Pigeon Pose
+21.9,Male,20,Beginner,Strength,T-Bar Row
+16.8,Female,59,Intermediate,Fat Loss,Step Ups
+20.1,Female,57,Advanced,Strength,Barbell Squat
+21.0,Female,60,Beginner,Strength,Bench Press
+19.9,Female,22,Intermediate,Strength,Dumbbell Rows
+16.8,Male,51,Intermediate,Fat Loss,Mountain Climbers
+32.7,Female,51,Intermediate,Endurance,Recumbent Bike
+25.1,Female,25,Advanced,Endurance,Recumbent Bike
+17.8,Male,23,Intermediate,Fat Loss,Jump Rope
+22.7,Female,30,Advanced,Endurance,Cycling (Outdoor)
+16.6,Male,58,Beginner,Endurance,Wall Sit
+27.2,Male,53,Beginner,Endurance,Kettlebell Clean & Press
+33.5,Male,48,Beginner,Strength,Deadlift
+28.8,Male,50,Intermediate,Endurance,Recumbent Bike
+20.7,Male,45,Advanced,Endurance,Cycling (Outdoor)
+16.1,Female,57,Advanced,Flexibility,Pigeon Pose
+32.4,Male,50,Advanced,Endurance,Plank
+30.9,Male,34,Beginner,Flexibility,Cat-Cow Stretch
+27.9,Female,23,Intermediate,Endurance,Cycling (Outdoor)
+16.9,Male,27,Advanced,Strength,Barbell Squat
+18.6,Male,38,Intermediate,Endurance,Plank
+34.6,Female,50,Intermediate,Flexibility,Deep Squat Hold
+27.1,Female,20,Advanced,Endurance,Plank
+34.0,Male,50,Beginner,Fat Loss,Kettlebell Swing
+31.0,Female,57,Beginner,Endurance,Battle Ropes
+18.0,Female,48,Advanced,Endurance,Recumbent Bike
+23.5,Male,18,Beginner,Endurance,Air Squats
+19.8,Male,56,Beginner,Flexibility,Pigeon Pose
+26.0,Male,58,Intermediate,Flexibility,Shoulder Pass-Throughs
+17.9,Male,58,Advanced,Strength,Lat Pulldown
+29.3,Female,55,Beginner,Endurance,Air Squats
+31.4,Female,38,Beginner,Flexibility,Forward Fold
+33.0,Female,24,Beginner,Fat Loss,Jump Rope
+17.2,Female,58,Advanced,Endurance,Kettlebell Clean & Press
+30.3,Male,59,Beginner,Flexibility,Shoulder Pass-Throughs
+31.1,Female,49,Advanced,Flexibility,Forward Fold
+19.7,Male,18,Advanced,Flexibility,Pigeon Pose
+26.4,Male,50,Beginner,Fat Loss,Goblet Squat
+23.9,Female,57,Intermediate,Flexibility,Spiderman Stretch
+16.6,Male,51,Intermediate,Endurance,Plank
+17.9,Female,45,Beginner,Endurance,Battle Ropes
+23.6,Female,55,Beginner,Endurance,Plank
+31.0,Female,32,Intermediate,Strength,Machine Leg Extension
+16.3,Female,47,Beginner,Strength,Pull Ups
+22.7,Female,30,Advanced,Endurance,Wall Sit
+18.6,Female,26,Advanced,Fat Loss,Elliptical Trainer
+19.9,Male,36,Intermediate,Strength,Dumbbell Rows
+32.1,Male,36,Advanced,Endurance,Push Ups
+31.8,Female,47,Beginner,Strength,Lat Pulldown
+21.8,Male,37,Advanced,Strength,Deadlift
+27.1,Female,33,Beginner,Flexibility,Deep Squat Hold
+17.9,Male,58,Advanced,Strength,Deadlift
+22.0,Female,30,Advanced,Endurance,Wall Sit
+18.6,Female,45,Intermediate,Fat Loss,Mountain Climbers
+33.8,Male,26,Intermediate,Fat Loss,Dumbbell Lunges
+21.8,Female,24,Beginner,Endurance,Air Squats
+20.8,Female,58,Advanced,Endurance,Push Ups
+22.3,Male,46,Advanced,Fat Loss,Dumbbell Lunges
+18.6,Male,38,Intermediate,Endurance,Battle Ropes
+15.3,Male,26,Advanced,Endurance,Plank
+17.9,Female,34,Advanced,Endurance,Air Squats
+33.8,Male,26,Intermediate,Fat Loss,Goblet Squat
+29.2,Female,30,Beginner,Fat Loss,Burpees
+17.3,Female,54,Beginner,Fat Loss,Jumping Jacks
+25.3,Female,19,Intermediate,Flexibility,Cat-Cow Stretch
+24.2,Female,25,Intermediate,Endurance,Running (Outdoor)
+31.7,Male,37,Beginner,Strength,Deadlift
+32.3,Female,45,Advanced,Strength,Bench Press
+30.7,Female,52,Beginner,Strength,Pull Ups
+22.6,Male,33,Beginner,Flexibility,Hamstring Stretch (Standing)
+29.7,Male,33,Beginner,Endurance,Wall Sit
+32.6,Male,33,Advanced,Flexibility,Spiderman Stretch
+17.8,Female,31,Intermediate,Strength,Machine Leg Extension
+16.5,Male,49,Beginner,Endurance,Recumbent Bike
+26.5,Female,59,Intermediate,Fat Loss,Goblet Squat
+30.9,Female,35,Intermediate,Strength,Barbell Squat
+23.5,Male,18,Beginner,Endurance,Kettlebell Clean & Press
+29.2,Female,26,Beginner,Endurance,Wall Sit
+23.0,Male,54,Beginner,Strength,Overhead Press
+22.7,Male,36,Advanced,Flexibility,Hamstring Stretch (Standing)
+25.3,Male,22,Intermediate,Strength,T-Bar Row
+21.6,Male,25,Intermediate,Strength,Leg Press
+34.7,Female,51,Advanced,Endurance,Recumbent Bike
+32.3,Male,54,Beginner,Strength,Lat Pulldown
+16.4,Male,58,Beginner,Strength,Overhead Press
+20.1,Female,53,Beginner,Strength,Barbell Squat
+23.7,Female,20,Intermediate,Fat Loss,Mountain Climbers
+20.9,Male,24,Intermediate,Strength,Overhead Press
+24.2,Female,35,Advanced,Endurance,Cycling (Outdoor)
+23.9,Male,34,Advanced,Strength,Machine Chest Fly
+31.8,Female,47,Beginner,Flexibility,Shoulder Pass-Throughs
+22.3,Male,22,Beginner,Fat Loss,Step Ups
+28.7,Male,58,Advanced,Endurance,Push Ups
+26.3,Male,31,Beginner,Endurance,Cycling (Outdoor)
+25.6,Male,25,Intermediate,Endurance,Push Ups
+32.1,Female,50,Advanced,Fat Loss,Dumbbell Lunges
+27.1,Female,33,Beginner,Flexibility,Shoulder Pass-Throughs
+27.5,Female,20,Advanced,Fat Loss,Mountain Climbers
+17.9,Female,34,Advanced,Endurance,Air Squats
+24.5,Female,18,Advanced,Fat Loss,Jump Rope
+21.8,Female,24,Beginner,Endurance,Kettlebell Clean & Press
+30.9,Female,57,Intermediate,Endurance,Push Ups
+31.6,Female,56,Beginner,Flexibility,Pigeon Pose
+33.5,Male,32,Advanced,Strength,Deadlift
+18.8,Female,59,Beginner,Endurance,Push Ups
+23.8,Male,55,Advanced,Flexibility,Forward Fold
+25.7,Male,35,Beginner,Fat Loss,Goblet Squat
+25.8,Male,51,Intermediate,Flexibility,Forward Fold
+32.5,Male,59,Intermediate,Flexibility,Pigeon Pose
+22.0,Male,49,Beginner,Flexibility,Spiderman Stretch
+34.8,Female,38,Beginner,Flexibility,Deep Squat Hold
+25.7,Male,55,Intermediate,Endurance,Air Squats
+18.3,Female,55,Beginner,Fat Loss,Elliptical Trainer
+30.8,Female,27,Beginner,Flexibility,Deep Squat Hold
+19.5,Male,47,Advanced,Fat Loss,Jump Rope
+33.3,Female,48,Advanced,Endurance,Running (Outdoor)
+22.3,Male,32,Beginner,Strength,Leg Press
+27.5,Male,35,Advanced,Fat Loss,Burpees
+26.0,Male,58,Intermediate,Flexibility,Cat-Cow Stretch
+30.2,Female,55,Advanced,Strength,Pull Ups
+31.5,Female,24,Beginner,Flexibility,Deep Squat Hold
+16.9,Female,30,Intermediate,Endurance,Push Ups
+28.7,Female,21,Beginner,Strength,Machine Chest Fly
+32.2,Female,21,Intermediate,Strength,T-Bar Row
+25.3,Female,32,Beginner,Strength,Machine Leg Extension
+23.7,Female,20,Intermediate,Fat Loss,Burpees
+25.6,Male,25,Intermediate,Endurance,Cycling (Outdoor)
+27.5,Male,46,Beginner,Fat Loss,Elliptical Trainer
+27.5,Female,20,Advanced,Fat Loss,Step Ups
+24.9,Female,45,Beginner,Flexibility,Hamstring Stretch (Standing)
+30.3,Male,59,Beginner,Flexibility,Cat-Cow Stretch
+32.3,Male,54,Beginner,Strength,Lat Pulldown
+30.5,Female,25,Intermediate,Fat Loss,Jump Rope
+29.4,Male,59,Advanced,Flexibility,Hamstring Stretch (Standing)
+25.6,Male,25,Intermediate,Endurance,Recumbent Bike
+32.1,Male,36,Advanced,Endurance,Air Squats
+19.7,Male,18,Advanced,Flexibility,Cat-Cow Stretch
+25.6,Male,52,Intermediate,Endurance,Recumbent Bike
+29.4,Female,50,Beginner,Fat Loss,Mountain Climbers
+21.0,Female,60,Intermediate,Strength,Leg Press
+16.7,Female,37,Beginner,Fat Loss,Kettlebell Swing
+18.1,Female,30,Advanced,Fat Loss,Elliptical Trainer
+19.1,Male,46,Advanced,Endurance,Running (Outdoor)
+30.5,Female,25,Intermediate,Fat Loss,Goblet Squat
+23.1,Female,38,Advanced,Strength,Leg Press
+27.2,Male,53,Beginner,Endurance,Kettlebell Clean & Press
+17.6,Female,39,Intermediate,Flexibility,Spiderman Stretch
+34.2,Male,27,Advanced,Flexibility,Child's Pose
+29.6,Male,22,Intermediate,Endurance,Cycling (Outdoor)
+19.9,Male,37,Advanced,Fat Loss,Jump Rope
+31.3,Female,52,Beginner,Endurance,Kettlebell Clean & Press
+18.0,Female,48,Advanced,Endurance,Air Squats
+24.6,Male,47,Intermediate,Flexibility,Child's Pose
+34.2,Female,58,Advanced,Fat Loss,Dumbbell Lunges
+16.1,Male,57,Intermediate,Endurance,Air Squats
+29.4,Female,50,Beginner,Fat Loss,Running (Treadmill)
+22.6,Male,33,Beginner,Flexibility,Pigeon Pose
+32.4,Male,54,Advanced,Flexibility,Forward Fold
+23.4,Male,51,Advanced,Fat Loss,Dumbbell Lunges
+34.7,Male,59,Intermediate,Strength,Deadlift
+28.8,Male,50,Intermediate,Endurance,Air Squats
+19.5,Male,47,Advanced,Fat Loss,Burpees
+18.0,Female,21,Advanced,Endurance,Wall Sit
+18.3,Female,46,Beginner,Fat Loss,Kettlebell Swing
+30.1,Male,48,Intermediate,Fat Loss,Jumping Jacks
+32.8,Female,37,Advanced,Fat Loss,Kettlebell Swing
+19.1,Male,46,Advanced,Endurance,Wall Sit
+27.7,Female,46,Intermediate,Flexibility,Forward Fold
+24.5,Female,18,Advanced,Fat Loss,Mountain Climbers
+33.1,Female,46,Intermediate,Strength,Bench Press
+28.2,Female,18,Intermediate,Strength,Bench Press
+17.3,Female,33,Intermediate,Flexibility,Hamstring Stretch (Standing)
+20.2,Female,19,Advanced,Fat Loss,Kettlebell Swing
+33.1,Female,48,Advanced,Endurance,Battle Ropes
+34.3,Female,36,Beginner,Endurance,Push Ups
+18.9,Male,35,Advanced,Endurance,Recumbent Bike
+24.9,Female,45,Beginner,Flexibility,Spiderman Stretch
+17.5,Female,23,Intermediate,Flexibility,Cat-Cow Stretch
+27.3,Female,19,Beginner,Flexibility,Deep Squat Hold
+23.7,Female,20,Intermediate,Fat Loss,Mountain Climbers
+27.9,Male,25,Intermediate,Flexibility,Spiderman Stretch
+28.4,Female,59,Intermediate,Strength,Dumbbell Rows
+18.6,Male,38,Intermediate,Endurance,Push Ups
+25.3,Female,32,Beginner,Strength,Barbell Squat
+24.0,Male,36,Intermediate,Strength,Deadlift
+32.9,Male,59,Advanced,Strength,Lat Pulldown
+31.0,Female,57,Beginner,Endurance,Battle Ropes
+33.6,Male,38,Advanced,Flexibility,Hamstring Stretch (Standing)
+21.6,Female,35,Intermediate,Fat Loss,Jumping Jacks
+29.7,Male,33,Beginner,Endurance,Kettlebell Clean & Press
+32.8,Female,37,Advanced,Fat Loss,Jump Rope
+20.8,Female,58,Advanced,Endurance,Battle Ropes
+22.3,Male,46,Advanced,Fat Loss,Kettlebell Swing
+22.7,Female,30,Advanced,Endurance,Kettlebell Clean & Press
+22.9,Male,59,Advanced,Fat Loss,Mountain Climbers
+23.6,Female,55,Beginner,Endurance,Plank
+28.5,Male,58,Beginner,Endurance,Wall Sit
+16.7,Female,37,Beginner,Fat Loss,Kettlebell Swing
+27.5,Female,36,Intermediate,Flexibility,Cat-Cow Stretch
+31.8,Female,47,Beginner,Strength,Machine Chest Fly
+32.9,Male,59,Advanced,Strength,Lat Pulldown
+22.3,Male,22,Beginner,Fat Loss,Step Ups
+20.1,Female,57,Advanced,Strength,Deadlift
+27.3,Male,23,Intermediate,Strength,Overhead Press
+29.6,Male,22,Intermediate,Endurance,Push Ups
+18.1,Female,30,Advanced,Fat Loss,Kettlebell Swing
+22.3,Female,60,Beginner,Strength,Pull Ups
+21.7,Male,60,Advanced,Strength,Machine Leg Extension
+32.0,Male,30,Beginner,Flexibility,Deep Squat Hold
+24.2,Female,25,Intermediate,Endurance,Running (Outdoor)
+24.6,Female,56,Beginner,Fat Loss,Jumping Jacks
+16.8,Male,51,Intermediate,Fat Loss,Jump Rope
+22.1,Male,38,Intermediate,Fat Loss,Burpees
+18.5,Female,33,Beginner,Endurance,Push Ups
+31.4,Male,19,Advanced,Endurance,Battle Ropes
+15.5,Male,46,Intermediate,Strength,Pull Ups
+25.2,Female,32,Advanced,Fat Loss,Mountain Climbers
+32.0,Male,30,Beginner,Flexibility,Pigeon Pose
+28.6,Female,39,Intermediate,Fat Loss,Jump Rope
+16.6,Female,35,Advanced,Strength,Lat Pulldown
+22.3,Male,22,Beginner,Fat Loss,Jumping Jacks
+33.1,Female,59,Advanced,Fat Loss,Running (Treadmill)
+23.3,Male,20,Intermediate,Endurance,Running (Outdoor)
+25.3,Female,37,Intermediate,Endurance,Plank
+18.3,Male,36,Advanced,Endurance,Kettlebell Clean & Press
+29.8,Male,26,Advanced,Fat Loss,Jump Rope
+25.8,Male,32,Beginner,Flexibility,Shoulder Pass-Throughs
+30.9,Male,51,Advanced,Endurance,Push Ups
+22.3,Male,50,Advanced,Fat Loss,Dumbbell Lunges
+21.8,Male,55,Beginner,Fat Loss,Running (Treadmill)
+20.1,Female,57,Advanced,Strength,Bench Press
+18.0,Female,52,Intermediate,Strength,T-Bar Row
+19.2,Male,30,Intermediate,Flexibility,Deep Squat Hold
+27.3,Female,20,Advanced,Strength,Dumbbell Rows
+26.0,Male,55,Beginner,Strength,Machine Chest Fly
+28.2,Male,45,Beginner,Flexibility,Spiderman Stretch
+30.2,Female,55,Advanced,Strength,T-Bar Row
+20.6,Female,30,Advanced,Strength,Machine Chest Fly
+18.1,Female,30,Advanced,Fat Loss,Kettlebell Swing
+27.4,Female,56,Advanced,Endurance,Plank
+34.0,Female,51,Intermediate,Fat Loss,Dumbbell Lunges
+28.6,Female,36,Advanced,Flexibility,Shoulder Pass-Throughs
+21.0,Female,60,Beginner,Strength,Dumbbell Rows
+23.4,Female,46,Intermediate,Endurance,Kettlebell Clean & Press
+19.1,Male,46,Advanced,Endurance,Cycling (Outdoor)
+26.0,Male,58,Intermediate,Flexibility,Cat-Cow Stretch
+20.9,Male,23,Advanced,Fat Loss,Kettlebell Swing
+33.1,Female,59,Advanced,Fat Loss,Goblet Squat
+32.6,Male,24,Beginner,Fat Loss,Dumbbell Lunges
+24.1,Female,30,Intermediate,Fat Loss,Step Ups
+32.2,Female,21,Intermediate,Strength,T-Bar Row
+27.3,Female,20,Advanced,Strength,Pull Ups
+17.8,Male,23,Intermediate,Fat Loss,Running (Treadmill)
+23.2,Male,58,Intermediate,Fat Loss,Mountain Climbers
+26.5,Female,59,Intermediate,Fat Loss,Elliptical Trainer
+19.3,Male,49,Advanced,Strength,Machine Chest Fly
+33.2,Male,36,Beginner,Fat Loss,Kettlebell Swing
+34.0,Female,51,Intermediate,Fat Loss,Dumbbell Lunges
+16.0,Female,48,Advanced,Flexibility,Child's Pose
+35.0,Male,31,Advanced,Flexibility,Child's Pose
+33.7,Male,45,Advanced,Flexibility,Child's Pose
+32.7,Female,58,Beginner,Endurance,Plank
+17.9,Male,58,Advanced,Strength,Overhead Press
+18.5,Female,33,Beginner,Endurance,Wall Sit
+17.9,Female,35,Advanced,Flexibility,Cat-Cow Stretch
+34.6,Female,50,Advanced,Fat Loss,Dumbbell Lunges
+18.5,Female,33,Beginner,Endurance,Push Ups
+16.8,Female,23,Intermediate,Fat Loss,Elliptical Trainer
+27.8,Male,55,Beginner,Endurance,Running (Outdoor)
+17.7,Female,36,Beginner,Fat Loss,Step Ups
+16.8,Male,22,Advanced,Flexibility,Cat-Cow Stretch
+22.9,Male,59,Advanced,Fat Loss,Mountain Climbers
+27.0,Female,23,Advanced,Endurance,Wall Sit
+23.7,Female,48,Beginner,Fat Loss,Kettlebell Swing
+32.3,Male,54,Beginner,Strength,Leg Press
+31.4,Female,38,Beginner,Flexibility,Forward Fold
+30.7,Male,58,Intermediate,Strength,Dumbbell Rows
+32.6,Female,52,Intermediate,Flexibility,Hamstring Stretch (Standing)
+26.3,Male,31,Beginner,Endurance,Plank
+18.6,Female,45,Intermediate,Fat Loss,Running (Treadmill)
+30.3,Male,59,Beginner,Flexibility,Pigeon Pose
+28.4,Female,59,Intermediate,Strength,Dumbbell Rows
+22.6,Male,60,Advanced,Strength,Overhead Press
+22.7,Female,30,Advanced,Endurance,Cycling (Outdoor)
+24.9,Female,47,Beginner,Endurance,Plank
+25.1,Female,35,Advanced,Fat Loss,Mountain Climbers
+32.6,Male,24,Beginner,Fat Loss,Dumbbell Lunges
+26.1,Male,46,Advanced,Flexibility,Spiderman Stretch
+16.7,Male,58,Intermediate,Flexibility,Pigeon Pose
+33.8,Male,36,Advanced,Fat Loss,Dumbbell Lunges
+24.9,Female,47,Beginner,Endurance,Wall Sit
+18.8,Female,53,Intermediate,Flexibility,Forward Fold
+25.3,Female,37,Intermediate,Endurance,Wall Sit
+22.5,Male,31,Advanced,Strength,Machine Chest Fly
+22.0,Male,49,Beginner,Flexibility,Child's Pose
+31.5,Male,22,Beginner,Endurance,Plank
+19.0,Female,27,Intermediate,Flexibility,Spiderman Stretch
+34.0,Male,32,Intermediate,Strength,Overhead Press
+32.1,Male,58,Advanced,Endurance,Battle Ropes
+24.4,Female,47,Advanced,Strength,Deadlift
+18.3,Male,36,Advanced,Endurance,Plank
+24.9,Male,45,Beginner,Flexibility,Shoulder Pass-Throughs
+28.6,Female,36,Advanced,Flexibility,Spiderman Stretch
+22.3,Male,46,Beginner,Strength,Barbell Squat
+34.0,Male,56,Intermediate,Endurance,Running (Outdoor)
+15.7,Female,18,Intermediate,Flexibility,Shoulder Pass-Throughs
+33.7,Male,45,Advanced,Flexibility,Shoulder Pass-Throughs
+21.5,Female,57,Intermediate,Flexibility,Child's Pose
+15.9,Male,53,Beginner,Flexibility,Child's Pose
+32.1,Male,58,Advanced,Endurance,Wall Sit
+17.5,Female,21,Advanced,Strength,Machine Chest Fly
+27.1,Male,55,Advanced,Endurance,Air Squats
+34.5,Female,23,Advanced,Strength,Overhead Press
+21.7,Male,55,Beginner,Endurance,Battle Ropes
+29.2,Female,26,Beginner,Endurance,Air Squats
+16.6,Male,51,Intermediate,Endurance,Battle Ropes
+22.7,Female,34,Beginner,Endurance,Recumbent Bike
+18.5,Female,33,Beginner,Endurance,Push Ups
+31.8,Female,47,Beginner,Strength,Barbell Squat
+15.9,Male,53,Beginner,Flexibility,Deep Squat Hold
+29.1,Male,22,Intermediate,Flexibility,Cat-Cow Stretch
+34.1,Female,46,Intermediate,Endurance,Kettlebell Clean & Press
+21.8,Female,24,Beginner,Endurance,Recumbent Bike
+28.6,Male,20,Advanced,Fat Loss,Goblet Squat
+27.7,Female,26,Intermediate,Strength,Machine Leg Extension
+21.9,Male,20,Beginner,Strength,Machine Leg Extension
+18.0,Female,48,Advanced,Endurance,Air Squats
+34.0,Female,51,Intermediate,Fat Loss,Dumbbell Lunges
+34.1,Male,34,Beginner,Endurance,Wall Sit
+19.5,Male,47,Advanced,Fat Loss,Mountain Climbers
+29.4,Female,50,Beginner,Fat Loss,Elliptical Trainer
+28.6,Female,39,Intermediate,Fat Loss,Kettlebell Swing
+24.5,Male,37,Advanced,Endurance,Battle Ropes
+22.9,Male,59,Advanced,Fat Loss,Mountain Climbers
+33.1,Female,59,Advanced,Fat Loss,Dumbbell Lunges
+27.0,Female,23,Advanced,Endurance,Running (Outdoor)
+19.3,Male,49,Advanced,Strength,Machine Leg Extension
+28.7,Male,58,Advanced,Endurance,Recumbent Bike
+34.4,Female,35,Beginner,Strength,Dumbbell Rows
+26.3,Male,25,Beginner,Strength,Dumbbell Rows
+17.9,Female,34,Advanced,Endurance,Recumbent Bike
+17.9,Female,34,Advanced,Endurance,Push Ups
+33.8,Male,26,Intermediate,Fat Loss,Kettlebell Swing
+24.1,Female,30,Intermediate,Fat Loss,Step Ups
+31.0,Female,60,Intermediate,Fat Loss,Step Ups
+25.8,Male,51,Intermediate,Flexibility,Deep Squat Hold
+22.1,Male,58,Advanced,Fat Loss,Running (Treadmill)
+28.8,Male,50,Intermediate,Endurance,Battle Ropes
+34.2,Male,27,Advanced,Flexibility,Hamstring Stretch (Standing)
+16.1,Female,59,Advanced,Strength,Machine Chest Fly
+17.9,Female,54,Intermediate,Endurance,Running (Outdoor)
+21.0,Male,20,Beginner,Endurance,Plank
+23.4,Male,51,Advanced,Fat Loss,Dumbbell Lunges
+19.7,Male,18,Advanced,Flexibility,Cat-Cow Stretch
+34.0,Male,50,Beginner,Fat Loss,Jump Rope
+25.9,Female,36,Beginner,Flexibility,Child's Pose
+28.4,Male,45,Advanced,Flexibility,Shoulder Pass-Throughs
+26.0,Female,55,Beginner,Strength,Barbell Squat
+18.9,Female,60,Advanced,Flexibility,Forward Fold
+34.8,Female,38,Beginner,Flexibility,Forward Fold
+18.9,Male,46,Intermediate,Flexibility,Child's Pose
+30.3,Male,19,Advanced,Fat Loss,Burpees
+22.9,Male,59,Advanced,Fat Loss,Kettlebell Swing
+34.7,Female,51,Advanced,Endurance,Wall Sit
+19.9,Male,22,Intermediate,Strength,Bench Press
+23.3,Female,36,Intermediate,Fat Loss,Jump Rope
+27.1,Male,55,Advanced,Endurance,Wall Sit
+21.8,Male,55,Beginner,Fat Loss,Jump Rope
+19.2,Male,30,Intermediate,Flexibility,Deep Squat Hold
+33.5,Male,32,Advanced,Strength,Bench Press
+25.7,Male,55,Intermediate,Endurance,Wall Sit
+26.0,Female,55,Beginner,Strength,Overhead Press
+19.9,Female,22,Intermediate,Strength,Dumbbell Rows
+20.7,Male,20,Beginner,Flexibility,Shoulder Pass-Throughs
+22.9,Male,59,Advanced,Fat Loss,Mountain Climbers
+16.1,Male,57,Intermediate,Endurance,Wall Sit
+29.5,Female,45,Advanced,Strength,Leg Press
+28.5,Male,58,Beginner,Endurance,Cycling (Outdoor)
+20.1,Female,57,Advanced,Strength,Barbell Squat
+21.0,Male,20,Beginner,Endurance,Plank
+18.0,Female,52,Intermediate,Strength,Machine Leg Extension
+15.6,Male,20,Beginner,Fat Loss,Step Ups
+16.6,Male,51,Intermediate,Endurance,Air Squats
+18.0,Female,52,Intermediate,Strength,Machine Leg Extension
+23.0,Male,55,Advanced,Fat Loss,Mountain Climbers
+15.2,Female,30,Beginner,Strength,Lat Pulldown
+29.4,Female,50,Beginner,Fat Loss,Goblet Squat
+19.9,Male,37,Advanced,Fat Loss,Jump Rope
+26.0,Male,58,Intermediate,Flexibility,Cat-Cow Stretch
+23.2,Male,58,Intermediate,Fat Loss,Jumping Jacks
+32.6,Male,33,Advanced,Flexibility,Spiderman Stretch
+29.5,Female,27,Intermediate,Flexibility,Forward Fold
+31.8,Female,22,Intermediate,Endurance,Kettlebell Clean & Press
+24.5,Female,54,Advanced,Strength,Leg Press
+30.8,Female,27,Beginner,Flexibility,Deep Squat Hold
+35.0,Male,31,Advanced,Flexibility,Child's Pose
+22.3,Male,46,Advanced,Fat Loss,Burpees
+18.5,Male,54,Intermediate,Strength,Pull Ups
+30.9,Male,24,Beginner,Endurance,Recumbent Bike
+18.1,Female,60,Intermediate,Strength,Deadlift
+24.9,Female,47,Beginner,Endurance,Push Ups
+16.3,Female,47,Beginner,Strength,T-Bar Row
+22.7,Female,21,Advanced,Fat Loss,Jump Rope
+32.0,Male,30,Beginner,Flexibility,Forward Fold
+23.5,Male,18,Beginner,Endurance,Plank
+34.3,Male,59,Beginner,Fat Loss,Jump Rope
+17.9,Female,45,Beginner,Endurance,Cycling (Outdoor)
+15.7,Male,31,Intermediate,Endurance,Recumbent Bike
+22.7,Male,36,Advanced,Flexibility,Pigeon Pose
+31.3,Female,52,Beginner,Endurance,Plank
+32.7,Male,58,Beginner,Fat Loss,Mountain Climbers
+17.9,Male,58,Advanced,Strength,Lat Pulldown
+18.3,Female,46,Beginner,Fat Loss,Kettlebell Swing
+17.9,Male,58,Advanced,Strength,Lat Pulldown
+25.6,Male,51,Beginner,Strength,Pull Ups
+15.9,Male,53,Beginner,Flexibility,Child's Pose
+34.6,Male,38,Intermediate,Flexibility,Cat-Cow Stretch
+19.5,Male,32,Intermediate,Endurance,Plank
+33.4,Male,60,Intermediate,Strength,Machine Leg Extension
+17.8,Female,31,Intermediate,Strength,Deadlift
+31.5,Male,22,Beginner,Endurance,Running (Outdoor)
+18.8,Male,33,Beginner,Strength,Overhead Press
+26.5,Female,59,Intermediate,Fat Loss,Running (Treadmill)
+21.1,Female,18,Beginner,Endurance,Running (Outdoor)
+22.7,Female,21,Advanced,Fat Loss,Mountain Climbers
+20.7,Male,20,Beginner,Flexibility,Cat-Cow Stretch
+19.5,Male,32,Intermediate,Endurance,Running (Outdoor)
+19.9,Male,22,Intermediate,Strength,Dumbbell Rows
+24.9,Male,45,Beginner,Flexibility,Hamstring Stretch (Standing)
+34.0,Female,51,Intermediate,Fat Loss,Kettlebell Swing
+16.0,Female,48,Advanced,Flexibility,Forward Fold
+24.9,Male,53,Advanced,Strength,Deadlift
+18.1,Female,60,Intermediate,Strength,Machine Leg Extension
+29.0,Female,33,Beginner,Flexibility,Forward Fold
+32.2,Male,55,Advanced,Flexibility,Hamstring Stretch (Standing)
+29.9,Female,35,Advanced,Flexibility,Child's Pose
+31.5,Male,27,Intermediate,Endurance,Recumbent Bike
+24.9,Female,45,Beginner,Flexibility,Spiderman Stretch
+15.5,Female,25,Beginner,Strength,Machine Leg Extension
+29.1,Male,22,Intermediate,Flexibility,Deep Squat Hold
+16.1,Male,57,Intermediate,Endurance,Wall Sit
+18.1,Female,60,Intermediate,Strength,Deadlift
+17.2,Female,58,Advanced,Endurance,Cycling (Outdoor)
+27.5,Female,36,Intermediate,Flexibility,Hamstring Stretch (Standing)
+27.3,Female,19,Beginner,Flexibility,Spiderman Stretch
+23.5,Male,18,Beginner,Endurance,Battle Ropes
+24.6,Male,22,Intermediate,Endurance,Push Ups
+22.3,Female,60,Beginner,Strength,Overhead Press
+20.7,Male,19,Intermediate,Fat Loss,Kettlebell Swing
+28.6,Male,20,Advanced,Fat Loss,Goblet Squat
+22.5,Male,31,Advanced,Strength,Machine Leg Extension
+27.0,Female,46,Beginner,Flexibility,Cat-Cow Stretch
+34.0,Male,31,Advanced,Endurance,Kettlebell Clean & Press
+34.8,Female,50,Intermediate,Fat Loss,Goblet Squat
+16.8,Female,59,Intermediate,Fat Loss,Dumbbell Lunges
+21.6,Male,25,Intermediate,Strength,Machine Chest Fly
+15.7,Female,45,Advanced,Flexibility,Deep Squat Hold
+23.7,Female,20,Intermediate,Fat Loss,Running (Treadmill)
+28.7,Female,45,Beginner,Endurance,Running (Outdoor)
+32.7,Male,58,Beginner,Fat Loss,Mountain Climbers
+15.5,Male,46,Intermediate,Strength,Leg Press
+22.5,Female,59,Advanced,Strength,Leg Press
+22.3,Male,46,Beginner,Strength,T-Bar Row
+22.5,Female,59,Advanced,Strength,T-Bar Row
+16.1,Male,57,Intermediate,Endurance,Wall Sit
+16.9,Male,27,Advanced,Strength,T-Bar Row
+30.7,Female,57,Beginner,Fat Loss,Dumbbell Lunges
+22.3,Male,46,Beginner,Strength,Machine Chest Fly
+23.5,Female,22,Beginner,Fat Loss,Mountain Climbers
+30.1,Male,19,Intermediate,Flexibility,Child's Pose
+20.6,Female,30,Advanced,Strength,Dumbbell Rows
+16.6,Male,51,Intermediate,Endurance,Battle Ropes
+23.0,Male,55,Advanced,Fat Loss,Mountain Climbers
+26.3,Male,31,Beginner,Endurance,Plank
+21.0,Male,20,Beginner,Endurance,Battle Ropes
+16.7,Female,37,Beginner,Fat Loss,Kettlebell Swing
+16.0,Male,50,Advanced,Fat Loss,Jumping Jacks
+20.1,Female,57,Advanced,Strength,Deadlift
+28.1,Male,56,Intermediate,Fat Loss,Dumbbell Lunges
+21.5,Female,57,Intermediate,Flexibility,Deep Squat Hold
+17.2,Female,58,Advanced,Endurance,Kettlebell Clean & Press
+18.0,Female,52,Intermediate,Strength,Pull Ups
+26.5,Female,25,Advanced,Flexibility,Deep Squat Hold
+34.7,Male,59,Intermediate,Strength,Pull Ups
+21.7,Male,55,Beginner,Endurance,Running (Outdoor)
+20.7,Male,45,Advanced,Endurance,Battle Ropes
+28.8,Male,50,Intermediate,Endurance,Air Squats
+17.4,Male,39,Intermediate,Strength,Dumbbell Rows
+32.9,Male,59,Advanced,Strength,Lat Pulldown
+19.1,Female,60,Beginner,Strength,Machine Leg Extension
+17.6,Male,34,Intermediate,Flexibility,Deep Squat Hold
+32.1,Female,50,Advanced,Fat Loss,Goblet Squat
+17.5,Female,21,Advanced,Strength,Machine Chest Fly
+21.9,Male,20,Beginner,Strength,Overhead Press
+19.9,Male,37,Advanced,Fat Loss,Jump Rope
+34.3,Female,36,Beginner,Endurance,Running (Outdoor)
+18.7,Female,60,Intermediate,Fat Loss,Burpees
+28.2,Female,18,Intermediate,Strength,Dumbbell Rows
+17.8,Female,20,Advanced,Flexibility,Pigeon Pose
+15.9,Male,53,Beginner,Flexibility,Forward Fold
+15.7,Female,45,Advanced,Flexibility,Pigeon Pose
+15.7,Female,45,Advanced,Flexibility,Deep Squat Hold
+20.6,Female,30,Advanced,Strength,T-Bar Row
+22.1,Male,38,Intermediate,Fat Loss,Goblet Squat
+25.3,Male,22,Intermediate,Strength,Leg Press
+19.5,Male,47,Advanced,Fat Loss,Burpees
+16.8,Female,59,Intermediate,Fat Loss,Burpees
+31.8,Female,47,Beginner,Flexibility,Cat-Cow Stretch
+23.8,Female,59,Intermediate,Fat Loss,Kettlebell Swing
+27.3,Male,51,Beginner,Endurance,Wall Sit
+23.4,Male,51,Advanced,Fat Loss,Jumping Jacks
+24.2,Female,25,Intermediate,Endurance,Cycling (Outdoor)
+26.6,Female,23,Beginner,Fat Loss,Jump Rope
+28.8,Male,50,Intermediate,Endurance,Recumbent Bike
+21.0,Female,60,Intermediate,Strength,Dumbbell Rows
+15.6,Male,33,Beginner,Fat Loss,Mountain Climbers
+21.0,Female,60,Beginner,Strength,T-Bar Row
+15.7,Female,45,Advanced,Flexibility,Child's Pose
+19.1,Male,46,Advanced,Endurance,Wall Sit
+19.9,Male,36,Intermediate,Strength,Deadlift
+22.1,Male,24,Advanced,Strength,Lat Pulldown
+24.5,Female,18,Advanced,Fat Loss,Kettlebell Swing
+18.0,Female,52,Intermediate,Strength,Bench Press
+22.2,Male,59,Beginner,Flexibility,Cat-Cow Stretch
+32.7,Female,58,Beginner,Endurance,Plank
+34.0,Male,50,Beginner,Fat Loss,Jump Rope
+18.3,Male,36,Advanced,Endurance,Plank
+17.1,Male,23,Advanced,Endurance,Push Ups
+15.7,Female,18,Intermediate,Flexibility,Pigeon Pose
+23.9,Male,25,Beginner,Fat Loss,Dumbbell Lunges
+31.9,Male,27,Beginner,Flexibility,Forward Fold
+20.8,Male,21,Beginner,Fat Loss,Step Ups
+19.9,Female,22,Intermediate,Strength,Pull Ups
+24.9,Male,53,Advanced,Strength,Lat Pulldown
+33.0,Female,24,Beginner,Fat Loss,Jump Rope
+34.0,Male,53,Advanced,Strength,Overhead Press
+23.5,Male,18,Beginner,Endurance,Push Ups
+34.5,Male,18,Intermediate,Fat Loss,Jumping Jacks
+24.0,Male,36,Intermediate,Strength,Deadlift
+20.6,Female,30,Advanced,Strength,Machine Chest Fly
+21.5,Female,57,Intermediate,Flexibility,Hamstring Stretch (Standing)
+22.9,Male,30,Intermediate,Fat Loss,Dumbbell Lunges
+25.1,Female,35,Advanced,Fat Loss,Goblet Squat
+16.9,Female,30,Intermediate,Endurance,Battle Ropes
+18.9,Male,35,Advanced,Endurance,Battle Ropes
+22.5,Female,59,Advanced,Strength,T-Bar Row
+29.9,Female,35,Advanced,Flexibility,Pigeon Pose
+23.7,Female,20,Intermediate,Fat Loss,Running (Treadmill)
+32.7,Male,24,Beginner,Flexibility,Spiderman Stretch
+31.4,Male,19,Advanced,Endurance,Recumbent Bike
+33.1,Female,46,Intermediate,Strength,Overhead Press
+26.0,Female,47,Intermediate,Strength,Deadlift
+24.2,Female,25,Intermediate,Endurance,Battle Ropes
+31.8,Female,47,Beginner,Strength,Overhead Press
+34.7,Female,51,Advanced,Endurance,Recumbent Bike
+20.7,Male,20,Beginner,Flexibility,Cat-Cow Stretch
+18.2,Male,34,Intermediate,Endurance,Running (Outdoor)
+19.9,Male,22,Intermediate,Strength,Leg Press
+28.7,Male,56,Intermediate,Flexibility,Deep Squat Hold
+18.6,Male,38,Intermediate,Endurance,Plank
+18.1,Female,30,Advanced,Fat Loss,Running (Treadmill)
+22.6,Male,39,Advanced,Fat Loss,Kettlebell Swing
+34.0,Male,53,Advanced,Strength,Leg Press
+31.5,Female,24,Beginner,Flexibility,Pigeon Pose
+31.1,Female,49,Advanced,Flexibility,Pigeon Pose
+22.3,Male,46,Beginner,Strength,Deadlift
+18.9,Male,30,Intermediate,Strength,Deadlift
+28.6,Female,39,Intermediate,Fat Loss,Mountain Climbers
+22.5,Female,59,Advanced,Strength,Bench Press
+16.4,Male,58,Beginner,Strength,Overhead Press
+19.1,Male,46,Advanced,Endurance,Running (Outdoor)
+25.6,Male,51,Beginner,Strength,Barbell Squat
+24.3,Female,33,Intermediate,Fat Loss,Mountain Climbers
+28.0,Female,56,Intermediate,Flexibility,Forward Fold
+17.9,Female,55,Advanced,Flexibility,Deep Squat Hold
+17.2,Female,58,Advanced,Endurance,Push Ups
+32.6,Male,33,Advanced,Flexibility,Shoulder Pass-Throughs
+15.2,Female,23,Intermediate,Endurance,Running (Outdoor)
+30.7,Male,58,Intermediate,Strength,Dumbbell Rows
+25.3,Male,22,Intermediate,Strength,Leg Press
+20.0,Male,57,Beginner,Strength,Pull Ups
+23.0,Female,60,Advanced,Flexibility,Pigeon Pose
+22.3,Female,53,Advanced,Strength,Machine Leg Extension
+21.7,Male,55,Beginner,Endurance,Battle Ropes
+17.1,Male,60,Beginner,Fat Loss,Burpees
+30.3,Male,59,Beginner,Flexibility,Deep Squat Hold
+28.6,Female,36,Advanced,Flexibility,Shoulder Pass-Throughs
+28.7,Male,58,Advanced,Endurance,Plank
+23.8,Male,55,Advanced,Flexibility,Shoulder Pass-Throughs
+30.4,Male,22,Intermediate,Fat Loss,Jumping Jacks
+17.9,Female,34,Advanced,Endurance,Kettlebell Clean & Press
+17.1,Female,33,Advanced,Strength,Pull Ups
+30.1,Male,48,Intermediate,Fat Loss,Burpees
+29.4,Female,50,Beginner,Fat Loss,Running (Treadmill)
+19.9,Male,36,Intermediate,Strength,Dumbbell Rows
+16.9,Male,27,Advanced,Strength,Barbell Squat
+31.5,Male,22,Beginner,Endurance,Plank
+34.7,Male,59,Intermediate,Strength,Pull Ups
+23.4,Male,51,Advanced,Fat Loss,Running (Treadmill)
+22.7,Female,21,Advanced,Fat Loss,Mountain Climbers
+18.6,Male,27,Beginner,Strength,Leg Press
+16.7,Male,58,Intermediate,Flexibility,Cat-Cow Stretch
+19.4,Female,36,Advanced,Flexibility,Child's Pose
+15.5,Male,46,Intermediate,Strength,Leg Press
+34.6,Male,38,Intermediate,Flexibility,Deep Squat Hold
+26.5,Female,25,Advanced,Flexibility,Shoulder Pass-Throughs
+29.4,Male,49,Intermediate,Strength,T-Bar Row
+32.7,Female,51,Intermediate,Endurance,Push Ups
+21.8,Female,24,Beginner,Endurance,Push Ups
+22.8,Female,58,Intermediate,Flexibility,Child's Pose
+17.3,Female,54,Beginner,Fat Loss,Elliptical Trainer
+32.7,Male,58,Beginner,Fat Loss,Step Ups
+34.0,Female,33,Beginner,Fat Loss,Dumbbell Lunges
+27.7,Female,26,Intermediate,Strength,Deadlift
+34.0,Male,50,Beginner,Fat Loss,Mountain Climbers
+32.2,Male,55,Advanced,Flexibility,Cat-Cow Stretch
+27.0,Female,23,Advanced,Endurance,Plank
+20.0,Female,57,Advanced,Fat Loss,Goblet Squat
+16.9,Male,27,Advanced,Strength,Bench Press
+17.9,Male,58,Advanced,Strength,Lat Pulldown
+34.8,Female,38,Beginner,Flexibility,Forward Fold
+33.1,Female,59,Advanced,Fat Loss,Goblet Squat
+28.4,Male,45,Advanced,Flexibility,Cat-Cow Stretch
+34.2,Male,27,Advanced,Flexibility,Hamstring Stretch (Standing)
+30.1,Male,48,Intermediate,Fat Loss,Burpees
+25.2,Female,39,Beginner,Endurance,Air Squats
+21.8,Female,24,Beginner,Endurance,Recumbent Bike
+22.2,Male,60,Intermediate,Strength,Barbell Squat
+22.7,Female,21,Advanced,Fat Loss,Step Ups
+24.3,Female,33,Intermediate,Fat Loss,Jumping Jacks
+27.9,Female,23,Intermediate,Endurance,Plank
+34.6,Female,50,Advanced,Fat Loss,Step Ups
+26.6,Female,23,Beginner,Fat Loss,Elliptical Trainer
+24.2,Female,35,Advanced,Endurance,Push Ups
+31.0,Female,32,Intermediate,Strength,Machine Leg Extension
+19.4,Female,27,Beginner,Endurance,Kettlebell Clean & Press
+33.4,Male,60,Intermediate,Strength,T-Bar Row
+18.7,Female,60,Intermediate,Fat Loss,Jump Rope
+26.0,Female,55,Beginner,Strength,Barbell Squat
+31.8,Female,47,Beginner,Flexibility,Cat-Cow Stretch
+28.2,Female,18,Intermediate,Strength,Machine Chest Fly
+15.8,Female,56,Intermediate,Endurance,Cycling (Outdoor)
+22.6,Male,33,Beginner,Flexibility,Forward Fold
+18.5,Female,23,Beginner,Strength,T-Bar Row
+32.7,Female,58,Beginner,Endurance,Battle Ropes
+28.3,Male,55,Advanced,Fat Loss,Jumping Jacks
+27.7,Female,57,Advanced,Flexibility,Deep Squat Hold
+16.5,Male,49,Beginner,Endurance,Recumbent Bike
+23.7,Female,20,Intermediate,Fat Loss,Burpees
+27.0,Female,46,Beginner,Flexibility,Deep Squat Hold
+28.6,Female,39,Intermediate,Fat Loss,Mountain Climbers
+33.9,Female,48,Intermediate,Flexibility,Forward Fold
+27.4,Female,56,Advanced,Endurance,Battle Ropes
+23.3,Female,36,Intermediate,Fat Loss,Jump Rope
+27.0,Female,23,Advanced,Endurance,Wall Sit
+17.1,Male,60,Beginner,Fat Loss,Dumbbell Lunges
+18.8,Male,33,Beginner,Strength,Deadlift
+21.7,Male,55,Beginner,Endurance,Running (Outdoor)
+30.2,Female,55,Advanced,Strength,Leg Press
+25.7,Male,35,Beginner,Fat Loss,Goblet Squat
+25.2,Female,32,Advanced,Fat Loss,Running (Treadmill)
+16.9,Female,30,Intermediate,Endurance,Air Squats
+19.5,Male,32,Intermediate,Endurance,Running (Outdoor)
+22.7,Female,21,Advanced,Fat Loss,Mountain Climbers
+30.2,Female,55,Advanced,Strength,Pull Ups
+25.6,Male,25,Intermediate,Endurance,Air Squats
+22.3,Female,36,Beginner,Fat Loss,Mountain Climbers
+19.5,Male,47,Advanced,Fat Loss,Jumping Jacks
+18.3,Male,36,Advanced,Endurance,Kettlebell Clean & Press
+19.4,Female,27,Beginner,Endurance,Wall Sit
+26.5,Female,59,Intermediate,Fat Loss,Goblet Squat
+18.6,Male,38,Intermediate,Endurance,Push Ups
+18.5,Male,59,Beginner,Flexibility,Forward Fold
+34.5,Male,18,Intermediate,Fat Loss,Running (Treadmill)
+34.0,Male,56,Intermediate,Endurance,Running (Outdoor)
+25.3,Male,22,Intermediate,Strength,T-Bar Row
+33.8,Male,26,Intermediate,Fat Loss,Kettlebell Swing
+22.5,Male,31,Advanced,Strength,Machine Leg Extension
+28.2,Male,45,Beginner,Flexibility,Child's Pose
+23.3,Female,51,Beginner,Fat Loss,Mountain Climbers
+21.8,Male,37,Advanced,Strength,Machine Leg Extension
+21.8,Male,37,Advanced,Strength,Overhead Press
+22.9,Male,30,Intermediate,Fat Loss,Jumping Jacks
+21.5,Male,34,Intermediate,Flexibility,Shoulder Pass-Throughs
+33.8,Male,36,Advanced,Fat Loss,Burpees
+22.1,Male,24,Advanced,Strength,Leg Press
+27.4,Male,26,Beginner,Strength,Machine Chest Fly
+24.1,Female,30,Intermediate,Fat Loss,Mountain Climbers
+27.4,Male,26,Beginner,Strength,Machine Leg Extension
+17.2,Female,59,Intermediate,Endurance,Cycling (Outdoor)
+16.8,Male,51,Intermediate,Fat Loss,Jump Rope
+25.6,Male,25,Intermediate,Endurance,Cycling (Outdoor)
+19.0,Male,56,Intermediate,Fat Loss,Kettlebell Swing
+18.7,Female,60,Intermediate,Fat Loss,Dumbbell Lunges
+15.1,Female,55,Beginner,Fat Loss,Running (Treadmill)
+33.5,Female,50,Intermediate,Strength,Dumbbell Rows
+34.8,Female,50,Intermediate,Fat Loss,Dumbbell Lunges
+22.7,Female,21,Advanced,Fat Loss,Mountain Climbers
+16.6,Male,58,Beginner,Endurance,Plank
+22.5,Male,31,Advanced,Strength,Machine Leg Extension
+20.7,Female,46,Advanced,Fat Loss,Goblet Squat
+23.3,Male,20,Intermediate,Endurance,Push Ups
+20.0,Female,57,Advanced,Fat Loss,Burpees
+31.7,Male,37,Beginner,Strength,Leg Press
+29.5,Female,45,Advanced,Strength,Deadlift
+19.0,Male,56,Intermediate,Fat Loss,Burpees
+32.1,Male,36,Advanced,Endurance,Wall Sit
+32.1,Male,36,Advanced,Endurance,Push Ups
+26.0,Female,47,Intermediate,Strength,Deadlift
+29.1,Female,37,Intermediate,Endurance,Kettlebell Clean & Press
+22.3,Male,32,Beginner,Strength,Leg Press
+25.3,Female,19,Intermediate,Flexibility,Cat-Cow Stretch
+34.3,Female,21,Beginner,Flexibility,Forward Fold
+33.3,Female,48,Advanced,Endurance,Recumbent Bike
+26.0,Female,47,Intermediate,Strength,Barbell Squat
+31.2,Male,36,Intermediate,Fat Loss,Goblet Squat
+29.2,Female,26,Beginner,Endurance,Push Ups
+33.4,Male,60,Intermediate,Strength,Deadlift
+33.8,Male,36,Advanced,Fat Loss,Dumbbell Lunges
+26.3,Male,31,Beginner,Endurance,Plank
+22.5,Female,59,Advanced,Strength,Pull Ups
+18.0,Female,21,Advanced,Endurance,Battle Ropes
+28.1,Female,49,Intermediate,Fat Loss,Step Ups
+20.1,Female,57,Advanced,Strength,Bench Press
+16.8,Male,23,Advanced,Strength,Lat Pulldown
+17.8,Female,20,Advanced,Flexibility,Forward Fold
+31.1,Male,52,Advanced,Strength,Leg Press
+17.7,Female,36,Beginner,Fat Loss,Step Ups
+27.3,Female,20,Advanced,Strength,Bench Press
+34.5,Male,18,Intermediate,Fat Loss,Dumbbell Lunges
+32.5,Male,59,Intermediate,Flexibility,Pigeon Pose
+30.1,Male,48,Intermediate,Fat Loss,Goblet Squat
+21.7,Male,55,Beginner,Endurance,Cycling (Outdoor)
+31.2,Male,36,Intermediate,Fat Loss,Jump Rope
+20.6,Male,57,Intermediate,Fat Loss,Elliptical Trainer
+17.9,Male,58,Advanced,Strength,Lat Pulldown
+30.7,Female,52,Beginner,Strength,Lat Pulldown
+27.0,Female,46,Beginner,Flexibility,Pigeon Pose
+15.7,Female,18,Intermediate,Flexibility,Child's Pose
+34.7,Male,59,Intermediate,Strength,Lat Pulldown
+15.3,Male,26,Advanced,Endurance,Plank
+27.5,Female,20,Advanced,Fat Loss,Mountain Climbers
+35.0,Female,56,Intermediate,Endurance,Push Ups
+17.9,Female,35,Advanced,Flexibility,Spiderman Stretch
+18.5,Female,33,Beginner,Endurance,Battle Ropes
+19.1,Female,60,Beginner,Strength,Deadlift
+28.0,Female,56,Intermediate,Flexibility,Forward Fold
+34.6,Female,50,Advanced,Fat Loss,Jumping Jacks
+33.1,Male,19,Advanced,Flexibility,Forward Fold
+18.5,Female,23,Beginner,Strength,T-Bar Row
+24.9,Male,53,Advanced,Strength,Deadlift
+28.3,Male,55,Advanced,Fat Loss,Jumping Jacks
+25.8,Male,51,Intermediate,Flexibility,Hamstring Stretch (Standing)
+22.9,Male,59,Advanced,Fat Loss,Mountain Climbers
+17.2,Female,59,Intermediate,Endurance,Plank
+22.3,Male,46,Advanced,Fat Loss,Jump Rope
+30.5,Female,25,Intermediate,Fat Loss,Step Ups
+32.5,Male,59,Intermediate,Flexibility,Spiderman Stretch
+15.5,Female,25,Beginner,Strength,Barbell Squat
+18.0,Female,21,Advanced,Endurance,Battle Ropes
+26.6,Male,56,Advanced,Fat Loss,Jump Rope
+27.1,Female,47,Intermediate,Strength,Bench Press
+27.0,Female,55,Advanced,Endurance,Wall Sit
+18.9,Male,46,Intermediate,Flexibility,Spiderman Stretch
+20.5,Male,19,Advanced,Strength,Overhead Press
+17.9,Female,34,Advanced,Endurance,Push Ups
+32.6,Male,24,Beginner,Fat Loss,Step Ups
+29.5,Female,27,Intermediate,Flexibility,Forward Fold
+27.1,Female,20,Advanced,Endurance,Running (Outdoor)
+23.3,Female,51,Beginner,Fat Loss,Step Ups
+15.9,Male,53,Beginner,Flexibility,Forward Fold
+15.7,Male,31,Intermediate,Endurance,Air Squats
+33.8,Male,36,Advanced,Fat Loss,Step Ups
+22.3,Female,60,Beginner,Strength,Barbell Squat
+15.6,Male,20,Beginner,Fat Loss,Kettlebell Swing
+31.9,Male,27,Beginner,Flexibility,Spiderman Stretch
+17.2,Female,58,Advanced,Endurance,Battle Ropes
+22.9,Male,30,Intermediate,Fat Loss,Running (Treadmill)
+26.7,Female,39,Intermediate,Flexibility,Spiderman Stretch
+17.7,Male,53,Intermediate,Fat Loss,Jumping Jacks
+21.1,Female,18,Beginner,Endurance,Air Squats
+31.0,Female,60,Intermediate,Fat Loss,Elliptical Trainer
+17.2,Female,58,Advanced,Endurance,Battle Ropes
+18.8,Female,53,Intermediate,Flexibility,Hamstring Stretch (Standing)
+26.2,Male,26,Beginner,Flexibility,Child's Pose
+29.1,Male,22,Intermediate,Flexibility,Deep Squat Hold
+20.6,Male,37,Beginner,Strength,Deadlift
+22.2,Male,59,Beginner,Flexibility,Pigeon Pose
+23.9,Male,34,Advanced,Strength,Leg Press
+32.2,Female,21,Intermediate,Strength,Bench Press
+28.4,Female,59,Intermediate,Strength,Lat Pulldown
+20.7,Male,20,Beginner,Flexibility,Child's Pose
+17.1,Male,48,Advanced,Strength,Dumbbell Rows
+31.8,Female,47,Beginner,Flexibility,Cat-Cow Stretch
+16.0,Male,57,Advanced,Endurance,Recumbent Bike
+23.0,Male,54,Beginner,Strength,Overhead Press
+34.6,Female,50,Intermediate,Flexibility,Deep Squat Hold
+34.8,Female,38,Beginner,Flexibility,Shoulder Pass-Throughs
+34.0,Female,33,Beginner,Fat Loss,Jump Rope
+27.9,Male,25,Intermediate,Flexibility,Hamstring Stretch (Standing)
+16.0,Male,50,Advanced,Fat Loss,Jumping Jacks
+24.4,Female,47,Advanced,Strength,Deadlift
+24.4,Male,25,Advanced,Strength,T-Bar Row
+18.9,Male,30,Intermediate,Strength,Lat Pulldown
+21.9,Male,20,Beginner,Strength,T-Bar Row
+33.8,Male,26,Intermediate,Fat Loss,Kettlebell Swing
+23.5,Female,27,Advanced,Endurance,Air Squats
+16.7,Female,25,Advanced,Flexibility,Cat-Cow Stretch
+34.5,Male,18,Intermediate,Fat Loss,Mountain Climbers
+27.5,Female,36,Intermediate,Flexibility,Shoulder Pass-Throughs
+18.1,Female,60,Intermediate,Strength,T-Bar Row
+24.0,Male,36,Intermediate,Strength,Pull Ups
+23.8,Male,48,Intermediate,Flexibility,Cat-Cow Stretch
+15.8,Female,56,Intermediate,Endurance,Cycling (Outdoor)
+21.1,Female,18,Beginner,Endurance,Running (Outdoor)
+24.9,Male,53,Advanced,Strength,T-Bar Row
+24.9,Female,45,Beginner,Flexibility,Shoulder Pass-Throughs
+22.7,Female,34,Beginner,Endurance,Running (Outdoor)
+34.0,Male,32,Intermediate,Strength,Pull Ups
+17.1,Male,48,Advanced,Strength,Dumbbell Rows
+16.8,Male,22,Advanced,Flexibility,Deep Squat Hold
+24.4,Female,47,Advanced,Strength,T-Bar Row
+35.0,Female,56,Intermediate,Endurance,Kettlebell Clean & Press
+29.9,Female,45,Beginner,Flexibility,Child's Pose
+21.7,Male,55,Beginner,Endurance,Cycling (Outdoor)
+34.1,Female,46,Intermediate,Endurance,Battle Ropes
+26.1,Female,20,Advanced,Flexibility,Hamstring Stretch (Standing)
+16.7,Female,20,Intermediate,Endurance,Kettlebell Clean & Press
+30.8,Female,27,Beginner,Flexibility,Pigeon Pose
+25.9,Female,55,Beginner,Flexibility,Pigeon Pose
+27.4,Female,56,Advanced,Endurance,Running (Outdoor)
+31.0,Female,32,Intermediate,Strength,Dumbbell Rows
+25.3,Female,32,Beginner,Strength,Machine Leg Extension
+24.2,Female,35,Advanced,Endurance,Air Squats
+23.7,Female,48,Beginner,Fat Loss,Kettlebell Swing
+29.2,Female,30,Beginner,Fat Loss,Dumbbell Lunges
+26.0,Male,55,Beginner,Strength,Barbell Squat
+19.8,Male,56,Beginner,Flexibility,Pigeon Pose
+27.5,Female,20,Advanced,Fat Loss,Dumbbell Lunges
+25.9,Female,36,Beginner,Flexibility,Cat-Cow Stretch
+19.6,Male,52,Intermediate,Endurance,Air Squats
+18.3,Male,54,Intermediate,Strength,Lat Pulldown
+30.5,Female,25,Intermediate,Fat Loss,Kettlebell Swing
+16.3,Female,60,Beginner,Flexibility,Pigeon Pose
+28.6,Female,36,Advanced,Flexibility,Hamstring Stretch (Standing)
+31.1,Male,52,Advanced,Strength,Pull Ups
+22.8,Female,58,Intermediate,Flexibility,Pigeon Pose
+20.4,Female,32,Beginner,Strength,Bench Press
+27.8,Male,55,Beginner,Endurance,Wall Sit
+18.3,Male,54,Intermediate,Strength,Lat Pulldown
+30.9,Female,57,Intermediate,Endurance,Air Squats
+32.6,Male,33,Advanced,Flexibility,Spiderman Stretch
+29.4,Male,37,Beginner,Endurance,Battle Ropes
+15.8,Female,56,Intermediate,Endurance,Plank
+30.9,Female,57,Intermediate,Endurance,Push Ups
+29.4,Male,49,Intermediate,Strength,Machine Chest Fly
+33.3,Female,48,Advanced,Endurance,Running (Outdoor)
+26.7,Female,39,Intermediate,Flexibility,Deep Squat Hold
+22.1,Male,38,Intermediate,Fat Loss,Kettlebell Swing
+15.2,Female,30,Beginner,Strength,Overhead Press
+17.8,Male,23,Intermediate,Fat Loss,Jump Rope
+32.3,Male,54,Beginner,Strength,T-Bar Row
+28.5,Male,58,Beginner,Endurance,Running (Outdoor)
+23.6,Female,55,Beginner,Endurance,Plank
+25.3,Female,32,Beginner,Strength,Machine Leg Extension
+21.8,Female,24,Beginner,Endurance,Air Squats
+22.1,Male,58,Advanced,Fat Loss,Running (Treadmill)
+16.7,Female,25,Advanced,Flexibility,Shoulder Pass-Throughs
+17.3,Female,33,Intermediate,Flexibility,Forward Fold
+31.5,Female,24,Beginner,Flexibility,Forward Fold
+19.2,Male,47,Beginner,Endurance,Kettlebell Clean & Press
+19.1,Female,60,Beginner,Strength,Machine Leg Extension
+22.0,Male,49,Beginner,Flexibility,Spiderman Stretch
+16.0,Male,57,Advanced,Endurance,Recumbent Bike
+33.2,Male,36,Beginner,Fat Loss,Running (Treadmill)
+34.0,Male,56,Intermediate,Endurance,Cycling (Outdoor)
+21.9,Female,57,Beginner,Flexibility,Hamstring Stretch (Standing)
+17.4,Male,39,Intermediate,Strength,Lat Pulldown
+31.6,Female,56,Beginner,Flexibility,Deep Squat Hold
+32.7,Male,58,Beginner,Fat Loss,Goblet Squat
+34.6,Female,50,Intermediate,Flexibility,Forward Fold
+20.2,Female,19,Advanced,Fat Loss,Mountain Climbers
+23.6,Female,21,Advanced,Flexibility,Pigeon Pose
+27.0,Female,55,Advanced,Endurance,Wall Sit
+20.0,Male,57,Beginner,Strength,Lat Pulldown
+19.9,Female,22,Intermediate,Strength,Pull Ups
+29.1,Male,22,Intermediate,Flexibility,Pigeon Pose
+15.3,Male,26,Advanced,Endurance,Cycling (Outdoor)
+25.1,Female,35,Advanced,Fat Loss,Goblet Squat
+24.4,Male,35,Intermediate,Fat Loss,Running (Treadmill)
+31.5,Male,22,Beginner,Endurance,Running (Outdoor)
+28.3,Female,31,Intermediate,Endurance,Kettlebell Clean & Press
+18.3,Female,46,Beginner,Fat Loss,Kettlebell Swing
+19.1,Male,46,Advanced,Endurance,Cycling (Outdoor)
+32.2,Male,55,Advanced,Flexibility,Deep Squat Hold
+23.3,Female,36,Intermediate,Fat Loss,Elliptical Trainer
+29.6,Male,58,Beginner,Strength,Deadlift
+33.5,Male,32,Advanced,Strength,Machine Chest Fly
+18.7,Female,60,Intermediate,Fat Loss,Jump Rope
+17.9,Female,54,Intermediate,Endurance,Air Squats
+21.5,Female,57,Intermediate,Flexibility,Deep Squat Hold
+29.1,Female,47,Advanced,Fat Loss,Jump Rope
+31.8,Male,26,Intermediate,Flexibility,Hamstring Stretch (Standing)
+24.1,Female,59,Intermediate,Endurance,Kettlebell Clean & Press
+16.7,Male,19,Advanced,Fat Loss,Mountain Climbers
+23.8,Male,48,Intermediate,Flexibility,Deep Squat Hold
+16.3,Female,60,Beginner,Flexibility,Hamstring Stretch (Standing)
+16.6,Female,58,Advanced,Endurance,Plank
+28.1,Female,49,Intermediate,Fat Loss,Dumbbell Lunges
+30.9,Female,57,Intermediate,Endurance,Air Squats
+17.8,Male,37,Beginner,Flexibility,Forward Fold
+18.5,Female,33,Beginner,Endurance,Battle Ropes
+31.5,Female,24,Beginner,Flexibility,Hamstring Stretch (Standing)
+23.0,Male,55,Advanced,Fat Loss,Running (Treadmill)
+18.9,Female,60,Advanced,Flexibility,Forward Fold
+15.6,Female,54,Beginner,Strength,Barbell Squat
+28.1,Male,56,Intermediate,Fat Loss,Jumping Jacks
+30.7,Male,58,Intermediate,Strength,Leg Press
+32.1,Female,50,Advanced,Fat Loss,Jumping Jacks
+19.2,Male,47,Beginner,Endurance,Kettlebell Clean & Press
+32.4,Male,50,Advanced,Endurance,Recumbent Bike
+23.0,Male,54,Beginner,Strength,Dumbbell Rows
+17.8,Female,20,Advanced,Flexibility,Forward Fold
+16.3,Female,47,Beginner,Strength,Bench Press
+29.9,Female,45,Beginner,Flexibility,Shoulder Pass-Throughs
+29.6,Male,22,Intermediate,Endurance,Plank
+22.5,Female,59,Advanced,Strength,Bench Press
+16.6,Male,51,Intermediate,Endurance,Air Squats
+32.0,Male,30,Beginner,Flexibility,Hamstring Stretch (Standing)
+23.8,Female,59,Intermediate,Fat Loss,Step Ups
+22.6,Male,33,Beginner,Flexibility,Pigeon Pose
+18.6,Male,38,Intermediate,Endurance,Wall Sit
+18.6,Male,56,Intermediate,Flexibility,Deep Squat Hold
+30.3,Male,59,Beginner,Flexibility,Pigeon Pose
+22.0,Female,30,Advanced,Endurance,Air Squats
+28.4,Male,45,Advanced,Flexibility,Deep Squat Hold
+20.6,Female,30,Advanced,Strength,Machine Chest Fly
+31.5,Female,24,Beginner,Flexibility,Hamstring Stretch (Standing)
+19.7,Female,30,Intermediate,Flexibility,Shoulder Pass-Throughs
+29.5,Female,27,Intermediate,Flexibility,Cat-Cow Stretch
+19.1,Female,60,Beginner,Strength,Machine Leg Extension
+34.7,Female,51,Advanced,Endurance,Wall Sit
+19.2,Male,30,Intermediate,Flexibility,Deep Squat Hold
+27.5,Female,20,Advanced,Fat Loss,Elliptical Trainer
+19.4,Female,47,Advanced,Fat Loss,Jump Rope
+15.7,Female,45,Advanced,Flexibility,Forward Fold
+22.3,Female,60,Beginner,Strength,Barbell Squat
+22.6,Male,39,Advanced,Fat Loss,Elliptical Trainer
+21.8,Female,24,Beginner,Endurance,Air Squats
+23.0,Male,55,Advanced,Fat Loss,Running (Treadmill)
+24.5,Female,18,Advanced,Fat Loss,Burpees
+15.9,Male,19,Intermediate,Flexibility,Shoulder Pass-Throughs
+17.1,Male,48,Advanced,Strength,Dumbbell Rows
+23.4,Female,46,Intermediate,Endurance,Kettlebell Clean & Press
+32.7,Female,51,Intermediate,Endurance,Running (Outdoor)
+30.9,Female,57,Intermediate,Endurance,Push Ups
+22.8,Female,58,Intermediate,Flexibility,Deep Squat Hold
+28.7,Male,56,Intermediate,Flexibility,Spiderman Stretch
+34.3,Male,59,Beginner,Fat Loss,Kettlebell Swing
+30.1,Male,48,Intermediate,Fat Loss,Mountain Climbers
+25.9,Female,55,Beginner,Flexibility,Deep Squat Hold
+29.6,Male,58,Beginner,Strength,Deadlift
+16.8,Female,23,Intermediate,Fat Loss,Jump Rope
+16.8,Female,23,Intermediate,Fat Loss,Running (Treadmill)
+18.3,Female,55,Beginner,Fat Loss,Elliptical Trainer
+27.1,Female,20,Advanced,Endurance,Air Squats
+33.8,Male,26,Intermediate,Fat Loss,Goblet Squat
+30.2,Female,47,Intermediate,Endurance,Wall Sit
+33.1,Female,46,Intermediate,Strength,Machine Leg Extension
+16.7,Female,25,Advanced,Flexibility,Spiderman Stretch
+30.1,Male,48,Intermediate,Fat Loss,Running (Treadmill)
+18.3,Female,46,Beginner,Fat Loss,Jumping Jacks
+22.0,Male,57,Beginner,Endurance,Running (Outdoor)
+23.1,Female,38,Advanced,Strength,Pull Ups
+18.5,Female,23,Beginner,Strength,Bench Press
+34.6,Female,50,Advanced,Fat Loss,Goblet Squat
+22.6,Male,33,Beginner,Flexibility,Deep Squat Hold
+32.7,Female,58,Beginner,Endurance,Plank
+29.4,Female,50,Beginner,Fat Loss,Jumping Jacks
+32.8,Female,25,Intermediate,Strength,Overhead Press
+21.8,Male,55,Beginner,Fat Loss,Burpees
+31.8,Female,47,Beginner,Strength,Overhead Press
+19.4,Male,34,Advanced,Strength,Leg Press
+27.0,Female,46,Beginner,Flexibility,Deep Squat Hold
+17.7,Male,53,Intermediate,Fat Loss,Running (Treadmill)
+21.8,Male,37,Advanced,Strength,Deadlift
+35.0,Female,56,Intermediate,Endurance,Cycling (Outdoor)
+26.3,Male,25,Beginner,Strength,Bench Press
+28.7,Female,21,Beginner,Strength,T-Bar Row
+32.6,Male,33,Advanced,Flexibility,Cat-Cow Stretch
+20.0,Female,57,Advanced,Fat Loss,Burpees
+22.8,Female,58,Intermediate,Flexibility,Child's Pose
+18.3,Female,55,Beginner,Fat Loss,Step Ups
+16.5,Female,46,Advanced,Flexibility,Hamstring Stretch (Standing)
+22.5,Female,38,Advanced,Strength,Machine Leg Extension
+27.7,Female,26,Intermediate,Strength,Overhead Press
+29.7,Male,33,Beginner,Endurance,Air Squats
+18.0,Female,21,Advanced,Endurance,Battle Ropes
+22.3,Female,36,Beginner,Fat Loss,Mountain Climbers
+17.2,Female,59,Intermediate,Endurance,Push Ups
+34.1,Female,46,Intermediate,Endurance,Battle Ropes
+17.9,Female,54,Intermediate,Endurance,Kettlebell Clean & Press
+31.0,Female,57,Beginner,Endurance,Kettlebell Clean & Press
+20.6,Female,30,Advanced,Strength,T-Bar Row
+21.6,Male,25,Intermediate,Strength,Barbell Squat
+30.2,Female,46,Advanced,Endurance,Battle Ropes
+15.7,Female,45,Advanced,Flexibility,Child's Pose
+28.7,Female,21,Beginner,Strength,Deadlift
+28.7,Female,45,Beginner,Endurance,Running (Outdoor)
+22.0,Female,18,Intermediate,Fat Loss,Jump Rope
+16.2,Female,54,Advanced,Flexibility,Spiderman Stretch
+26.0,Female,55,Beginner,Strength,Overhead Press
+33.1,Female,59,Advanced,Fat Loss,Goblet Squat
+21.0,Female,60,Beginner,Strength,T-Bar Row
+32.4,Male,60,Intermediate,Strength,Overhead Press
+30.3,Male,19,Advanced,Fat Loss,Jumping Jacks
+33.4,Male,60,Intermediate,Strength,Machine Leg Extension
+29.6,Male,22,Intermediate,Endurance,Recumbent Bike
+16.5,Male,49,Beginner,Endurance,Battle Ropes
+34.5,Male,18,Intermediate,Fat Loss,Kettlebell Swing
+15.7,Female,45,Advanced,Flexibility,Deep Squat Hold
+30.5,Female,25,Intermediate,Fat Loss,Mountain Climbers
+26.1,Female,20,Advanced,Flexibility,Hamstring Stretch (Standing)
+22.1,Male,38,Intermediate,Fat Loss,Mountain Climbers
+26.0,Male,58,Intermediate,Flexibility,Hamstring Stretch (Standing)
+19.9,Female,36,Intermediate,Endurance,Plank
+34.8,Female,38,Beginner,Flexibility,Deep Squat Hold
+16.3,Female,60,Beginner,Flexibility,Cat-Cow Stretch
+30.8,Female,27,Beginner,Flexibility,Pigeon Pose
+28.5,Male,58,Beginner,Endurance,Cycling (Outdoor)
+19.1,Female,60,Beginner,Strength,Machine Leg Extension
+15.3,Male,26,Advanced,Endurance,Running (Outdoor)
+19.4,Female,27,Beginner,Endurance,Wall Sit
+19.0,Male,56,Intermediate,Fat Loss,Mountain Climbers
+28.3,Female,31,Intermediate,Endurance,Running (Outdoor)
+17.2,Female,58,Advanced,Endurance,Recumbent Bike
+31.0,Male,58,Beginner,Fat Loss,Mountain Climbers
+24.4,Male,35,Intermediate,Fat Loss,Kettlebell Swing
+33.6,Male,38,Advanced,Flexibility,Spiderman Stretch
+22.7,Male,36,Advanced,Flexibility,Hamstring Stretch (Standing)
+27.7,Female,46,Intermediate,Flexibility,Child's Pose
+16.0,Male,57,Advanced,Endurance,Wall Sit
+16.7,Male,58,Intermediate,Flexibility,Shoulder Pass-Throughs
+17.8,Female,20,Advanced,Flexibility,Pigeon Pose
+28.0,Female,56,Intermediate,Flexibility,Forward Fold
+15.9,Male,19,Intermediate,Flexibility,Spiderman Stretch
+18.6,Male,27,Beginner,Strength,T-Bar Row
+29.7,Male,33,Beginner,Endurance,Air Squats
+34.0,Female,51,Intermediate,Fat Loss,Step Ups
+27.9,Male,25,Intermediate,Flexibility,Forward Fold
+32.3,Male,60,Advanced,Strength,Machine Chest Fly
+18.3,Male,54,Intermediate,Strength,Deadlift
+26.0,Male,58,Intermediate,Flexibility,Shoulder Pass-Throughs
+17.2,Female,38,Advanced,Endurance,Cycling (Outdoor)
+31.0,Female,32,Intermediate,Strength,Lat Pulldown
+28.6,Female,36,Advanced,Flexibility,Hamstring Stretch (Standing)
+32.8,Female,25,Intermediate,Strength,Machine Leg Extension
+23.8,Female,59,Intermediate,Fat Loss,Step Ups
+19.7,Male,18,Advanced,Flexibility,Forward Fold
+34.2,Male,27,Advanced,Flexibility,Spiderman Stretch
+24.2,Female,35,Advanced,Endurance,Kettlebell Clean & Press
+20.1,Female,57,Advanced,Strength,Deadlift
+24.6,Male,22,Intermediate,Endurance,Plank
+25.6,Male,51,Beginner,Strength,Machine Leg Extension
+16.7,Female,25,Advanced,Flexibility,Child's Pose
+20.9,Female,27,Intermediate,Fat Loss,Running (Treadmill)
+23.7,Female,55,Intermediate,Strength,Lat Pulldown
+17.1,Male,23,Advanced,Endurance,Cycling (Outdoor)
+33.0,Female,24,Beginner,Fat Loss,Jumping Jacks
+27.3,Female,20,Advanced,Strength,Barbell Squat
+29.0,Female,33,Beginner,Flexibility,Hamstring Stretch (Standing)
+33.5,Male,48,Beginner,Strength,Leg Press
+26.1,Male,46,Advanced,Flexibility,Cat-Cow Stretch
+22.1,Male,20,Advanced,Endurance,Kettlebell Clean & Press
+29.7,Male,33,Beginner,Endurance,Air Squats
+31.0,Male,58,Beginner,Fat Loss,Kettlebell Swing
+27.1,Female,20,Advanced,Endurance,Plank
+22.5,Female,38,Advanced,Strength,T-Bar Row
+15.8,Female,56,Intermediate,Endurance,Cycling (Outdoor)
+22.7,Male,36,Advanced,Flexibility,Shoulder Pass-Throughs
+18.6,Female,45,Intermediate,Fat Loss,Burpees
+22.3,Male,46,Beginner,Strength,Barbell Squat
+22.3,Male,50,Advanced,Fat Loss,Burpees
+25.6,Male,51,Beginner,Strength,Pull Ups
+17.1,Male,23,Advanced,Endurance,Wall Sit
+20.4,Female,32,Beginner,Strength,Pull Ups
+21.5,Male,34,Intermediate,Flexibility,Child's Pose
+22.3,Male,50,Advanced,Fat Loss,Goblet Squat
+29.2,Female,30,Beginner,Fat Loss,Burpees
+25.6,Male,52,Intermediate,Endurance,Battle Ropes
+19.0,Female,27,Intermediate,Flexibility,Forward Fold
+33.1,Female,46,Intermediate,Strength,Leg Press
+27.0,Female,55,Advanced,Endurance,Plank
+21.7,Male,55,Beginner,Endurance,Wall Sit
+32.8,Female,25,Intermediate,Strength,Overhead Press
+32.1,Male,36,Advanced,Endurance,Air Squats
+16.6,Male,58,Beginner,Endurance,Wall Sit
+17.1,Male,60,Beginner,Fat Loss,Dumbbell Lunges
+31.0,Female,32,Intermediate,Strength,Lat Pulldown
+27.8,Male,55,Beginner,Endurance,Cycling (Outdoor)
+33.1,Female,48,Advanced,Endurance,Running (Outdoor)
+20.6,Male,57,Intermediate,Fat Loss,Jump Rope
+24.1,Female,59,Intermediate,Endurance,Kettlebell Clean & Press
+26.4,Male,50,Beginner,Fat Loss,Jumping Jacks
+27.1,Male,55,Advanced,Endurance,Air Squats
+19.4,Female,36,Advanced,Flexibility,Pigeon Pose
+27.0,Female,23,Advanced,Endurance,Running (Outdoor)
+28.0,Female,56,Intermediate,Flexibility,Child's Pose
+30.7,Female,27,Beginner,Endurance,Battle Ropes
+26.0,Male,58,Intermediate,Flexibility,Cat-Cow Stretch
+21.0,Male,20,Beginner,Endurance,Recumbent Bike
+15.7,Female,45,Advanced,Flexibility,Shoulder Pass-Throughs
+24.4,Male,25,Advanced,Strength,T-Bar Row
+16.8,Female,23,Intermediate,Fat Loss,Goblet Squat
+16.7,Female,37,Beginner,Fat Loss,Mountain Climbers
+21.5,Female,57,Intermediate,Flexibility,Hamstring Stretch (Standing)
+34.0,Male,56,Intermediate,Endurance,Running (Outdoor)
+30.3,Female,60,Advanced,Fat Loss,Step Ups
+32.5,Male,59,Intermediate,Flexibility,Deep Squat Hold
+24.1,Male,21,Advanced,Endurance,Recumbent Bike
+20.1,Female,53,Beginner,Strength,Overhead Press
+34.2,Male,27,Advanced,Flexibility,Spiderman Stretch
+23.1,Female,38,Advanced,Strength,Machine Leg Extension
+17.2,Female,59,Intermediate,Endurance,Cycling (Outdoor)
+18.9,Male,35,Advanced,Endurance,Recumbent Bike
+22.5,Female,38,Advanced,Strength,Machine Leg Extension
+22.7,Female,21,Advanced,Fat Loss,Step Ups
+23.0,Male,54,Beginner,Strength,Leg Press
+34.3,Male,59,Beginner,Fat Loss,Running (Treadmill)
+17.2,Female,38,Advanced,Endurance,Recumbent Bike
+15.5,Male,46,Intermediate,Strength,Leg Press
+22.0,Female,18,Intermediate,Fat Loss,Running (Treadmill)
+26.1,Male,46,Advanced,Flexibility,Pigeon Pose
+34.0,Male,50,Beginner,Fat Loss,Mountain Climbers
+24.9,Male,53,Advanced,Strength,Deadlift
+29.4,Male,37,Beginner,Endurance,Recumbent Bike
+30.5,Female,60,Advanced,Fat Loss,Step Ups
+23.4,Male,51,Advanced,Fat Loss,Jumping Jacks
+32.6,Male,24,Beginner,Fat Loss,Kettlebell Swing
+22.6,Male,60,Advanced,Strength,Overhead Press
+30.3,Male,19,Advanced,Fat Loss,Burpees
+33.1,Female,48,Advanced,Endurance,Push Ups
+34.3,Male,59,Beginner,Fat Loss,Mountain Climbers
+33.1,Female,48,Advanced,Endurance,Battle Ropes
+31.8,Male,26,Intermediate,Flexibility,Spiderman Stretch
+24.6,Male,22,Intermediate,Endurance,Kettlebell Clean & Press
+16.5,Female,46,Advanced,Flexibility,Deep Squat Hold
+32.0,Male,30,Beginner,Flexibility,Deep Squat Hold
+23.2,Male,58,Intermediate,Fat Loss,Kettlebell Swing
+22.7,Male,36,Advanced,Flexibility,Cat-Cow Stretch
+25.7,Male,55,Intermediate,Endurance,Push Ups
+23.5,Female,27,Advanced,Endurance,Recumbent Bike
+28.7,Male,58,Advanced,Endurance,Push Ups
+31.4,Male,19,Advanced,Endurance,Recumbent Bike
+21.1,Female,18,Beginner,Endurance,Running (Outdoor)
+22.0,Female,18,Intermediate,Fat Loss,Jump Rope
+34.0,Male,53,Advanced,Strength,Pull Ups
+15.7,Female,45,Advanced,Flexibility,Shoulder Pass-Throughs
+19.9,Male,36,Intermediate,Strength,Overhead Press
+32.7,Female,58,Beginner,Endurance,Recumbent Bike
+26.5,Female,25,Advanced,Flexibility,Child's Pose
+21.0,Female,60,Beginner,Strength,T-Bar Row
+24.9,Male,53,Advanced,Strength,T-Bar Row
+22.1,Male,20,Advanced,Endurance,Air Squats
+23.3,Male,20,Intermediate,Endurance,Plank
+31.0,Female,60,Intermediate,Fat Loss,Elliptical Trainer
+30.3,Male,19,Advanced,Fat Loss,Kettlebell Swing
+30.2,Female,55,Advanced,Strength,Machine Chest Fly
+21.8,Female,24,Beginner,Endurance,Kettlebell Clean & Press
+21.6,Female,35,Intermediate,Fat Loss,Mountain Climbers
+34.6,Female,50,Intermediate,Flexibility,Deep Squat Hold
+29.6,Male,58,Beginner,Strength,Barbell Squat
+17.4,Male,39,Intermediate,Strength,T-Bar Row
+16.3,Female,60,Beginner,Flexibility,Shoulder Pass-Throughs
+16.1,Male,57,Intermediate,Endurance,Kettlebell Clean & Press
+17.8,Male,23,Intermediate,Fat Loss,Jump Rope
+34.3,Female,36,Beginner,Endurance,Wall Sit
+27.6,Male,58,Advanced,Endurance,Push Ups
+18.5,Male,59,Beginner,Flexibility,Child's Pose
+28.6,Female,36,Advanced,Flexibility,Hamstring Stretch (Standing)
+24.3,Female,33,Intermediate,Fat Loss,Jumping Jacks
+28.6,Female,39,Intermediate,Fat Loss,Burpees
+19.9,Male,22,Intermediate,Strength,Leg Press
+24.1,Female,59,Intermediate,Endurance,Kettlebell Clean & Press
+27.3,Female,20,Advanced,Strength,T-Bar Row
+19.4,Female,27,Beginner,Endurance,Air Squats
+19.3,Male,49,Advanced,Strength,T-Bar Row
+17.9,Female,45,Beginner,Endurance,Cycling (Outdoor)
+21.7,Male,55,Beginner,Endurance,Cycling (Outdoor)
+18.3,Female,46,Beginner,Fat Loss,Burpees
+17.9,Female,54,Intermediate,Endurance,Cycling (Outdoor)
+27.0,Female,23,Advanced,Endurance,Kettlebell Clean & Press
+15.6,Female,54,Beginner,Strength,Machine Chest Fly
+17.8,Female,31,Intermediate,Strength,T-Bar Row
+24.2,Female,25,Intermediate,Endurance,Cycling (Outdoor)
+32.0,Male,30,Beginner,Flexibility,Shoulder Pass-Throughs
+34.8,Male,35,Beginner,Strength,Lat Pulldown
+31.0,Female,34,Beginner,Endurance,Battle Ropes
+25.8,Male,32,Beginner,Flexibility,Cat-Cow Stretch
+30.2,Female,46,Advanced,Endurance,Kettlebell Clean & Press
+21.0,Male,20,Beginner,Endurance,Push Ups
+16.3,Female,60,Beginner,Flexibility,Forward Fold
+18.0,Female,52,Intermediate,Strength,Bench Press
+32.0,Male,30,Beginner,Flexibility,Forward Fold
+16.9,Male,27,Advanced,Strength,T-Bar Row
+27.0,Female,23,Advanced,Endurance,Air Squats
+20.9,Male,23,Advanced,Fat Loss,Jumping Jacks
+17.0,Male,51,Intermediate,Strength,Overhead Press
+19.5,Male,47,Advanced,Fat Loss,Jump Rope
+20.1,Female,57,Advanced,Strength,Deadlift
+32.3,Male,54,Beginner,Strength,Barbell Squat
+20.5,Male,19,Advanced,Strength,Overhead Press
+32.3,Male,30,Intermediate,Fat Loss,Kettlebell Swing
+23.6,Female,21,Advanced,Flexibility,Cat-Cow Stretch
+23.0,Male,55,Advanced,Fat Loss,Running (Treadmill)
+18.5,Male,54,Intermediate,Strength,Pull Ups
+18.1,Female,60,Intermediate,Strength,Deadlift
+25.3,Male,22,Intermediate,Strength,Dumbbell Rows
+22.6,Male,33,Beginner,Flexibility,Pigeon Pose
+18.6,Male,38,Intermediate,Endurance,Air Squats
+34.2,Male,27,Advanced,Flexibility,Spiderman Stretch
+30.5,Female,25,Intermediate,Fat Loss,Step Ups
+34.1,Male,34,Beginner,Endurance,Wall Sit
+18.9,Male,46,Intermediate,Flexibility,Cat-Cow Stretch
+33.9,Female,48,Intermediate,Flexibility,Cat-Cow Stretch
+30.8,Female,27,Beginner,Flexibility,Deep Squat Hold
+22.3,Male,22,Beginner,Fat Loss,Step Ups
+34.3,Female,36,Beginner,Endurance,Push Ups
+29.4,Male,49,Intermediate,Strength,Lat Pulldown
+28.2,Male,45,Beginner,Flexibility,Deep Squat Hold
+27.7,Female,46,Intermediate,Flexibility,Forward Fold
+31.5,Male,27,Intermediate,Endurance,Recumbent Bike
+29.8,Male,26,Advanced,Fat Loss,Running (Treadmill)
+17.3,Female,33,Intermediate,Flexibility,Forward Fold
+24.5,Female,54,Advanced,Strength,Lat Pulldown
+16.6,Male,58,Beginner,Endurance,Running (Outdoor)
+16.9,Male,27,Advanced,Strength,Deadlift
+22.3,Female,36,Beginner,Fat Loss,Jump Rope
+20.0,Female,57,Advanced,Fat Loss,Mountain Climbers
+29.8,Male,26,Advanced,Fat Loss,Jump Rope
+33.5,Male,48,Beginner,Strength,Dumbbell Rows
+17.9,Female,55,Advanced,Flexibility,Cat-Cow Stretch
+18.3,Female,46,Beginner,Fat Loss,Elliptical Trainer
+32.4,Male,50,Advanced,Endurance,Recumbent Bike
+28.2,Male,45,Beginner,Flexibility,Pigeon Pose
+16.8,Male,51,Intermediate,Fat Loss,Kettlebell Swing
+30.7,Female,52,Beginner,Strength,Leg Press
+25.3,Male,22,Intermediate,Strength,Dumbbell Rows
+30.2,Female,47,Intermediate,Endurance,Recumbent Bike
+20.7,Male,45,Advanced,Endurance,Running (Outdoor)
+28.7,Female,45,Beginner,Endurance,Kettlebell Clean & Press
+23.0,Male,49,Beginner,Endurance,Recumbent Bike
+25.6,Male,52,Intermediate,Endurance,Recumbent Bike
+22.3,Male,50,Advanced,Fat Loss,Running (Treadmill)
+34.0,Male,31,Advanced,Endurance,Kettlebell Clean & Press
+23.7,Female,20,Intermediate,Fat Loss,Elliptical Trainer
+16.0,Female,48,Advanced,Flexibility,Deep Squat Hold
+28.2,Male,45,Beginner,Flexibility,Deep Squat Hold
+23.6,Female,55,Beginner,Endurance,Wall Sit
+17.9,Female,34,Advanced,Endurance,Recumbent Bike
+21.1,Female,18,Beginner,Endurance,Battle Ropes
+23.7,Female,20,Intermediate,Fat Loss,Dumbbell Lunges
+33.9,Female,48,Intermediate,Flexibility,Shoulder Pass-Throughs
+18.5,Male,54,Intermediate,Strength,Barbell Squat
+16.8,Male,51,Intermediate,Fat Loss,Mountain Climbers
+29.4,Female,50,Beginner,Fat Loss,Running (Treadmill)
+15.5,Male,46,Intermediate,Strength,Deadlift
+32.6,Female,52,Intermediate,Flexibility,Hamstring Stretch (Standing)
+22.0,Female,30,Advanced,Endurance,Battle Ropes
+32.7,Male,58,Beginner,Fat Loss,Dumbbell Lunges
+18.1,Female,60,Intermediate,Strength,Machine Chest Fly
+15.7,Female,45,Advanced,Flexibility,Pigeon Pose
+24.2,Female,25,Intermediate,Endurance,Battle Ropes
+18.7,Female,60,Intermediate,Fat Loss,Dumbbell Lunges
+29.4,Male,37,Beginner,Endurance,Battle Ropes
+27.4,Female,56,Advanced,Endurance,Plank
+29.4,Male,49,Intermediate,Strength,Machine Chest Fly
+32.3,Female,52,Beginner,Flexibility,Deep Squat Hold
+19.9,Male,36,Intermediate,Strength,Pull Ups
+16.8,Female,59,Intermediate,Fat Loss,Burpees
+32.3,Male,60,Advanced,Strength,Machine Chest Fly
+17.9,Female,34,Advanced,Endurance,Plank
+23.3,Female,51,Beginner,Fat Loss,Step Ups
+26.3,Male,25,Beginner,Strength,Dumbbell Rows
+34.0,Male,56,Intermediate,Endurance,Recumbent Bike
+24.2,Female,25,Intermediate,Endurance,Plank
+29.1,Female,47,Advanced,Fat Loss,Step Ups
+33.8,Male,36,Advanced,Fat Loss,Jumping Jacks
+24.4,Male,25,Advanced,Strength,Deadlift
+19.5,Male,47,Advanced,Fat Loss,Goblet Squat
+16.6,Female,58,Advanced,Endurance,Wall Sit
+30.9,Male,34,Beginner,Flexibility,Deep Squat Hold
+16.6,Male,51,Intermediate,Endurance,Cycling (Outdoor)
+29.0,Male,58,Beginner,Strength,T-Bar Row
+32.8,Female,25,Intermediate,Strength,T-Bar Row
+31.2,Male,36,Intermediate,Fat Loss,Dumbbell Lunges
+32.1,Female,50,Advanced,Fat Loss,Step Ups
+28.2,Female,18,Intermediate,Strength,Bench Press
+16.4,Male,58,Beginner,Strength,Machine Leg Extension
+26.7,Female,39,Intermediate,Flexibility,Cat-Cow Stretch
+24.3,Female,33,Intermediate,Fat Loss,Step Ups
+30.5,Female,60,Advanced,Fat Loss,Step Ups
+34.2,Male,27,Advanced,Flexibility,Child's Pose
+32.2,Male,55,Advanced,Flexibility,Hamstring Stretch (Standing)
+34.5,Female,23,Advanced,Strength,Overhead Press
+30.9,Male,24,Beginner,Endurance,Push Ups
+26.5,Female,25,Advanced,Flexibility,Deep Squat Hold
+24.6,Female,56,Beginner,Fat Loss,Goblet Squat
+21.9,Female,22,Beginner,Flexibility,Pigeon Pose
+28.6,Male,20,Advanced,Fat Loss,Dumbbell Lunges
+32.5,Male,59,Intermediate,Flexibility,Forward Fold
+35.0,Male,31,Advanced,Flexibility,Hamstring Stretch (Standing)
+27.7,Female,26,Intermediate,Strength,Deadlift
+24.5,Female,54,Advanced,Strength,Machine Chest Fly
+34.8,Male,35,Beginner,Strength,Pull Ups
+25.3,Female,32,Beginner,Strength,Barbell Squat
+24.4,Male,35,Intermediate,Fat Loss,Goblet Squat
+33.0,Female,24,Beginner,Fat Loss,Dumbbell Lunges
+24.6,Female,56,Beginner,Fat Loss,Goblet Squat
+28.5,Male,58,Beginner,Endurance,Plank
+17.0,Male,53,Intermediate,Endurance,Kettlebell Clean & Press
+29.5,Female,27,Intermediate,Flexibility,Forward Fold
+27.2,Male,53,Beginner,Endurance,Plank
+32.2,Male,55,Advanced,Flexibility,Hamstring Stretch (Standing)
+27.8,Male,55,Beginner,Endurance,Air Squats
+29.3,Female,55,Beginner,Endurance,Battle Ropes
+15.6,Male,33,Beginner,Fat Loss,Mountain Climbers
+24.5,Female,18,Advanced,Fat Loss,Elliptical Trainer
+26.0,Female,55,Beginner,Strength,Machine Leg Extension
+18.0,Female,21,Advanced,Endurance,Air Squats
+30.9,Female,35,Intermediate,Strength,Leg Press
+23.5,Female,27,Advanced,Endurance,Recumbent Bike
+34.0,Male,31,Advanced,Endurance,Battle Ropes
+22.7,Female,30,Advanced,Endurance,Plank
+16.1,Male,57,Intermediate,Endurance,Air Squats
+21.0,Male,20,Beginner,Endurance,Kettlebell Clean & Press
+27.7,Female,26,Intermediate,Strength,Bench Press
+32.2,Male,55,Advanced,Flexibility,Cat-Cow Stretch
+21.8,Male,37,Advanced,Strength,Lat Pulldown
+22.7,Male,36,Advanced,Flexibility,Child's Pose
+21.9,Female,58,Intermediate,Flexibility,Spiderman Stretch
+20.9,Male,23,Advanced,Fat Loss,Kettlebell Swing
+27.2,Male,53,Beginner,Endurance,Kettlebell Clean & Press
+32.5,Male,59,Intermediate,Flexibility,Forward Fold
+28.6,Male,20,Advanced,Fat Loss,Running (Treadmill)
+18.1,Female,60,Intermediate,Strength,Deadlift
+29.4,Male,37,Beginner,Endurance,Running (Outdoor)
+27.0,Female,23,Advanced,Endurance,Air Squats
+26.0,Male,55,Beginner,Strength,Lat Pulldown
+20.9,Female,27,Intermediate,Fat Loss,Running (Treadmill)
+21.9,Female,57,Beginner,Flexibility,Forward Fold
+22.3,Male,22,Beginner,Fat Loss,Goblet Squat
+20.7,Male,20,Beginner,Flexibility,Shoulder Pass-Throughs
+33.1,Male,19,Advanced,Flexibility,Deep Squat Hold
+20.5,Male,31,Beginner,Fat Loss,Running (Treadmill)
+32.3,Female,52,Beginner,Flexibility,Deep Squat Hold
+19.0,Male,56,Intermediate,Fat Loss,Mountain Climbers
+17.2,Female,59,Intermediate,Endurance,Running (Outdoor)
+19.0,Male,56,Intermediate,Fat Loss,Mountain Climbers
+18.6,Male,38,Intermediate,Endurance,Battle Ropes
+23.3,Male,20,Intermediate,Endurance,Air Squats
+24.5,Female,18,Advanced,Fat Loss,Running (Treadmill)
+22.7,Female,21,Advanced,Fat Loss,Kettlebell Swing
+21.7,Male,60,Advanced,Strength,Machine Leg Extension
+26.1,Female,20,Advanced,Flexibility,Cat-Cow Stretch
+19.6,Female,59,Advanced,Strength,Pull Ups
+17.2,Female,59,Intermediate,Endurance,Battle Ropes
+30.5,Female,60,Advanced,Fat Loss,Jumping Jacks
+29.9,Female,35,Advanced,Flexibility,Spiderman Stretch
+24.2,Female,25,Intermediate,Endurance,Battle Ropes
+24.6,Male,22,Intermediate,Endurance,Kettlebell Clean & Press
+17.0,Male,53,Intermediate,Endurance,Push Ups
+34.8,Female,38,Beginner,Flexibility,Shoulder Pass-Throughs
+31.0,Female,32,Intermediate,Strength,Dumbbell Rows
+33.1,Female,46,Intermediate,Strength,T-Bar Row
+34.8,Female,38,Beginner,Flexibility,Hamstring Stretch (Standing)
+31.1,Female,49,Advanced,Flexibility,Child's Pose
+22.7,Male,36,Advanced,Flexibility,Pigeon Pose
+25.3,Female,32,Beginner,Strength,Deadlift
+22.2,Male,60,Intermediate,Strength,Barbell Squat
+26.1,Male,46,Advanced,Flexibility,Pigeon Pose
+25.1,Female,35,Advanced,Fat Loss,Goblet Squat
+19.1,Male,46,Advanced,Endurance,Wall Sit
+32.5,Male,59,Intermediate,Flexibility,Deep Squat Hold
+34.5,Male,18,Intermediate,Fat Loss,Dumbbell Lunges
+27.8,Male,46,Beginner,Fat Loss,Elliptical Trainer
+34.5,Female,23,Advanced,Strength,T-Bar Row
+17.6,Female,39,Intermediate,Flexibility,Spiderman Stretch
+30.2,Female,55,Beginner,Strength,Lat Pulldown
+21.8,Male,55,Beginner,Fat Loss,Step Ups
+20.4,Female,32,Beginner,Strength,Barbell Squat
+30.7,Male,19,Beginner,Strength,Pull Ups
+25.1,Female,25,Advanced,Endurance,Recumbent Bike
+25.7,Male,30,Intermediate,Flexibility,Child's Pose
+25.3,Male,22,Intermediate,Strength,Dumbbell Rows
+15.2,Female,30,Beginner,Strength,Bench Press
+23.9,Male,25,Beginner,Fat Loss,Goblet Squat
+19.9,Male,22,Intermediate,Strength,Leg Press
+31.7,Male,37,Beginner,Strength,Barbell Squat
+22.3,Male,22,Beginner,Fat Loss,Jumping Jacks
+32.5,Male,59,Intermediate,Flexibility,Spiderman Stretch
+19.9,Male,37,Advanced,Fat Loss,Burpees
+16.8,Male,51,Intermediate,Fat Loss,Kettlebell Swing
+17.1,Male,23,Advanced,Endurance,Plank
+25.7,Male,35,Beginner,Fat Loss,Goblet Squat
+15.2,Female,23,Intermediate,Endurance,Wall Sit
+20.6,Female,30,Advanced,Strength,Deadlift
+33.1,Female,46,Intermediate,Strength,Overhead Press
+32.3,Female,52,Beginner,Flexibility,Forward Fold
+18.3,Female,55,Beginner,Fat Loss,Running (Treadmill)
+31.4,Male,19,Advanced,Endurance,Battle Ropes
+20.5,Male,19,Advanced,Strength,T-Bar Row
+18.6,Male,56,Intermediate,Flexibility,Shoulder Pass-Throughs
+31.1,Female,49,Advanced,Flexibility,Forward Fold
+25.9,Female,36,Beginner,Flexibility,Child's Pose
+25.3,Male,22,Intermediate,Strength,Leg Press
+26.2,Male,26,Beginner,Flexibility,Shoulder Pass-Throughs
+32.8,Female,25,Intermediate,Strength,T-Bar Row
+33.1,Male,19,Advanced,Flexibility,Cat-Cow Stretch
+29.7,Male,34,Advanced,Fat Loss,Dumbbell Lunges
+18.8,Female,59,Beginner,Endurance,Wall Sit
+24.1,Male,21,Advanced,Endurance,Recumbent Bike
+27.3,Female,20,Advanced,Strength,Bench Press
+31.9,Male,27,Beginner,Flexibility,Spiderman Stretch
+33.9,Female,48,Intermediate,Flexibility,Deep Squat Hold
+23.9,Male,34,Advanced,Strength,Leg Press
+30.7,Female,57,Beginner,Fat Loss,Jump Rope
+24.9,Female,30,Advanced,Flexibility,Cat-Cow Stretch
+18.6,Female,45,Intermediate,Fat Loss,Burpees
+34.8,Male,35,Beginner,Strength,Lat Pulldown
+34.0,Male,56,Intermediate,Endurance,Cycling (Outdoor)
+30.7,Female,52,Beginner,Strength,Lat Pulldown
+23.7,Female,20,Intermediate,Fat Loss,Dumbbell Lunges
+19.6,Female,59,Advanced,Strength,Leg Press
+17.1,Male,60,Beginner,Fat Loss,Jumping Jacks
+25.9,Female,36,Beginner,Flexibility,Forward Fold
+17.8,Male,60,Advanced,Flexibility,Shoulder Pass-Throughs
+34.0,Male,31,Advanced,Endurance,Recumbent Bike
+27.4,Male,26,Beginner,Strength,Machine Chest Fly
+22.1,Male,20,Advanced,Endurance,Air Squats
+19.4,Female,36,Advanced,Flexibility,Forward Fold
+24.6,Female,56,Beginner,Fat Loss,Jumping Jacks
+15.8,Female,56,Intermediate,Endurance,Plank
+25.8,Male,32,Beginner,Flexibility,Child's Pose
+25.3,Female,32,Beginner,Strength,Machine Leg Extension
+29.0,Female,33,Beginner,Flexibility,Forward Fold
+28.2,Male,45,Beginner,Flexibility,Pigeon Pose
+20.7,Female,46,Advanced,Fat Loss,Jump Rope
+21.7,Male,60,Advanced,Strength,Lat Pulldown
+19.9,Male,37,Advanced,Fat Loss,Goblet Squat
+16.4,Female,34,Beginner,Strength,Machine Leg Extension
+24.6,Male,47,Intermediate,Flexibility,Pigeon Pose
+27.1,Female,20,Advanced,Endurance,Running (Outdoor)
+32.8,Female,37,Advanced,Fat Loss,Kettlebell Swing
+32.8,Female,25,Intermediate,Strength,Machine Leg Extension
+16.2,Female,54,Advanced,Flexibility,Pigeon Pose
+23.9,Female,57,Intermediate,Flexibility,Spiderman Stretch
+19.5,Male,32,Intermediate,Endurance,Running (Outdoor)
+16.8,Female,23,Intermediate,Fat Loss,Elliptical Trainer
+22.0,Female,30,Advanced,Endurance,Recumbent Bike
+31.5,Female,24,Beginner,Flexibility,Pigeon Pose
+20.6,Male,57,Intermediate,Fat Loss,Burpees
+32.7,Female,58,Beginner,Endurance,Recumbent Bike
+22.5,Female,59,Advanced,Strength,T-Bar Row
+15.7,Female,18,Intermediate,Flexibility,Pigeon Pose
+31.0,Male,58,Beginner,Fat Loss,Kettlebell Swing
+18.5,Female,23,Beginner,Strength,Bench Press
+29.3,Female,55,Beginner,Endurance,Battle Ropes
+24.9,Female,30,Advanced,Flexibility,Cat-Cow Stretch
+30.9,Male,51,Advanced,Endurance,Kettlebell Clean & Press
+22.2,Male,59,Beginner,Flexibility,Cat-Cow Stretch
+34.7,Female,51,Advanced,Endurance,Battle Ropes
+31.8,Male,26,Intermediate,Flexibility,Spiderman Stretch
+17.1,Male,23,Advanced,Endurance,Wall Sit
+30.9,Male,24,Beginner,Endurance,Cycling (Outdoor)
+33.8,Male,26,Intermediate,Fat Loss,Kettlebell Swing
+31.5,Male,27,Intermediate,Endurance,Air Squats
+32.3,Female,52,Beginner,Flexibility,Forward Fold
+32.7,Male,24,Beginner,Flexibility,Spiderman Stretch
+18.6,Male,56,Intermediate,Flexibility,Shoulder Pass-Throughs
+33.1,Female,59,Advanced,Fat Loss,Dumbbell Lunges
+22.3,Female,60,Beginner,Strength,Barbell Squat
+20.6,Male,57,Intermediate,Fat Loss,Jump Rope
+29.4,Male,37,Beginner,Endurance,Battle Ropes
+34.1,Male,34,Beginner,Endurance,Battle Ropes
+22.0,Male,49,Beginner,Flexibility,Hamstring Stretch (Standing)
+33.6,Male,53,Beginner,Fat Loss,Running (Treadmill)
+29.4,Male,37,Beginner,Endurance,Recumbent Bike
+32.7,Male,24,Beginner,Flexibility,Shoulder Pass-Throughs
+22.7,Female,21,Advanced,Fat Loss,Kettlebell Swing
+24.9,Female,45,Beginner,Flexibility,Shoulder Pass-Throughs
+20.7,Female,46,Advanced,Fat Loss,Step Ups
+27.5,Female,36,Intermediate,Flexibility,Shoulder Pass-Throughs
+20.1,Female,57,Advanced,Strength,Barbell Squat
+16.4,Female,34,Beginner,Strength,Dumbbell Rows
+22.2,Male,59,Beginner,Flexibility,Cat-Cow Stretch
+34.8,Female,38,Beginner,Flexibility,Child's Pose
+30.5,Female,60,Advanced,Fat Loss,Jumping Jacks
+15.8,Female,56,Intermediate,Endurance,Plank
+20.7,Male,45,Advanced,Endurance,Cycling (Outdoor)
+18.3,Female,46,Beginner,Fat Loss,Dumbbell Lunges
+19.2,Male,30,Intermediate,Flexibility,Child's Pose
+24.2,Female,35,Advanced,Endurance,Cycling (Outdoor)
+28.7,Male,58,Advanced,Endurance,Plank
+24.3,Female,33,Intermediate,Fat Loss,Step Ups
+20.4,Female,32,Beginner,Strength,Barbell Squat
+22.6,Male,60,Advanced,Strength,Pull Ups
+22.7,Female,21,Advanced,Fat Loss,Mountain Climbers
+29.8,Male,26,Advanced,Fat Loss,Burpees
+16.8,Male,51,Intermediate,Fat Loss,Jump Rope
+22.3,Male,50,Advanced,Fat Loss,Dumbbell Lunges
+22.3,Male,50,Advanced,Fat Loss,Elliptical Trainer
+20.6,Male,37,Beginner,Strength,Pull Ups
+20.9,Female,27,Intermediate,Fat Loss,Running (Treadmill)
+35.0,Male,31,Advanced,Flexibility,Forward Fold
+27.3,Female,19,Beginner,Flexibility,Hamstring Stretch (Standing)
+27.5,Male,46,Beginner,Fat Loss,Elliptical Trainer
+30.1,Male,48,Intermediate,Fat Loss,Step Ups
+21.7,Male,55,Beginner,Endurance,Push Ups
+31.1,Male,52,Advanced,Strength,Pull Ups
+34.7,Male,59,Intermediate,Strength,Deadlift
+27.5,Female,20,Advanced,Fat Loss,Step Ups
+34.8,Female,50,Intermediate,Fat Loss,Dumbbell Lunges
+29.1,Female,26,Advanced,Strength,Overhead Press
+33.5,Male,32,Advanced,Strength,Dumbbell Rows
+29.4,Female,50,Beginner,Fat Loss,Step Ups
+32.3,Male,54,Beginner,Strength,Barbell Squat
+21.0,Male,20,Beginner,Endurance,Push Ups
+17.8,Male,60,Advanced,Flexibility,Cat-Cow Stretch
+35.0,Male,31,Advanced,Flexibility,Forward Fold
+20.6,Male,57,Intermediate,Fat Loss,Jump Rope
+28.6,Female,39,Intermediate,Fat Loss,Jump Rope
+21.8,Male,37,Advanced,Strength,Machine Leg Extension
+26.3,Male,31,Beginner,Endurance,Plank
+15.7,Female,45,Advanced,Flexibility,Forward Fold
+33.5,Male,32,Advanced,Strength,Dumbbell Rows
+21.5,Male,34,Intermediate,Flexibility,Cat-Cow Stretch
+20.9,Male,23,Advanced,Fat Loss,Jump Rope
+23.9,Female,57,Intermediate,Flexibility,Forward Fold
+19.6,Female,59,Advanced,Strength,Machine Leg Extension
+21.9,Female,22,Beginner,Flexibility,Pigeon Pose
+33.4,Male,60,Intermediate,Strength,Lat Pulldown
+15.6,Female,54,Beginner,Strength,Dumbbell Rows
+17.9,Male,58,Advanced,Strength,Overhead Press
+28.4,Male,45,Advanced,Flexibility,Cat-Cow Stretch
+26.0,Female,55,Beginner,Strength,Barbell Squat
+17.1,Male,48,Advanced,Strength,Dumbbell Rows
+18.8,Female,53,Intermediate,Flexibility,Forward Fold
+20.4,Female,32,Beginner,Strength,Machine Chest Fly
+18.6,Male,56,Intermediate,Flexibility,Shoulder Pass-Throughs
+27.2,Male,53,Beginner,Endurance,Kettlebell Clean & Press
+19.9,Female,36,Intermediate,Endurance,Recumbent Bike
+24.1,Female,30,Intermediate,Fat Loss,Step Ups
+24.6,Male,22,Intermediate,Endurance,Running (Outdoor)
+20.6,Female,30,Advanced,Strength,T-Bar Row
+29.4,Female,50,Beginner,Fat Loss,Jumping Jacks
+22.6,Male,33,Beginner,Flexibility,Spiderman Stretch
+33.1,Female,46,Intermediate,Strength,Overhead Press
+30.1,Male,48,Intermediate,Fat Loss,Burpees
+26.4,Male,50,Beginner,Fat Loss,Jumping Jacks
+22.0,Male,49,Beginner,Flexibility,Shoulder Pass-Throughs
+24.1,Male,21,Advanced,Endurance,Plank
+32.6,Female,52,Intermediate,Flexibility,Cat-Cow Stretch
+29.2,Female,26,Beginner,Endurance,Wall Sit
+18.3,Female,55,Beginner,Fat Loss,Elliptical Trainer
+17.6,Male,34,Intermediate,Flexibility,Pigeon Pose
+17.9,Male,58,Advanced,Strength,Overhead Press
+29.4,Female,50,Beginner,Fat Loss,Mountain Climbers
+20.6,Female,30,Advanced,Strength,Machine Chest Fly
+22.6,Male,60,Advanced,Strength,Dumbbell Rows
+25.7,Male,35,Beginner,Fat Loss,Goblet Squat
+30.1,Male,19,Intermediate,Flexibility,Spiderman Stretch
+23.7,Female,48,Beginner,Fat Loss,Kettlebell Swing
+26.6,Male,56,Advanced,Fat Loss,Jump Rope
+31.5,Male,27,Intermediate,Endurance,Kettlebell Clean & Press
+23.7,Female,55,Intermediate,Strength,Bench Press
+27.5,Male,35,Advanced,Fat Loss,Kettlebell Swing
+30.9,Female,57,Intermediate,Endurance,Recumbent Bike
+27.9,Male,25,Intermediate,Flexibility,Hamstring Stretch (Standing)
+32.4,Male,50,Advanced,Endurance,Plank
+34.7,Female,51,Advanced,Endurance,Wall Sit
+20.0,Female,57,Advanced,Fat Loss,Goblet Squat
+17.4,Male,39,Intermediate,Strength,Machine Leg Extension
+22.5,Female,59,Advanced,Strength,Bench Press
+32.4,Male,54,Advanced,Flexibility,Shoulder Pass-Throughs
+19.9,Female,22,Intermediate,Strength,Dumbbell Rows
+24.4,Female,47,Advanced,Strength,T-Bar Row
+16.6,Male,58,Beginner,Endurance,Wall Sit
+29.2,Female,26,Beginner,Endurance,Cycling (Outdoor)
+32.4,Male,60,Intermediate,Strength,Deadlift
+15.9,Male,19,Intermediate,Flexibility,Child's Pose
+25.3,Female,32,Beginner,Strength,Machine Leg Extension
+26.0,Female,55,Beginner,Strength,Barbell Squat
+28.1,Male,56,Intermediate,Fat Loss,Step Ups
+32.0,Male,30,Beginner,Flexibility,Forward Fold
+34.1,Male,34,Beginner,Endurance,Battle Ropes
+19.1,Male,46,Advanced,Endurance,Recumbent Bike
+16.7,Male,19,Advanced,Fat Loss,Jumping Jacks
+33.8,Male,36,Advanced,Fat Loss,Jumping Jacks
+20.1,Female,57,Advanced,Strength,Bench Press
+21.7,Male,55,Beginner,Endurance,Battle Ropes
+27.5,Female,20,Advanced,Fat Loss,Burpees
+27.1,Male,55,Advanced,Endurance,Running (Outdoor)
+16.8,Male,22,Advanced,Flexibility,Cat-Cow Stretch
+16.5,Female,46,Advanced,Flexibility,Cat-Cow Stretch
+17.9,Female,54,Intermediate,Endurance,Cycling (Outdoor)
+32.3,Female,45,Advanced,Strength,Lat Pulldown
+20.6,Female,30,Advanced,Strength,Machine Chest Fly
+29.6,Male,22,Intermediate,Endurance,Push Ups
+33.1,Female,59,Advanced,Fat Loss,Running (Treadmill)
+34.0,Male,53,Advanced,Strength,Pull Ups
+25.2,Female,32,Advanced,Fat Loss,Running (Treadmill)
+28.6,Female,39,Intermediate,Fat Loss,Jump Rope
+27.7,Female,46,Intermediate,Flexibility,Pigeon Pose
+20.6,Female,30,Advanced,Strength,Machine Leg Extension
+29.5,Female,27,Intermediate,Flexibility,Cat-Cow Stretch
+27.8,Male,46,Beginner,Fat Loss,Elliptical Trainer
+22.1,Male,38,Intermediate,Fat Loss,Goblet Squat
+30.3,Female,60,Advanced,Fat Loss,Elliptical Trainer
+16.3,Female,60,Beginner,Flexibility,Deep Squat Hold
+32.4,Male,60,Intermediate,Strength,Leg Press
+22.1,Male,24,Advanced,Strength,Dumbbell Rows
+28.8,Female,19,Beginner,Fat Loss,Kettlebell Swing
+34.7,Female,51,Advanced,Endurance,Push Ups
+23.5,Male,18,Beginner,Endurance,Battle Ropes
+32.6,Male,33,Advanced,Flexibility,Spiderman Stretch
+29.4,Female,50,Beginner,Fat Loss,Elliptical Trainer
+26.0,Female,55,Beginner,Strength,Pull Ups
+22.3,Female,36,Beginner,Fat Loss,Jump Rope
+16.0,Male,50,Advanced,Fat Loss,Jump Rope
+23.7,Female,20,Intermediate,Fat Loss,Kettlebell Swing
+18.6,Male,38,Intermediate,Endurance,Wall Sit
+34.6,Male,38,Intermediate,Flexibility,Cat-Cow Stretch
+34.6,Male,38,Intermediate,Flexibility,Cat-Cow Stretch
+15.7,Male,31,Intermediate,Endurance,Plank
+33.5,Male,32,Advanced,Strength,Leg Press
+21.8,Male,37,Advanced,Strength,Overhead Press
+16.7,Male,58,Intermediate,Flexibility,Shoulder Pass-Throughs
+20.2,Male,34,Intermediate,Endurance,Recumbent Bike
+27.3,Female,20,Advanced,Strength,Bench Press
+16.8,Female,23,Intermediate,Fat Loss,Running (Treadmill)
+16.1,Female,57,Advanced,Flexibility,Cat-Cow Stretch
+34.7,Male,24,Beginner,Flexibility,Shoulder Pass-Throughs
+33.7,Male,45,Advanced,Flexibility,Shoulder Pass-Throughs
+23.6,Female,55,Beginner,Endurance,Wall Sit
+16.8,Male,22,Advanced,Flexibility,Hamstring Stretch (Standing)
+32.7,Female,51,Intermediate,Endurance,Running (Outdoor)
+15.4,Male,56,Beginner,Flexibility,Hamstring Stretch (Standing)
+31.0,Female,60,Intermediate,Fat Loss,Elliptical Trainer
+23.0,Female,60,Advanced,Flexibility,Shoulder Pass-Throughs
+29.4,Male,37,Beginner,Endurance,Recumbent Bike
+18.2,Male,34,Intermediate,Endurance,Running (Outdoor)
+24.7,Male,56,Intermediate,Endurance,Recumbent Bike
+24.2,Female,35,Advanced,Endurance,Cycling (Outdoor)
+27.3,Male,51,Beginner,Endurance,Wall Sit
+26.2,Male,26,Beginner,Flexibility,Shoulder Pass-Throughs
+22.9,Male,30,Intermediate,Fat Loss,Dumbbell Lunges
+15.1,Male,32,Beginner,Fat Loss,Goblet Squat
+15.5,Male,46,Intermediate,Strength,Barbell Squat
+30.2,Female,47,Intermediate,Endurance,Plank
+16.0,Female,48,Advanced,Flexibility,Forward Fold
+22.3,Male,46,Beginner,Strength,T-Bar Row
+15.3,Male,26,Advanced,Endurance,Plank
+34.7,Male,24,Beginner,Flexibility,Forward Fold
+22.3,Male,32,Beginner,Strength,Lat Pulldown
+34.6,Male,38,Intermediate,Flexibility,Cat-Cow Stretch
+21.4,Female,55,Beginner,Flexibility,Pigeon Pose
+15.3,Male,26,Advanced,Endurance,Plank
+23.5,Male,18,Beginner,Endurance,Push Ups
+23.6,Female,21,Advanced,Flexibility,Spiderman Stretch
+18.6,Male,56,Intermediate,Flexibility,Deep Squat Hold
+15.3,Male,26,Advanced,Endurance,Cycling (Outdoor)
+18.9,Female,60,Advanced,Flexibility,Pigeon Pose
+17.3,Female,33,Intermediate,Flexibility,Child's Pose
+32.2,Male,55,Advanced,Flexibility,Child's Pose
+19.3,Male,49,Advanced,Strength,Machine Chest Fly
+18.3,Male,36,Advanced,Endurance,Wall Sit
+32.4,Male,54,Advanced,Flexibility,Shoulder Pass-Throughs
+29.4,Male,37,Beginner,Endurance,Air Squats
+34.7,Male,59,Intermediate,Strength,Deadlift
+16.6,Male,58,Beginner,Endurance,Push Ups
+17.9,Female,34,Advanced,Endurance,Plank
+30.8,Female,27,Beginner,Flexibility,Forward Fold
+29.6,Male,22,Intermediate,Endurance,Cycling (Outdoor)
+23.1,Female,38,Advanced,Strength,Leg Press
+17.9,Male,58,Advanced,Strength,Overhead Press
+22.3,Male,46,Advanced,Fat Loss,Dumbbell Lunges
+19.9,Female,36,Intermediate,Endurance,Plank
+22.9,Male,30,Intermediate,Fat Loss,Jumping Jacks
+20.9,Male,23,Advanced,Fat Loss,Burpees
+21.9,Female,57,Beginner,Flexibility,Forward Fold
+19.0,Female,27,Intermediate,Flexibility,Spiderman Stretch
+18.6,Female,45,Intermediate,Fat Loss,Running (Treadmill)
+22.3,Male,46,Advanced,Fat Loss,Dumbbell Lunges
+24.1,Male,21,Advanced,Endurance,Recumbent Bike
+25.3,Female,19,Intermediate,Flexibility,Pigeon Pose
+22.6,Male,39,Advanced,Fat Loss,Kettlebell Swing
+22.6,Male,39,Advanced,Fat Loss,Running (Treadmill)
+29.4,Female,50,Beginner,Fat Loss,Mountain Climbers
+23.1,Female,38,Advanced,Strength,Machine Leg Extension
+19.8,Male,56,Beginner,Flexibility,Pigeon Pose
+31.2,Female,25,Beginner,Strength,Leg Press
+25.3,Female,19,Intermediate,Flexibility,Pigeon Pose
+21.6,Female,35,Intermediate,Fat Loss,Mountain Climbers
+17.9,Female,34,Advanced,Endurance,Plank
+17.9,Female,45,Beginner,Endurance,Push Ups
+27.4,Male,26,Beginner,Strength,Machine Chest Fly
+18.1,Female,30,Advanced,Fat Loss,Kettlebell Swing
+22.6,Male,60,Advanced,Strength,Overhead Press
+27.1,Female,20,Advanced,Endurance,Push Ups
+33.7,Male,45,Advanced,Flexibility,Cat-Cow Stretch
+15.7,Female,18,Intermediate,Flexibility,Pigeon Pose
+23.8,Male,48,Intermediate,Flexibility,Child's Pose
+28.3,Female,31,Intermediate,Endurance,Wall Sit
+26.4,Male,50,Beginner,Fat Loss,Running (Treadmill)
+17.8,Male,37,Beginner,Flexibility,Shoulder Pass-Throughs
+19.7,Female,30,Intermediate,Flexibility,Hamstring Stretch (Standing)
+33.6,Male,38,Advanced,Flexibility,Hamstring Stretch (Standing)
+33.9,Female,48,Intermediate,Flexibility,Cat-Cow Stretch
+33.5,Male,32,Advanced,Strength,Dumbbell Rows
+34.5,Male,18,Intermediate,Fat Loss,Jump Rope
+33.0,Female,24,Beginner,Fat Loss,Goblet Squat
+15.9,Male,53,Beginner,Flexibility,Shoulder Pass-Throughs
+25.9,Female,36,Beginner,Flexibility,Child's Pose
+33.7,Male,45,Advanced,Flexibility,Child's Pose
+27.7,Female,26,Intermediate,Strength,Deadlift
+31.9,Male,27,Beginner,Flexibility,Forward Fold
+18.0,Female,48,Advanced,Endurance,Running (Outdoor)
+21.9,Male,20,Beginner,Strength,Leg Press
+29.2,Female,26,Beginner,Endurance,Cycling (Outdoor)
+16.0,Female,48,Advanced,Flexibility,Spiderman Stretch
+28.2,Male,45,Beginner,Flexibility,Forward Fold
+20.9,Male,23,Advanced,Fat Loss,Burpees
+27.2,Male,53,Beginner,Endurance,Wall Sit
+34.0,Male,50,Beginner,Fat Loss,Dumbbell Lunges
+20.9,Male,23,Advanced,Fat Loss,Elliptical Trainer
+32.8,Female,25,Intermediate,Strength,Machine Leg Extension
+24.6,Female,56,Beginner,Fat Loss,Goblet Squat
+22.9,Male,59,Advanced,Fat Loss,Dumbbell Lunges
+15.1,Male,32,Beginner,Fat Loss,Burpees
+17.1,Male,48,Advanced,Strength,Bench Press
+24.6,Female,56,Beginner,Fat Loss,Kettlebell Swing
+25.3,Female,32,Beginner,Strength,Barbell Squat
+26.5,Female,59,Intermediate,Fat Loss,Dumbbell Lunges
+18.6,Female,45,Intermediate,Fat Loss,Mountain Climbers
+23.7,Female,20,Intermediate,Fat Loss,Elliptical Trainer
+34.0,Female,51,Intermediate,Fat Loss,Dumbbell Lunges
+24.5,Female,18,Advanced,Fat Loss,Mountain Climbers
+24.6,Female,56,Beginner,Fat Loss,Goblet Squat
+18.0,Female,52,Intermediate,Strength,Bench Press
+20.7,Male,37,Beginner,Endurance,Wall Sit
+23.7,Female,55,Intermediate,Strength,Lat Pulldown
+20.5,Male,59,Intermediate,Endurance,Cycling (Outdoor)
+18.6,Male,56,Intermediate,Flexibility,Deep Squat Hold
+18.6,Female,45,Intermediate,Fat Loss,Running (Treadmill)
+18.6,Male,38,Intermediate,Endurance,Wall Sit
+22.5,Male,31,Advanced,Strength,Dumbbell Rows
+15.9,Male,53,Beginner,Flexibility,Deep Squat Hold
+15.8,Female,56,Intermediate,Endurance,Plank
+31.1,Female,39,Advanced,Fat Loss,Running (Treadmill)
+22.3,Male,22,Beginner,Fat Loss,Mountain Climbers
+21.9,Female,58,Intermediate,Flexibility,Shoulder Pass-Throughs
+19.4,Female,36,Advanced,Flexibility,Pigeon Pose
+29.1,Male,22,Intermediate,Flexibility,Child's Pose
+34.4,Female,35,Beginner,Strength,T-Bar Row
+31.8,Female,47,Beginner,Flexibility,Cat-Cow Stretch
+16.4,Female,34,Beginner,Strength,T-Bar Row
+18.7,Female,60,Intermediate,Fat Loss,Jump Rope
+31.8,Female,47,Beginner,Flexibility,Hamstring Stretch (Standing)
+19.2,Male,30,Intermediate,Flexibility,Child's Pose
+19.8,Male,56,Beginner,Flexibility,Pigeon Pose
+34.5,Male,18,Intermediate,Fat Loss,Kettlebell Swing
+17.7,Female,36,Beginner,Fat Loss,Elliptical Trainer
+24.2,Female,35,Advanced,Endurance,Recumbent Bike
+32.0,Male,30,Beginner,Flexibility,Pigeon Pose
+32.2,Male,55,Advanced,Flexibility,Deep Squat Hold
+19.5,Male,32,Intermediate,Endurance,Recumbent Bike
+32.3,Female,52,Beginner,Flexibility,Forward Fold
+29.6,Male,22,Intermediate,Endurance,Cycling (Outdoor)
+34.2,Male,27,Advanced,Flexibility,Spiderman Stretch
+27.1,Female,20,Advanced,Endurance,Battle Ropes
+34.6,Female,50,Advanced,Fat Loss,Dumbbell Lunges
+34.6,Male,38,Intermediate,Flexibility,Hamstring Stretch (Standing)
+24.3,Female,33,Intermediate,Fat Loss,Step Ups
+31.0,Female,32,Intermediate,Strength,Lat Pulldown
+27.3,Female,20,Advanced,Strength,Dumbbell Rows
+15.5,Male,46,Intermediate,Strength,Leg Press
+27.1,Female,47,Intermediate,Strength,Leg Press
+20.1,Female,53,Beginner,Strength,Overhead Press
+16.3,Female,60,Beginner,Flexibility,Deep Squat Hold
+32.4,Male,50,Advanced,Endurance,Kettlebell Clean & Press
+27.1,Female,33,Beginner,Flexibility,Forward Fold
+25.6,Male,51,Beginner,Strength,Leg Press
+32.9,Male,59,Advanced,Strength,Machine Chest Fly
+15.4,Male,56,Beginner,Flexibility,Hamstring Stretch (Standing)
+29.4,Female,50,Beginner,Fat Loss,Jumping Jacks
+21.1,Female,18,Beginner,Endurance,Recumbent Bike
+25.7,Male,55,Intermediate,Endurance,Air Squats
+28.4,Female,59,Intermediate,Strength,Machine Chest Fly
+17.1,Male,23,Advanced,Endurance,Wall Sit
+17.3,Female,33,Intermediate,Flexibility,Deep Squat Hold
+17.9,Female,55,Advanced,Flexibility,Child's Pose
+32.2,Male,55,Advanced,Flexibility,Child's Pose
+34.3,Female,21,Beginner,Flexibility,Cat-Cow Stretch
+17.3,Female,54,Beginner,Fat Loss,Step Ups
+30.5,Female,60,Advanced,Fat Loss,Jump Rope
+29.1,Male,22,Intermediate,Flexibility,Cat-Cow Stretch
+16.0,Female,48,Advanced,Flexibility,Deep Squat Hold
+15.5,Female,25,Beginner,Strength,Machine Leg Extension
+31.5,Male,27,Intermediate,Endurance,Wall Sit
+26.1,Male,46,Advanced,Flexibility,Shoulder Pass-Throughs
+29.4,Female,50,Beginner,Fat Loss,Elliptical Trainer
+16.9,Male,27,Advanced,Strength,Leg Press
+34.0,Male,31,Advanced,Endurance,Air Squats
+27.7,Female,26,Intermediate,Strength,Overhead Press
+25.9,Female,55,Beginner,Flexibility,Forward Fold
+27.3,Female,19,Beginner,Flexibility,Hamstring Stretch (Standing)
+25.6,Male,25,Intermediate,Endurance,Running (Outdoor)
+20.9,Male,23,Advanced,Fat Loss,Burpees
+27.7,Female,26,Intermediate,Strength,Machine Leg Extension
+26.7,Female,39,Intermediate,Flexibility,Deep Squat Hold
+15.5,Male,46,Intermediate,Strength,Leg Press
+22.7,Female,21,Advanced,Fat Loss,Jump Rope
+15.7,Male,31,Intermediate,Endurance,Air Squats
+23.0,Female,60,Advanced,Flexibility,Forward Fold
+20.0,Male,57,Beginner,Strength,Deadlift
+27.5,Female,36,Intermediate,Flexibility,Hamstring Stretch (Standing)
+17.2,Female,58,Advanced,Endurance,Recumbent Bike
+29.5,Male,49,Advanced,Flexibility,Pigeon Pose
+30.4,Male,22,Intermediate,Fat Loss,Jump Rope
+27.0,Female,46,Beginner,Flexibility,Cat-Cow Stretch
+29.4,Female,50,Beginner,Fat Loss,Step Ups
+23.5,Female,27,Advanced,Endurance,Kettlebell Clean & Press
+16.7,Male,19,Advanced,Fat Loss,Mountain Climbers
+16.4,Female,34,Beginner,Strength,Pull Ups
+17.2,Female,59,Intermediate,Endurance,Battle Ropes
+17.6,Female,39,Intermediate,Flexibility,Spiderman Stretch
+30.9,Female,57,Intermediate,Endurance,Wall Sit
+31.0,Female,60,Intermediate,Fat Loss,Kettlebell Swing
+25.8,Male,32,Beginner,Flexibility,Shoulder Pass-Throughs
+27.0,Female,46,Beginner,Flexibility,Deep Squat Hold
+27.3,Male,51,Beginner,Endurance,Wall Sit
+33.5,Female,50,Intermediate,Strength,Overhead Press
+29.4,Male,37,Beginner,Endurance,Recumbent Bike
+17.9,Male,58,Advanced,Strength,Deadlift
+32.2,Male,55,Advanced,Flexibility,Child's Pose
+22.0,Male,49,Beginner,Flexibility,Child's Pose
+34.1,Male,34,Beginner,Endurance,Wall Sit
+34.4,Female,35,Beginner,Strength,Barbell Squat
+22.3,Male,32,Beginner,Strength,Bench Press
+19.6,Male,52,Intermediate,Endurance,Recumbent Bike
+31.1,Female,49,Advanced,Flexibility,Hamstring Stretch (Standing)
+34.0,Male,31,Advanced,Endurance,Recumbent Bike
+30.2,Female,46,Advanced,Endurance,Kettlebell Clean & Press
+25.8,Male,51,Intermediate,Flexibility,Forward Fold
+29.4,Male,59,Advanced,Flexibility,Forward Fold
+23.3,Female,51,Beginner,Fat Loss,Dumbbell Lunges
+29.4,Male,37,Beginner,Endurance,Air Squats
+31.0,Female,34,Beginner,Endurance,Running (Outdoor)
+28.4,Female,59,Intermediate,Strength,Machine Chest Fly
+16.0,Male,50,Advanced,Fat Loss,Jump Rope
+34.8,Female,50,Intermediate,Fat Loss,Running (Treadmill)
+29.1,Male,22,Intermediate,Flexibility,Forward Fold
+31.0,Female,34,Beginner,Endurance,Battle Ropes
+18.8,Female,53,Intermediate,Flexibility,Shoulder Pass-Throughs
+25.9,Female,36,Beginner,Flexibility,Pigeon Pose
+18.3,Male,54,Intermediate,Strength,Machine Chest Fly
+24.1,Female,30,Intermediate,Fat Loss,Jumping Jacks
+20.5,Male,59,Intermediate,Endurance,Push Ups
+18.9,Female,60,Advanced,Flexibility,Spiderman Stretch
+33.1,Male,19,Advanced,Flexibility,Deep Squat Hold
+17.9,Female,55,Advanced,Flexibility,Child's Pose
+28.7,Male,56,Intermediate,Flexibility,Deep Squat Hold
+34.0,Male,32,Intermediate,Strength,Machine Leg Extension
+19.4,Female,27,Beginner,Endurance,Kettlebell Clean & Press
+24.1,Male,21,Advanced,Endurance,Plank
+23.7,Female,48,Beginner,Fat Loss,Jumping Jacks
+18.0,Female,52,Intermediate,Strength,Bench Press
+19.9,Female,22,Intermediate,Strength,Dumbbell Rows
+17.0,Male,51,Intermediate,Strength,Leg Press
+30.2,Female,47,Intermediate,Endurance,Battle Ropes
+30.5,Female,60,Advanced,Fat Loss,Step Ups
+16.5,Male,49,Beginner,Endurance,Air Squats
+29.7,Male,33,Beginner,Endurance,Air Squats
+27.7,Female,46,Intermediate,Flexibility,Pigeon Pose
+23.0,Male,54,Beginner,Strength,Leg Press
+17.8,Female,31,Intermediate,Strength,Deadlift
+23.8,Female,59,Intermediate,Fat Loss,Mountain Climbers
+29.7,Male,33,Beginner,Endurance,Kettlebell Clean & Press
+22.3,Female,60,Beginner,Strength,Overhead Press
+24.5,Male,37,Advanced,Endurance,Battle Ropes
+22.2,Male,59,Beginner,Flexibility,Pigeon Pose
+29.3,Female,55,Beginner,Endurance,Push Ups
+32.1,Male,36,Advanced,Endurance,Push Ups
+21.9,Female,57,Beginner,Flexibility,Pigeon Pose
+25.8,Male,51,Intermediate,Flexibility,Deep Squat Hold
+31.6,Female,56,Beginner,Flexibility,Deep Squat Hold
+32.1,Male,36,Advanced,Endurance,Recumbent Bike
+34.1,Male,34,Beginner,Endurance,Running (Outdoor)
+33.8,Male,36,Advanced,Fat Loss,Mountain Climbers
+32.7,Male,24,Beginner,Flexibility,Deep Squat Hold
+34.5,Male,18,Intermediate,Fat Loss,Mountain Climbers
+23.1,Female,38,Advanced,Strength,Dumbbell Rows
+28.7,Male,58,Advanced,Endurance,Recumbent Bike
+19.1,Male,46,Advanced,Endurance,Recumbent Bike
+19.7,Female,30,Intermediate,Flexibility,Pigeon Pose
+30.1,Male,19,Intermediate,Flexibility,Forward Fold
+23.6,Male,50,Beginner,Flexibility,Pigeon Pose
+27.3,Female,20,Advanced,Strength,Dumbbell Rows
+28.7,Female,21,Beginner,Strength,Machine Leg Extension
+20.7,Male,37,Beginner,Endurance,Running (Outdoor)
+30.9,Male,34,Beginner,Flexibility,Deep Squat Hold
+30.3,Male,59,Beginner,Flexibility,Pigeon Pose
+24.9,Female,58,Intermediate,Strength,Machine Leg Extension
+19.4,Female,27,Beginner,Endurance,Push Ups
+18.3,Female,55,Beginner,Fat Loss,Jumping Jacks
+24.4,Male,25,Advanced,Strength,Dumbbell Rows
+29.6,Male,22,Intermediate,Endurance,Plank
+24.2,Female,35,Advanced,Endurance,Cycling (Outdoor)
+27.4,Female,56,Advanced,Endurance,Plank
+23.0,Male,55,Advanced,Fat Loss,Dumbbell Lunges
+29.9,Female,35,Advanced,Flexibility,Spiderman Stretch
+20.7,Male,20,Beginner,Flexibility,Child's Pose
+30.7,Female,57,Beginner,Fat Loss,Mountain Climbers
+33.8,Male,36,Advanced,Fat Loss,Burpees
+24.9,Female,30,Advanced,Flexibility,Forward Fold
+22.6,Male,60,Advanced,Strength,Dumbbell Rows
+22.3,Female,36,Beginner,Fat Loss,Dumbbell Lunges
+18.2,Male,34,Intermediate,Endurance,Battle Ropes
+34.7,Female,51,Advanced,Endurance,Battle Ropes
+29.5,Female,45,Advanced,Strength,Bench Press
+22.8,Female,58,Intermediate,Flexibility,Deep Squat Hold
+24.9,Female,58,Intermediate,Strength,Dumbbell Rows
+31.0,Male,58,Beginner,Fat Loss,Burpees
+31.5,Male,27,Intermediate,Endurance,Cycling (Outdoor)
+23.9,Male,25,Beginner,Fat Loss,Kettlebell Swing
+34.7,Male,24,Beginner,Flexibility,Forward Fold
+30.9,Male,24,Beginner,Endurance,Push Ups
+21.7,Male,60,Advanced,Strength,Machine Leg Extension
+27.7,Female,57,Advanced,Flexibility,Shoulder Pass-Throughs
+19.1,Male,46,Advanced,Endurance,Recumbent Bike
+27.0,Female,46,Beginner,Flexibility,Pigeon Pose
+23.7,Female,20,Intermediate,Fat Loss,Elliptical Trainer
+22.3,Male,22,Beginner,Fat Loss,Jumping Jacks
+16.4,Female,34,Beginner,Strength,Pull Ups
+24.1,Female,59,Intermediate,Endurance,Recumbent Bike
+19.9,Female,36,Intermediate,Endurance,Air Squats
+17.3,Female,33,Intermediate,Flexibility,Deep Squat Hold
+16.0,Female,48,Advanced,Flexibility,Hamstring Stretch (Standing)
+31.1,Female,39,Advanced,Fat Loss,Kettlebell Swing
+18.9,Male,46,Intermediate,Flexibility,Forward Fold
+26.0,Female,55,Beginner,Strength,Overhead Press
+22.7,Female,30,Advanced,Endurance,Cycling (Outdoor)
+19.9,Female,36,Intermediate,Endurance,Wall Sit
+33.1,Female,46,Intermediate,Strength,Bench Press
+29.9,Female,45,Beginner,Flexibility,Spiderman Stretch
+17.2,Female,59,Intermediate,Endurance,Battle Ropes
+16.0,Male,50,Advanced,Fat Loss,Jump Rope
+16.0,Male,50,Advanced,Fat Loss,Dumbbell Lunges
+31.3,Female,52,Beginner,Endurance,Kettlebell Clean & Press
+22.1,Male,20,Advanced,Endurance,Battle Ropes
+15.1,Male,32,Beginner,Fat Loss,Running (Treadmill)
+18.3,Male,54,Intermediate,Strength,Machine Chest Fly
+22.5,Male,31,Advanced,Strength,Lat Pulldown
+20.1,Female,53,Beginner,Strength,Pull Ups
+33.8,Male,36,Advanced,Fat Loss,Mountain Climbers
+27.7,Female,26,Intermediate,Strength,Overhead Press
+18.0,Female,52,Intermediate,Strength,Machine Leg Extension
+20.5,Male,59,Intermediate,Endurance,Cycling (Outdoor)
+21.5,Female,57,Intermediate,Flexibility,Cat-Cow Stretch
+16.1,Female,57,Advanced,Flexibility,Pigeon Pose
+24.0,Male,36,Intermediate,Strength,Pull Ups
+27.5,Female,20,Advanced,Fat Loss,Goblet Squat
+17.9,Female,35,Advanced,Flexibility,Spiderman Stretch
+29.2,Female,26,Beginner,Endurance,Battle Ropes
+22.3,Male,50,Advanced,Fat Loss,Goblet Squat
+20.8,Female,58,Advanced,Endurance,Battle Ropes
+32.4,Male,50,Advanced,Endurance,Wall Sit
+16.7,Female,25,Advanced,Flexibility,Cat-Cow Stretch
+28.7,Female,45,Beginner,Endurance,Wall Sit
+20.0,Male,57,Beginner,Strength,Deadlift
+18.3,Male,36,Advanced,Endurance,Plank
+31.6,Female,56,Beginner,Flexibility,Pigeon Pose
+21.6,Male,25,Intermediate,Strength,Leg Press
+28.4,Female,59,Intermediate,Strength,Dumbbell Rows
+25.9,Female,36,Beginner,Flexibility,Hamstring Stretch (Standing)
+18.5,Female,33,Beginner,Endurance,Air Squats
+33.4,Male,60,Intermediate,Strength,T-Bar Row
+31.0,Female,34,Beginner,Endurance,Running (Outdoor)
+17.8,Male,60,Advanced,Flexibility,Spiderman Stretch
+20.7,Male,45,Advanced,Endurance,Battle Ropes
+22.8,Female,58,Intermediate,Flexibility,Pigeon Pose
+33.6,Male,53,Beginner,Fat Loss,Jump Rope
+32.1,Male,36,Advanced,Endurance,Recumbent Bike
+30.8,Female,27,Beginner,Flexibility,Forward Fold
+23.5,Male,18,Beginner,Endurance,Kettlebell Clean & Press
+17.8,Female,20,Advanced,Flexibility,Deep Squat Hold
+32.3,Female,45,Advanced,Strength,Pull Ups
+17.5,Female,21,Advanced,Strength,Deadlift
+32.1,Male,36,Advanced,Endurance,Recumbent Bike
+28.8,Female,19,Beginner,Fat Loss,Jump Rope
+17.9,Male,58,Advanced,Strength,Deadlift
+20.1,Female,57,Advanced,Strength,Machine Chest Fly
+26.1,Female,38,Intermediate,Strength,Leg Press
+33.9,Female,48,Intermediate,Flexibility,Forward Fold
+20.5,Male,19,Advanced,Strength,Pull Ups
+23.5,Female,22,Beginner,Fat Loss,Dumbbell Lunges
+34.6,Female,50,Advanced,Fat Loss,Jumping Jacks
+17.1,Male,23,Advanced,Endurance,Plank
+28.5,Male,58,Beginner,Endurance,Cycling (Outdoor)
+19.6,Male,52,Intermediate,Endurance,Push Ups
+27.1,Female,47,Intermediate,Strength,Leg Press
+16.6,Male,58,Beginner,Endurance,Wall Sit
+22.0,Male,49,Beginner,Flexibility,Shoulder Pass-Throughs
+22.7,Male,36,Advanced,Flexibility,Shoulder Pass-Throughs
+24.1,Female,30,Intermediate,Fat Loss,Jumping Jacks
+24.1,Male,21,Advanced,Endurance,Battle Ropes
+17.9,Female,34,Advanced,Endurance,Kettlebell Clean & Press
+33.4,Male,60,Intermediate,Strength,Machine Chest Fly
+19.4,Male,34,Advanced,Strength,T-Bar Row
+19.5,Male,32,Intermediate,Endurance,Wall Sit
+18.5,Male,54,Intermediate,Strength,Pull Ups
+16.3,Female,47,Beginner,Strength,Barbell Squat
+30.3,Male,59,Beginner,Flexibility,Hamstring Stretch (Standing)
+20.2,Male,34,Intermediate,Endurance,Recumbent Bike
+22.3,Female,60,Beginner,Strength,Overhead Press
+27.1,Female,33,Beginner,Flexibility,Shoulder Pass-Throughs
+29.4,Female,50,Beginner,Fat Loss,Elliptical Trainer
+18.8,Female,59,Beginner,Endurance,Push Ups
+22.1,Male,38,Intermediate,Fat Loss,Burpees
+19.3,Male,49,Advanced,Strength,Machine Leg Extension
+27.1,Female,47,Intermediate,Strength,Bench Press
+17.9,Female,54,Intermediate,Endurance,Air Squats
+32.1,Female,50,Advanced,Fat Loss,Elliptical Trainer
+34.5,Male,18,Intermediate,Fat Loss,Jumping Jacks
+32.8,Female,25,Intermediate,Strength,Barbell Squat
+30.1,Male,48,Intermediate,Fat Loss,Jumping Jacks
+17.8,Male,37,Beginner,Flexibility,Shoulder Pass-Throughs
+28.8,Male,50,Intermediate,Endurance,Air Squats
+20.0,Male,57,Beginner,Strength,Pull Ups

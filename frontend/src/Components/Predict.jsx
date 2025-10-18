@@ -27,7 +27,6 @@ const Predict = () => {
     const calculatedBMI = (formData.Weight / (heightInM * heightInM)).toFixed(1);
     setBmi(calculatedBMI);
 
-    // Create payload with correct attribute names
     const payload = {
       BMI: calculatedBMI,
       Gender: formData.Gender,

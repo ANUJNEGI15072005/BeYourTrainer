@@ -2,7 +2,6 @@ import pickle
 import pandas as pd
 from model.exercise_mapper import filter_exercises
 
-# Load model
 with open("model/exercise_model.pkl", "rb") as f:
     data = pickle.load(f)
 
@@ -22,15 +21,12 @@ def predict_exercises(input_dict, debug=False):
     pred = model.predict(X)
     predicted_exercise = target_encoder.inverse_transform(pred)[0]
 
-    # Debug: print predicted exercise from model
     if debug:
         print("Predicted exercise by model:", predicted_exercise)
 
     equipment = input_dict.get("Equipment_Available", "Bodyweight")
     exercises = filter_exercises(predicted_exercise, equipment)
 
-    # Debug: print filtered list
     if debug:
         print("Filtered exercises for equipment:", exercises)
-
     return {"exercises": exercises}

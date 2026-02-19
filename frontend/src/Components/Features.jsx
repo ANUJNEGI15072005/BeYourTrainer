@@ -36,14 +36,12 @@ const Features = () => {
               key={idx}
               className="h-64 rounded-lg shadow-lg overflow-hidden relative border-2 border-white"
             >
-              {/* Feature Image */}
               <img
                 src={feature.imageUrl}
                 alt={feature.title}
                 className="w-full h-full object-cover opacity-90"
               />
 
-              {/* Title overlay */}
               <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-40">
                 <h3 className="text-white font-poppins text-2xl font-bold text-center px-4">
                   {feature.title}

@@ -22,7 +22,6 @@ const Predict = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // Calculate BMI
     const heightInM = formData.Height / 100;
     const calculatedBMI = (formData.Weight / (heightInM * heightInM)).toFixed(1);
     setBmi(calculatedBMI);
@@ -38,13 +37,14 @@ const Predict = () => {
 
     try {
       setLoading(true);
-      const response = await fetch("https://beyourtrainer.onrender.com/predict", {
+      const response = await fetch("http://127.0.0.1:8000/predict", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
       });
 
       const data = await response.json();
+      console.log("Prediction response:", data);
       setExercises(data.exercises || []);
     } catch (error) {
       console.error("Error fetching prediction:", error);
@@ -76,7 +76,6 @@ const Predict = () => {
           onSubmit={handleSubmit}
           className="grid grid-cols-1 md:grid-cols-2 gap-6"
         >
-          {/* Gender */}
           <div>
             <label className="block text-gray-700 font-medium mb-2">Gender</label>
             <select
@@ -92,7 +91,6 @@ const Predict = () => {
             </select>
           </div>
 
-          {/* Age */}
           <div>
             <label className="block text-gray-700 font-medium mb-2">Age</label>
             <input
@@ -105,7 +103,6 @@ const Predict = () => {
             />
           </div>
 
-          {/* Fitness Level */}
           <div>
             <label className="block text-gray-700 font-medium mb-2">
               Fitness Level
@@ -124,7 +121,6 @@ const Predict = () => {
             </select>
           </div>
 
-          {/* Goal */}
           <div>
             <label className="block text-gray-700 font-medium mb-2">Goal</label>
             <select
@@ -142,7 +138,6 @@ const Predict = () => {
             </select>
           </div>
 
-          {/* Equipment */}
           <div>
             <label className="block text-gray-700 font-medium mb-2">
               Equipment Available
@@ -165,7 +160,6 @@ const Predict = () => {
             </select>
           </div>
 
-          {/* Height */}
           <div>
             <label className="block text-gray-700 font-medium mb-2">
               Height (cm)
@@ -180,7 +174,6 @@ const Predict = () => {
             />
           </div>
 
-          {/* Weight */}
           <div className="md:col-span-2">
             <label className="block text-gray-700 font-medium mb-2">
               Weight (kg)
@@ -195,7 +188,6 @@ const Predict = () => {
             />
           </div>
 
-          {/* Submit Button */}
           <div className="md:col-span-2 text-center">
             <button
               type="submit"
@@ -206,14 +198,12 @@ const Predict = () => {
           </div>
         </form>
 
-        {/* BMI Display */}
         {bmi && (
           <p className="text-center text-lg mt-6 font-medium text-gray-700">
             Your BMI: <span className="font-bold">{bmi}</span>
           </p>
         )}
 
-        {/* Result Table */}
         {exercises.length > 0 && (
           <div className="mt-8 overflow-x-auto">
             <table className="min-w-full bg-white border border-gray-300">

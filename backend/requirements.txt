@@ -6,3 +6,4 @@ reportlab
 python-dotenv
 PyPDF2
 uvicorn
+fastapi

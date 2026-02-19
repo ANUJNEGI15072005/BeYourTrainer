@@ -1,0 +1,7 @@
+Flask
+flask-cors
+pandas
+requests
+reportlab
+python-dotenv
+PyPDF2
